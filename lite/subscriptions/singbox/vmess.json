@@ -109,10 +109,11 @@
                 "🇫🇷FR | vmess | @v2ray_outlineir | 0",
                 "🇺🇸US | vmess | @mftizi | 18",
                 "🇨🇦CA | vmess | @V2rayng_Fast | 0",
+                "🇨🇦CA | vmess | @proxyymeliii | 16",
                 "🇳🇱NL | vmess | @Cov2ray | 0",
                 "🇺🇸US | vmess | @v2Line | 6",
-                "🇷🇺RU | vmess | @forwardv2ray | 18",
-                "🇫🇷FR | vmess | @eliya_chiter0 | 5"
+                "🇳🇱NL | vmess | @forwardv2ray | 3",
+                "🇨🇦CA | vmess | @eliya_chiter0 | 2"
             ]
         },
         {
@@ -122,10 +123,11 @@
                 "🇫🇷FR | vmess | @v2ray_outlineir | 0",
                 "🇺🇸US | vmess | @mftizi | 18",
                 "🇨🇦CA | vmess | @V2rayng_Fast | 0",
+                "🇨🇦CA | vmess | @proxyymeliii | 16",
                 "🇳🇱NL | vmess | @Cov2ray | 0",
                 "🇺🇸US | vmess | @v2Line | 6",
-                "🇷🇺RU | vmess | @forwardv2ray | 18",
-                "🇫🇷FR | vmess | @eliya_chiter0 | 5"
+                "🇳🇱NL | vmess | @forwardv2ray | 3",
+                "🇨🇦CA | vmess | @eliya_chiter0 | 2"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -206,6 +208,30 @@
             }
         },
         {
+            "tag": "🇨🇦CA | vmess | @proxyymeliii | 16",
+            "type": "vmess",
+            "server": "23.227.38.135",
+            "server_port": 2086,
+            "uuid": "49dd3dfb-eda0-4dde-d636-35b846a71a5c",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": ""
+                }
+            }
+        },
+        {
             "tag": "🇳🇱NL | vmess | @Cov2ray | 0",
             "type": "vmess",
             "server": "188.114.96.11",
@@ -254,11 +280,11 @@
             }
         },
         {
-            "tag": "🇷🇺RU | vmess | @forwardv2ray | 18",
+            "tag": "🇳🇱NL | vmess | @forwardv2ray | 3",
             "type": "vmess",
-            "server": "147.45.76.222",
-            "server_port": 8081,
-            "uuid": "ef5f443e-d259-46f1-872a-92bd4ee78962",
+            "server": "188.114.97.7",
+            "server_port": 443,
+            "uuid": "08bd7569-6f16-4e54-a340-bf1919d32cf5",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -268,14 +294,31 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "kansas.gafn.online",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/speedtest",
+                "headers": {
+                    "Host": "kansas.gafn.online"
+                }
             }
         },
         {
-            "tag": "🇫🇷FR | vmess | @eliya_chiter0 | 5",
+            "tag": "🇨🇦CA | vmess | @eliya_chiter0 | 2",
             "type": "vmess",
-            "server": "zxgold.saatbazar.com",
-            "server_port": 46023,
-            "uuid": "a6d2798c-45ff-4a1d-d82f-929b7bf1707b",
+            "server": "nelly.homes",
+            "server_port": 443,
+            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -285,6 +328,23 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "nelly.homes",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/linkvws",
+                "headers": {
+                    "Host": "nelly.homes"
+                }
             }
         }
     ],
