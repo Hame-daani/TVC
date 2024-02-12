@@ -110,8 +110,8 @@
                 "🇺🇸US | vmess | @mftizi | 18",
                 "🇨🇦CA | vmess | @V2rayng_Fast | 0",
                 "🇳🇱NL | vmess | @Cov2ray | 0",
-                "🇮🇷IR | vmess | @ConfigsHUB | 17",
                 "🇺🇸US | vmess | @v2Line | 6",
+                "🇷🇺RU | vmess | @forwardv2ray | 18",
                 "🇫🇷FR | vmess | @eliya_chiter0 | 5"
             ]
         },
@@ -123,8 +123,8 @@
                 "🇺🇸US | vmess | @mftizi | 18",
                 "🇨🇦CA | vmess | @V2rayng_Fast | 0",
                 "🇳🇱NL | vmess | @Cov2ray | 0",
-                "🇮🇷IR | vmess | @ConfigsHUB | 17",
                 "🇺🇸US | vmess | @v2Line | 6",
+                "🇷🇺RU | vmess | @forwardv2ray | 18",
                 "🇫🇷FR | vmess | @eliya_chiter0 | 5"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -230,23 +230,6 @@
             }
         },
         {
-            "tag": "🇮🇷IR | vmess | @ConfigsHUB | 17",
-            "type": "vmess",
-            "server": "185.83.183.243",
-            "server_port": 18551,
-            "uuid": "00673244-370a-4207-db40-430f88d20f57",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
             "tag": "🇺🇸US | vmess | @v2Line | 6",
             "type": "vmess",
             "server": "v2line.telegram.channel.1390.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou",
@@ -268,6 +251,23 @@
                 "headers": {
                     "Host": "ca2.xv2ray.net"
                 }
+            }
+        },
+        {
+            "tag": "🇷🇺RU | vmess | @forwardv2ray | 18",
+            "type": "vmess",
+            "server": "147.45.76.222",
+            "server_port": 8081,
+            "uuid": "ef5f443e-d259-46f1-872a-92bd4ee78962",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
             }
         },
         {
