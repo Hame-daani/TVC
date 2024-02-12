@@ -9,15 +9,6 @@ trojan://telegram-id-directvpn@51.21.72.35:22222?security=tls&alpn=http/1.1&head
 trojan://telegram-id-directvpn@51.21.37.118:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇸🇪SE | trojan | @DirectVPN | 14
 trojan://telegram-id-directvpn@51.21.138.143:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇸🇪SE | trojan | @DirectVPN | 15
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRNUNFaWViU3VTbDJxRmtmRTR6dEcy@45.8.147.80:5741#🇸🇪SE | ss | @OutlineVpnOfficial | 3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1alhJOXdnd2k1bm9tQkwxY1BjR3FBNzRCRG95cFlnV3FiOUxBUS9KbThjPQ==@13.60.17.128:8080#🇸🇪SE | ss | @forwardv2ray | 3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToveS92UGM4bWlEYVprM2Jva0dzRFdxSURzOHBBVStWamJ2NDZqSXdSQTF3PQ==@16.170.226.62:8080#🇸🇪SE | ss | @forwardv2ray | 4
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkTExKWStuYVRFdGlyWjdURkRHUVg0NzExbytKT0pJZ1NJQ0Y4UCswZENNPQ==@13.60.13.70:8080#🇸🇪SE | ss | @forwardv2ray | 5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTovSEkwOFA2ejdmc1UzYUhhVVVNdVhpbHJ0RVpLNlVwSTBWSVBqMVYreXRFPQ==@13.53.174.55:8080#🇸🇪SE | ss | @forwardv2ray | 6
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXcXc0bUc5R1JZR1hUTlMyQ2o4SEx5NUk5MmRhUUZEckM5aENpMUhYcnM4PQ==@13.60.35.149:8080#🇸🇪SE | ss | @forwardv2ray | 7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWdmUrWmZySk9jTG1qKys4aU1qbWtrUXFNQmtra0IwaUZRcmZvWGtLYndVPQ==@16.171.129.203:8080#🇸🇪SE | ss | @forwardv2ray | 8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRL0JLWUNjTTg3bVpmSlhkQnJlMkFFTC94Mk9aVXczK2dyK3FoeldYMjBnPQ==@13.53.129.94:8080#🇸🇪SE | ss | @forwardv2ray | 9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTovV1FHOFpvQnhJU3A3YWpOV3JzMEVtclZqOTZaUVo3NVFlU1lnSTAycHg0PQ==@13.60.34.111:8080#🇸🇪SE | ss | @forwardv2ray | 10
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozOGw0K3lnR3lVMlkwQTVza0FlaHdPL1lYaUM5RHJVZG5aOGtxcVZ3NFJnPQ==@13.60.34.118:8080#🇸🇪SE | ss | @forwardv2ray | 11
 vless://301f8cad-a218-4283-90b9-b7010be8a5ae@13.53.143.191:80?encryption=none&security=none&type=grpc&serviceName=kiava&mode=multi#🇸🇪SE | vless | @kiava | 0
 vless://b62cd027-8773-48b8-b283-e4592e767417@16.170.228.182:80?encryption=none&security=none&type=ws&host=googleapis.com&path=/?ed=2048#🇸🇪SE | vless | @kiava | 1
 vless://e7d3e8b2-7470-4ad2-9063-e0dfecb7a92b@13.53.71.181:80?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=chrome&pbk=71hRMNYTTn6cHxUzoQVeHaV2iIRq-A_zjSzDS0N2F2w&sid=71d36706&spx=/&type=tcp&headerType=none#🇸🇪SE | vless | @kiava | 2
@@ -30,5 +21,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxLzNESm9CMnJZemFCUEtRQ0xsL3JjWFRqMnZHVEw4aG8
 vless://282bed58-1451-419f-a5b3-ed6f65ab8850@185.139.228.13:2083?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.speedtest.net&fp=chrome&security=reality&pbk=x-Zv8k40O3rJ8sjJknVpimNI4dhEk3WRCyKeRb5NeEU&sid=b756e372b9623b22#🇸🇪SE | vless | @freeconfigv2 | 1
 vless://b62cd027-8773-48b8-b283-e4592e767417@16.170.228.182:80?encryption=none&security=none&type=ws&host=googleapis.com&path=/?ed=2048#🇸🇪SE | vless | @IBv2ray | 0
 vless://e7d3e8b2-7470-4ad2-9063-e0dfecb7a92b@13.53.71.181:80?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=chrome&pbk=71hRMNYTTn6cHxUzoQVeHaV2iIRq-A_zjSzDS0N2F2w&sid=71d36706&spx=/&type=tcp&headerType=none#🇸🇪SE | vless | @IBv2ray | 2
-hy2://4a52c165e81fa8fc@70.34.213.123:443?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=a16d0be0#🇸🇪SE | hy2 | @TUICity | 56
-tuic://87bc1693-8860-41d7-acf4-e6edf49abbbb:crivAv10hAdr-fop4Lne@70.34.197.98:443?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1&allow_insecure=1#🇸🇪SE | tuic | @TUICity | 64
+hy2://4a52c165e81fa8fc@70.34.213.123:443?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=a16d0be0#🇸🇪SE | hy2 | @TUICity | 43
+tuic://87bc1693-8860-41d7-acf4-e6edf49abbbb:crivAv10hAdr-fop4Lne@70.34.197.98:443?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1&allow_insecure=1#🇸🇪SE | tuic | @TUICity | 51

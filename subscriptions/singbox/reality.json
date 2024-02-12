@@ -121,21 +121,21 @@
                 "🇫🇮FI | vless | @ipV2Ray | 16",
                 "🏳️XX | vless | @frev2ray | 0",
                 "🏳️XX | vless | @frev2ray | 1",
-                "🇫🇮FI | vless | @ARv2ray | 7",
+                "🇫🇮FI | vless | @ARv2ray | 8",
                 "🇩🇪DE | vless | @CUSTOMVPNSERVER | 2",
                 "🇩🇪DE | vless | @CUSTOMVPNSERVER | 5",
                 "🇫🇮FI | vless | @CUSTOMVPNSERVER | 6",
                 "🇩🇪DE | vless | @CUSTOMVPNSERVER | 9",
                 "🇫🇷FR | vless | @CUSTOMVPNSERVER | 10",
                 "🏳️XX | vless | @v2logy | 5",
-                "🇹🇷TR | vless | @V2rayCollectorDonate | 6",
+                "🇹🇷TR | vless | @V2rayCollectorDonate | 7",
                 "🇩🇪DE | vless | @FalconPolV2rayNG | 4",
                 "🇩🇪DE | vless | @v2ray_swhil | 8",
                 "🇬🇧GB | vless | @v2ray_swhil | 10",
                 "🇷🇴RO | vless | @proxyymeliii | 20",
                 "🇩🇪DE | vless | @v2ray1_ng | 1",
                 "🇩🇪DE | vless | @DailyV2RY | 138",
-                "🇩🇪DE | vless | @ConfigsHUB | 4",
+                "🇩🇪DE | vless | @ConfigsHUB | 15",
                 "🇬🇧GB | vless | @Capital_NET | 27",
                 "🇩🇪DE | vless | @Capital_NET | 28",
                 "🇩🇪DE | vless | @Capital_NET | 29",
@@ -146,7 +146,7 @@
                 "🏳️XX | vless | @Capital_NET | 37",
                 "🇩🇪DE | vless | @Capital_NET | 38",
                 "🏳️XX | vless | @Capital_NET | 39",
-                "🇺🇸US | vless | @mehrosaboran | 7",
+                "🇺🇸US | vless | @mehrosaboran | 8",
                 "🇸🇪SE | vless | @kiava | 2",
                 "🇸🇪SE | vless | @kiava | 3",
                 "🇸🇪SE | vless | @kiava | 7",
@@ -196,21 +196,21 @@
                 "🇫🇮FI | vless | @ipV2Ray | 16",
                 "🏳️XX | vless | @frev2ray | 0",
                 "🏳️XX | vless | @frev2ray | 1",
-                "🇫🇮FI | vless | @ARv2ray | 7",
+                "🇫🇮FI | vless | @ARv2ray | 8",
                 "🇩🇪DE | vless | @CUSTOMVPNSERVER | 2",
                 "🇩🇪DE | vless | @CUSTOMVPNSERVER | 5",
                 "🇫🇮FI | vless | @CUSTOMVPNSERVER | 6",
                 "🇩🇪DE | vless | @CUSTOMVPNSERVER | 9",
                 "🇫🇷FR | vless | @CUSTOMVPNSERVER | 10",
                 "🏳️XX | vless | @v2logy | 5",
-                "🇹🇷TR | vless | @V2rayCollectorDonate | 6",
+                "🇹🇷TR | vless | @V2rayCollectorDonate | 7",
                 "🇩🇪DE | vless | @FalconPolV2rayNG | 4",
                 "🇩🇪DE | vless | @v2ray_swhil | 8",
                 "🇬🇧GB | vless | @v2ray_swhil | 10",
                 "🇷🇴RO | vless | @proxyymeliii | 20",
                 "🇩🇪DE | vless | @v2ray1_ng | 1",
                 "🇩🇪DE | vless | @DailyV2RY | 138",
-                "🇩🇪DE | vless | @ConfigsHUB | 4",
+                "🇩🇪DE | vless | @ConfigsHUB | 15",
                 "🇬🇧GB | vless | @Capital_NET | 27",
                 "🇩🇪DE | vless | @Capital_NET | 28",
                 "🇩🇪DE | vless | @Capital_NET | 29",
@@ -221,7 +221,7 @@
                 "🏳️XX | vless | @Capital_NET | 37",
                 "🇩🇪DE | vless | @Capital_NET | 38",
                 "🏳️XX | vless | @Capital_NET | 39",
-                "🇺🇸US | vless | @mehrosaboran | 7",
+                "🇺🇸US | vless | @mehrosaboran | 8",
                 "🇸🇪SE | vless | @kiava | 2",
                 "🇸🇪SE | vless | @kiava | 3",
                 "🇸🇪SE | vless | @kiava | 7",
@@ -805,7 +805,7 @@
             }
         },
         {
-            "tag": "🇫🇮FI | vless | @ARv2ray | 7",
+            "tag": "🇫🇮FI | vless | @ARv2ray | 8",
             "type": "vless",
             "server": "37.27.7.241",
             "server_port": 443,
@@ -1022,7 +1022,7 @@
             }
         },
         {
-            "tag": "🇹🇷TR | vless | @V2rayCollectorDonate | 6",
+            "tag": "🇹🇷TR | vless | @V2rayCollectorDonate | 7",
             "type": "vless",
             "server": "193.124.46.68",
             "server_port": 443,
@@ -1267,11 +1267,11 @@
             }
         },
         {
-            "tag": "🇩🇪DE | vless | @ConfigsHUB | 4",
+            "tag": "🇩🇪DE | vless | @ConfigsHUB | 15",
             "type": "vless",
-            "server": "5.75.192.194",
-            "server_port": 443,
-            "uuid": "0acf46b6-fc2b-4f73-a936-81285f5ed7e4",
+            "server": "128.140.97.199",
+            "server_port": 52606,
+            "uuid": "bbcac1db-e11c-4e8e-8421-442b910d2231",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1281,7 +1281,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "www.zula.ir",
+                "server_name": "sourceforge.net",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1290,8 +1290,8 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "tVVmkXcGLwT2v9vc-m2388mc7z6J8GDyy8gYUe1MhV4",
-                    "short_id": "d035a4e345793f9b"
+                    "public_key": "oC_KW2uWbqYBPZ33Ywhkr0N-n2rYDecWwQj87asCl2Y",
+                    "short_id": "f6159ff1"
                 }
             }
         },
@@ -1593,7 +1593,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | vless | @mehrosaboran | 7",
+            "tag": "🇺🇸US | vless | @mehrosaboran | 8",
             "type": "vless",
             "server": "5.78.83.110",
             "server_port": 25365,
