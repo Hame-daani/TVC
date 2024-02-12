@@ -108,8 +108,8 @@
                 "URL-TEST",
                 "🇫🇮FI | vless | @ipV2Ray | 16",
                 "🏳️XX | vless | @frev2ray | 1",
+                "🇬🇧GB | vless | @v2ray_swhil | 21",
                 "🇷🇴RO | vless | @proxyymeliii | 21",
-                "🇺🇸US | vless | @forwardv2ray | 15",
                 "🇸🇪SE | vless | @kiava | 8",
                 "🏳️XX | vless | @vpn_go67 | 23",
                 "🇬🇧GB | vless | @FoXrayIran | 4",
@@ -122,8 +122,8 @@
             "outbounds": [
                 "🇫🇮FI | vless | @ipV2Ray | 16",
                 "🏳️XX | vless | @frev2ray | 1",
+                "🇬🇧GB | vless | @v2ray_swhil | 21",
                 "🇷🇴RO | vless | @proxyymeliii | 21",
-                "🇺🇸US | vless | @forwardv2ray | 15",
                 "🇸🇪SE | vless | @kiava | 8",
                 "🏳️XX | vless | @vpn_go67 | 23",
                 "🇬🇧GB | vless | @FoXrayIran | 4",
@@ -222,6 +222,42 @@
             }
         },
         {
+            "tag": "🇬🇧GB | vless | @v2ray_swhil | 21",
+            "type": "vless",
+            "server": "England.kamimiller.top",
+            "server_port": 8443,
+            "uuid": "fafcd6a9-07b2-4185-a4e8-a2e5abf8035c",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "sourceforge.net",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
+                    "short_id": ""
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "Telegram:@Titaniom_Official,@Titaniom_Official,@Titaniom_Official,@Titaniom_Official,@Titaniom_Official,@Titaniom_Official,@Titaniom_Official,@Titaniom_Official,@Titaniom_Official,@Titaniom_Official,@Titaniom_Official",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
+            }
+        },
+        {
             "tag": "🇷🇴RO | vless | @proxyymeliii | 21",
             "type": "vless",
             "server": "188.241.240.230",
@@ -252,42 +288,6 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "www.speedtest.org",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
-            }
-        },
-        {
-            "tag": "🇺🇸US | vless | @forwardv2ray | 15",
-            "type": "vless",
-            "server": "usa.mmdgogoli.top",
-            "server_port": 2096,
-            "uuid": "fafcd6a9-07b2-4185-a4e8-a2e5abf8035c",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "sourceforge.net",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
-                    "short_id": ""
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "Telegram:@Titaniom_Official,@Titaniom_Official,@Titaniom_Official,@Titaniom_Official,@Titaniom_Official,@Titaniom_Official,@Titaniom_Official,@Titaniom_Official,@Titaniom_Official,@Titaniom_Official,@Titaniom_Official",
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
