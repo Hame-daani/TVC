@@ -111,7 +111,7 @@
                 "🏳️XX | vless | @V2rayCollector | 0",
                 "🇬🇧GB | vless | @v2ray_swhil | 21",
                 "🇷🇴RO | vless | @proxyymeliii | 21",
-                "🇳🇱NL | vless | @flyv2ray | 13",
+                "🇩🇪DE | vless | @flyv2ray | 12",
                 "🇸🇪SE | vless | @kiava | 8",
                 "🏳️XX | vless | @vpn_go67 | 23",
                 "🇬🇧GB | vless | @FoXrayIran | 4",
@@ -127,7 +127,7 @@
                 "🏳️XX | vless | @V2rayCollector | 0",
                 "🇬🇧GB | vless | @v2ray_swhil | 21",
                 "🇷🇴RO | vless | @proxyymeliii | 21",
-                "🇳🇱NL | vless | @flyv2ray | 13",
+                "🇩🇪DE | vless | @flyv2ray | 12",
                 "🇸🇪SE | vless | @kiava | 8",
                 "🏳️XX | vless | @vpn_go67 | 23",
                 "🇬🇧GB | vless | @FoXrayIran | 4",
@@ -334,11 +334,11 @@
             }
         },
         {
-            "tag": "🇳🇱NL | vless | @flyv2ray | 13",
+            "tag": "🇩🇪DE | vless | @flyv2ray | 12",
             "type": "vless",
-            "server": "152.42.132.236",
+            "server": "104.248.134.5",
             "server_port": 443,
-            "uuid": "b73ed8b6-40d2-41cb-ae36-2d00d7eaa1dd",
+            "uuid": "cbe86cff-48ff-44ca-949b-3f6e4c03e41e",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -348,7 +348,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "feat.agency",
+                "server_name": "dnschecker.org",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -357,8 +357,8 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "eS374Xks1P-TLKV_pNaRPJNZfQKrMTLFvacPWPGVlFw",
-                    "short_id": "e14a3c0d"
+                    "public_key": "4pwFpFNcO_oJRC40e3xHZrKYnSsF-xTbcgTyEi4Jqz8",
+                    "short_id": "18ee56a6"
                 }
             },
             "transport": {
