@@ -106,7 +106,7 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇺🇸US | ss | @DeamNet_Proxy | 7",
+                "🇺🇸US | ss | @DeamNet_Proxy | 15",
                 "🇷🇺RU | ss | @VmessProtocol | 8",
                 "🇺🇸US | ss | @VmessProtocol | 10",
                 "🇬🇧GB | ss | @VmessProtocol | 12",
@@ -126,11 +126,11 @@
                 "🇦🇹AT | ss | @OutlineVpnOfficial | 15",
                 "🇺🇸US | ss | @OutlineVpnOfficial | 16",
                 "🇺🇸US | ss | @OutlineVpnOfficial | 17",
-                "🇬🇧GB | ss | @forwardv2ray | 9",
-                "🇺🇸US | ss | @proxy_mtm | 8",
+                "🇺🇸US | ss | @forwardv2ray | 8",
+                "🇬🇧GB | ss | @forwardv2ray | 13",
+                "🇬🇧GB | ss | @forwardv2ray | 16",
                 "🇸🇪SE | ss | @kingofilter | 0",
                 "🇸🇪SE | ss | @kingofilter | 9",
-                "🇺🇸US | ss | @ROMAX_VPN | 0",
                 "🇬🇧GB | ss | @ROMAX_VPN | 1",
                 "🇬🇧GB | ss | @ROMAX_VPN | 2"
             ]
@@ -139,7 +139,7 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇺🇸US | ss | @DeamNet_Proxy | 7",
+                "🇺🇸US | ss | @DeamNet_Proxy | 15",
                 "🇷🇺RU | ss | @VmessProtocol | 8",
                 "🇺🇸US | ss | @VmessProtocol | 10",
                 "🇬🇧GB | ss | @VmessProtocol | 12",
@@ -159,11 +159,11 @@
                 "🇦🇹AT | ss | @OutlineVpnOfficial | 15",
                 "🇺🇸US | ss | @OutlineVpnOfficial | 16",
                 "🇺🇸US | ss | @OutlineVpnOfficial | 17",
-                "🇬🇧GB | ss | @forwardv2ray | 9",
-                "🇺🇸US | ss | @proxy_mtm | 8",
+                "🇺🇸US | ss | @forwardv2ray | 8",
+                "🇬🇧GB | ss | @forwardv2ray | 13",
+                "🇬🇧GB | ss | @forwardv2ray | 16",
                 "🇸🇪SE | ss | @kingofilter | 0",
                 "🇸🇪SE | ss | @kingofilter | 9",
-                "🇺🇸US | ss | @ROMAX_VPN | 0",
                 "🇬🇧GB | ss | @ROMAX_VPN | 1",
                 "🇬🇧GB | ss | @ROMAX_VPN | 2"
             ],
@@ -188,7 +188,7 @@
             "type": "dns"
         },
         {
-            "tag": "🇺🇸US | ss | @DeamNet_Proxy | 7",
+            "tag": "🇺🇸US | ss | @DeamNet_Proxy | 15",
             "type": "shadowsocks",
             "server": "38.75.137.66",
             "server_port": 5004,
@@ -388,7 +388,17 @@
             "plugin_opts": ""
         },
         {
-            "tag": "🇬🇧GB | ss | @forwardv2ray | 9",
+            "tag": "🇺🇸US | ss | @forwardv2ray | 8",
+            "type": "shadowsocks",
+            "server": "45.8.146.32",
+            "server_port": 50370,
+            "method": "chacha20-ietf-poly1305",
+            "password": "4sZ69FNmAPosCBiD6MUryB",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "🇬🇧GB | ss | @forwardv2ray | 13",
             "type": "shadowsocks",
             "server": "series-a2.samanehha.co",
             "server_port": 443,
@@ -398,12 +408,12 @@
             "plugin_opts": ""
         },
         {
-            "tag": "🇺🇸US | ss | @proxy_mtm | 8",
+            "tag": "🇬🇧GB | ss | @forwardv2ray | 16",
             "type": "shadowsocks",
-            "server": "beacomf.xyz",
-            "server_port": 8080,
+            "server": "18.171.94.33",
+            "server_port": 443,
             "method": "chacha20-ietf-poly1305",
-            "password": "T1pb7XxxrolvPSb0u2xSOA",
+            "password": "hBEBjXU6Sk0UK4T6",
             "plugin": "",
             "plugin_opts": ""
         },
@@ -424,16 +434,6 @@
             "server_port": 8080,
             "method": "chacha20-ietf-poly1305",
             "password": "q\/3DJoB2rYzaBPKQCLl\/rcXTj2vGTL8ho0KyW7swEW8=",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "🇺🇸US | ss | @ROMAX_VPN | 0",
-            "type": "shadowsocks",
-            "server": "45.8.146.32",
-            "server_port": 50370,
-            "method": "chacha20-ietf-poly1305",
-            "password": "4sZ69FNmAPosCBiD6MUryB",
             "plugin": "",
             "plugin_opts": ""
         },
