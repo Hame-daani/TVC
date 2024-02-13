@@ -135,9 +135,9 @@
                 "🇩🇪DE | vless | @v2ray_swhil | 5",
                 "🇬🇧GB | vless | @v2ray_swhil | 7",
                 "🇷🇴RO | vless | @proxyymeliii | 20",
-                "🏳️XX | vless | @V2RayTz | 0",
-                "🇳🇱NL | vless | @V2RayTz | 1",
-                "🇩🇪DE | vless | @V2RayTz | 2",
+                "🏳️XX | vless | @V2RayTz | 3",
+                "🇳🇱NL | vless | @V2RayTz | 4",
+                "🇩🇪DE | vless | @V2RayTz | 5",
                 "🇬🇧GB | vless | @Capital_NET | 27",
                 "🇩🇪DE | vless | @Capital_NET | 28",
                 "🇩🇪DE | vless | @Capital_NET | 29",
@@ -211,9 +211,9 @@
                 "🇩🇪DE | vless | @v2ray_swhil | 5",
                 "🇬🇧GB | vless | @v2ray_swhil | 7",
                 "🇷🇴RO | vless | @proxyymeliii | 20",
-                "🏳️XX | vless | @V2RayTz | 0",
-                "🇳🇱NL | vless | @V2RayTz | 1",
-                "🇩🇪DE | vless | @V2RayTz | 2",
+                "🏳️XX | vless | @V2RayTz | 3",
+                "🇳🇱NL | vless | @V2RayTz | 4",
+                "🇩🇪DE | vless | @V2RayTz | 5",
                 "🇬🇧GB | vless | @Capital_NET | 27",
                 "🇩🇪DE | vless | @Capital_NET | 28",
                 "🇩🇪DE | vless | @Capital_NET | 29",
@@ -1269,7 +1269,7 @@
             }
         },
         {
-            "tag": "🏳️XX | vless | @V2RayTz | 0",
+            "tag": "🏳️XX | vless | @V2RayTz | 3",
             "type": "vless",
             "server": "join-v2raytz.v2raytz.sbs",
             "server_port": 443,
@@ -1305,7 +1305,7 @@
             }
         },
         {
-            "tag": "🇳🇱NL | vless | @V2RayTz | 1",
+            "tag": "🇳🇱NL | vless | @V2RayTz | 4",
             "type": "vless",
             "server": "152.42.140.102",
             "server_port": 443,
@@ -1341,7 +1341,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | vless | @V2RayTz | 2",
+            "tag": "🇩🇪DE | vless | @V2RayTz | 5",
             "type": "vless",
             "server": "195.201.91.198",
             "server_port": 443,

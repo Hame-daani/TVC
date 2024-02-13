@@ -128,7 +128,7 @@
                 "🇦🇹AT | ss | @OutlineVpnOfficial | 15",
                 "🇺🇸US | ss | @OutlineVpnOfficial | 16",
                 "🇺🇸US | ss | @OutlineVpnOfficial | 17",
-                "🇸🇬SG | ss | @forwardv2ray | 17",
+                "🇬🇧GB | ss | @forwardv2ray | 19",
                 "🇺🇸US | ss | @proxy_mtm | 1",
                 "🇸🇪SE | ss | @kingofilter | 0",
                 "🇸🇪SE | ss | @kingofilter | 9",
@@ -163,7 +163,7 @@
                 "🇦🇹AT | ss | @OutlineVpnOfficial | 15",
                 "🇺🇸US | ss | @OutlineVpnOfficial | 16",
                 "🇺🇸US | ss | @OutlineVpnOfficial | 17",
-                "🇸🇬SG | ss | @forwardv2ray | 17",
+                "🇬🇧GB | ss | @forwardv2ray | 19",
                 "🇺🇸US | ss | @proxy_mtm | 1",
                 "🇸🇪SE | ss | @kingofilter | 0",
                 "🇸🇪SE | ss | @kingofilter | 9",
@@ -412,12 +412,12 @@
             "plugin_opts": ""
         },
         {
-            "tag": "🇸🇬SG | ss | @forwardv2ray | 17",
+            "tag": "🇬🇧GB | ss | @forwardv2ray | 19",
             "type": "shadowsocks",
-            "server": "188.166.229.30",
+            "server": "series-a2-me.samanehha.co",
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
-            "password": "WsiN47z2ODdOJHxNL7KuJZ",
+            "password": "Bog0ELmMM9DSxDdQ",
             "plugin": "",
             "plugin_opts": ""
         },
