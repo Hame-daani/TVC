@@ -135,7 +135,7 @@
                 "🇨🇦CA | vless | @prrofile_purple | 182",
                 "🇨🇦CA | vless | @customv2ray | 7",
                 "🇨🇦CA | vless | @UnlimitedDev | 6",
-                "🇺🇸US | vless | @vmessorg | 8",
+                "🏳️XX | vless | @vmessorg | 8",
                 "🇨🇦CA | vless | @v2rayNG_Matsuri | 8",
                 "🇳🇱NL | vless | @v2rayngvpn | 10",
                 "🇺🇸US | vless | @FalconPolV2rayNG | 10",
@@ -150,11 +150,11 @@
                 "🇳🇱NL | vmess | @Cov2ray | 0",
                 "🇨🇦CA | vless | @V2RayTz | 6",
                 "🇸🇬SG | vless | @VmessProtocol | 13",
-                "🇨🇦CA | vless | @DailyV2RY | 155",
+                "🇨🇦CA | vless | @DailyV2RY | 147",
                 "🇨🇦CA | vless | @sinabigo | 5",
-                "🇨🇦CA | vless | @lrnbymaa | 5",
+                "🏳️XX | vless | @lrnbymaa | 5",
                 "🇺🇸US | ss | @OutlineVpnOfficial | 17",
-                "🇨🇦CA | vless | @ConfigsHUB | 17",
+                "🇸🇪SE | trojan | @ConfigsHUB | 17",
                 "🇨🇦CA | vless | @proxystore11 | 15",
                 "🇨🇳CN | trojan | @yaney_01 | 7",
                 "🏳️XX | vmess | @Hope_Net | 1",
@@ -166,7 +166,7 @@
                 "🇨🇦CA | vless | @Capoit | 1",
                 "🇨🇦CA | vless | @IRN_VPN | 2",
                 "🇨🇦CA | vless | @flyv2ray | 11",
-                "🇨🇦CA | vmess | @forwardv2ray | 18",
+                "🇸🇪SE | ss | @forwardv2ray | 17",
                 "🏳️XX | vless | @FAKEOFTVC | 0",
                 "🇨🇦CA | vless | @https_config_injector | 12",
                 "🇨🇦CA | vless | @mehrosaboran | 19",
@@ -218,7 +218,7 @@
                 "🇨🇦CA | vless | @prrofile_purple | 182",
                 "🇨🇦CA | vless | @customv2ray | 7",
                 "🇨🇦CA | vless | @UnlimitedDev | 6",
-                "🇺🇸US | vless | @vmessorg | 8",
+                "🏳️XX | vless | @vmessorg | 8",
                 "🇨🇦CA | vless | @v2rayNG_Matsuri | 8",
                 "🇳🇱NL | vless | @v2rayngvpn | 10",
                 "🇺🇸US | vless | @FalconPolV2rayNG | 10",
@@ -233,11 +233,11 @@
                 "🇳🇱NL | vmess | @Cov2ray | 0",
                 "🇨🇦CA | vless | @V2RayTz | 6",
                 "🇸🇬SG | vless | @VmessProtocol | 13",
-                "🇨🇦CA | vless | @DailyV2RY | 155",
+                "🇨🇦CA | vless | @DailyV2RY | 147",
                 "🇨🇦CA | vless | @sinabigo | 5",
-                "🇨🇦CA | vless | @lrnbymaa | 5",
+                "🏳️XX | vless | @lrnbymaa | 5",
                 "🇺🇸US | ss | @OutlineVpnOfficial | 17",
-                "🇨🇦CA | vless | @ConfigsHUB | 17",
+                "🇸🇪SE | trojan | @ConfigsHUB | 17",
                 "🇨🇦CA | vless | @proxystore11 | 15",
                 "🇨🇳CN | trojan | @yaney_01 | 7",
                 "🏳️XX | vmess | @Hope_Net | 1",
@@ -249,7 +249,7 @@
                 "🇨🇦CA | vless | @Capoit | 1",
                 "🇨🇦CA | vless | @IRN_VPN | 2",
                 "🇨🇦CA | vless | @flyv2ray | 11",
-                "🇨🇦CA | vmess | @forwardv2ray | 18",
+                "🇸🇪SE | ss | @forwardv2ray | 17",
                 "🏳️XX | vless | @FAKEOFTVC | 0",
                 "🇨🇦CA | vless | @https_config_injector | 12",
                 "🇨🇦CA | vless | @mehrosaboran | 19",
@@ -1067,7 +1067,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | vless | @vmessorg | 8",
+            "tag": "🏳️XX | vless | @vmessorg | 8",
             "type": "vless",
             "server": "joinbede.vmessorg.online",
             "server_port": 8880,
@@ -1432,7 +1432,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | vless | @DailyV2RY | 155",
+            "tag": "🇨🇦CA | vless | @DailyV2RY | 147",
             "type": "vless",
             "server": "ip.aminivip2023.site",
             "server_port": 8443,
@@ -1494,7 +1494,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | vless | @lrnbymaa | 5",
+            "tag": "🏳️XX | vless | @lrnbymaa | 5",
             "type": "vless",
             "server": "donald.pydri.ir",
             "server_port": 8080,
@@ -1525,24 +1525,15 @@
             "plugin_opts": ""
         },
         {
-            "tag": "🇨🇦CA | vless | @ConfigsHUB | 17",
-            "type": "vless",
-            "server": "104.16.23.29",
-            "server_port": 2052,
-            "uuid": "fa5cdbf9-2540-4e9d-9e61-83e0a0d6a93f",
-            "flow": "",
-            "packet_encoding": "xudp",
+            "tag": "🇸🇪SE | trojan | @ConfigsHUB | 17",
+            "type": "trojan",
+            "server": "ru-full.privateip.net",
+            "server_port": 443,
+            "password": "a6711b97-5e8e-4e7d-8b42-845dd31c265b",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "104.16.23.29"
-                }
             }
         },
         {
@@ -1797,38 +1788,14 @@
             }
         },
         {
-            "tag": "🇨🇦CA | vmess | @forwardv2ray | 18",
-            "type": "vmess",
-            "server": "warp-sub.pages.dev",
-            "server_port": 2087,
-            "uuid": "06195b5b-3815-4a07-96f7-47eefbb1b143",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/urnxewzvh.site:443\/kwhmvws",
-                "headers": {
-                    "Host": ""
-                }
-            }
+            "tag": "🇸🇪SE | ss | @forwardv2ray | 17",
+            "type": "shadowsocks",
+            "server": "16.171.129.203",
+            "server_port": 8080,
+            "method": "chacha20-ietf-poly1305",
+            "password": "Vve+ZfrJOcLmj++8iMjmkkQqMBkkkB0iFQrfoXkKbwU=",
+            "plugin": "",
+            "plugin_opts": ""
         },
         {
             "tag": "🏳️XX | vless | @FAKEOFTVC | 0",

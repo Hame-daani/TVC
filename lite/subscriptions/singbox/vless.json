@@ -129,7 +129,7 @@
                 "🇨🇦CA | vless | @prrofile_purple | 182",
                 "🇨🇦CA | vless | @customv2ray | 7",
                 "🇨🇦CA | vless | @UnlimitedDev | 6",
-                "🇺🇸US | vless | @vmessorg | 8",
+                "🏳️XX | vless | @vmessorg | 8",
                 "🇨🇦CA | vless | @v2rayNG_Matsuri | 8",
                 "🇳🇱NL | vless | @v2rayngvpn | 10",
                 "🇺🇸US | vless | @FalconPolV2rayNG | 10",
@@ -141,10 +141,9 @@
                 "🇮🇷IR | vless | @vless_vmess | 7",
                 "🇨🇦CA | vless | @V2RayTz | 6",
                 "🇸🇬SG | vless | @VmessProtocol | 13",
-                "🇨🇦CA | vless | @DailyV2RY | 155",
+                "🇨🇦CA | vless | @DailyV2RY | 147",
                 "🇨🇦CA | vless | @sinabigo | 5",
-                "🇨🇦CA | vless | @lrnbymaa | 5",
-                "🇨🇦CA | vless | @ConfigsHUB | 17",
+                "🏳️XX | vless | @lrnbymaa | 5",
                 "🇨🇦CA | vless | @proxystore11 | 15",
                 "🇨🇦CA | vless | @polproxy | 11",
                 "🇨🇦CA | vless | @Outlinev2rayNG | 9",
@@ -195,7 +194,7 @@
                 "🇨🇦CA | vless | @prrofile_purple | 182",
                 "🇨🇦CA | vless | @customv2ray | 7",
                 "🇨🇦CA | vless | @UnlimitedDev | 6",
-                "🇺🇸US | vless | @vmessorg | 8",
+                "🏳️XX | vless | @vmessorg | 8",
                 "🇨🇦CA | vless | @v2rayNG_Matsuri | 8",
                 "🇳🇱NL | vless | @v2rayngvpn | 10",
                 "🇺🇸US | vless | @FalconPolV2rayNG | 10",
@@ -207,10 +206,9 @@
                 "🇮🇷IR | vless | @vless_vmess | 7",
                 "🇨🇦CA | vless | @V2RayTz | 6",
                 "🇸🇬SG | vless | @VmessProtocol | 13",
-                "🇨🇦CA | vless | @DailyV2RY | 155",
+                "🇨🇦CA | vless | @DailyV2RY | 147",
                 "🇨🇦CA | vless | @sinabigo | 5",
-                "🇨🇦CA | vless | @lrnbymaa | 5",
-                "🇨🇦CA | vless | @ConfigsHUB | 17",
+                "🏳️XX | vless | @lrnbymaa | 5",
                 "🇨🇦CA | vless | @proxystore11 | 15",
                 "🇨🇦CA | vless | @polproxy | 11",
                 "🇨🇦CA | vless | @Outlinev2rayNG | 9",
@@ -892,7 +890,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | vless | @vmessorg | 8",
+            "tag": "🏳️XX | vless | @vmessorg | 8",
             "type": "vless",
             "server": "joinbede.vmessorg.online",
             "server_port": 8880,
@@ -1192,7 +1190,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | vless | @DailyV2RY | 155",
+            "tag": "🇨🇦CA | vless | @DailyV2RY | 147",
             "type": "vless",
             "server": "ip.aminivip2023.site",
             "server_port": 8443,
@@ -1254,7 +1252,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | vless | @lrnbymaa | 5",
+            "tag": "🏳️XX | vless | @lrnbymaa | 5",
             "type": "vless",
             "server": "donald.pydri.ir",
             "server_port": 8080,
@@ -1271,27 +1269,6 @@
                 "path": "\/",
                 "headers": {
                     "Host": "donald.pydri.ir"
-                }
-            }
-        },
-        {
-            "tag": "🇨🇦CA | vless | @ConfigsHUB | 17",
-            "type": "vless",
-            "server": "104.16.23.29",
-            "server_port": 2052,
-            "uuid": "fa5cdbf9-2540-4e9d-9e61-83e0a0d6a93f",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "104.16.23.29"
                 }
             }
         },
