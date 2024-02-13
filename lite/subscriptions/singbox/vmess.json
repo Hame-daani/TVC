@@ -112,8 +112,9 @@
                 "🇳🇱NL | vmess | @oneclickvpnkeys | 8",
                 "🇨🇦CA | vmess | @V2rayng_Fast | 1",
                 "🇳🇱NL | vmess | @Cov2ray | 0",
-                "🇨🇦CA | vmess | @Hope_Net | 4",
+                "🇨🇦CA | vmess | @Hope_Net | 3",
                 "🇺🇸US | vmess | @v2Line | 6",
+                "🇳🇱NL | vmess | @forwardv2ray | 15",
                 "🇨🇦CA | vmess | @eliya_chiter0 | 2"
             ]
         },
@@ -127,8 +128,9 @@
                 "🇳🇱NL | vmess | @oneclickvpnkeys | 8",
                 "🇨🇦CA | vmess | @V2rayng_Fast | 1",
                 "🇳🇱NL | vmess | @Cov2ray | 0",
-                "🇨🇦CA | vmess | @Hope_Net | 4",
+                "🇨🇦CA | vmess | @Hope_Net | 3",
                 "🇺🇸US | vmess | @v2Line | 6",
+                "🇳🇱NL | vmess | @forwardv2ray | 15",
                 "🇨🇦CA | vmess | @eliya_chiter0 | 2"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -188,9 +190,9 @@
         {
             "tag": "🇺🇸US | vmess | @DeamNet_Proxy | 19",
             "type": "vmess",
-            "server": "162.251.62.115",
-            "server_port": 22324,
-            "uuid": "04621bae-ab36-11ec-b909-0242ac120002",
+            "server": "64.64.229.96",
+            "server_port": 80,
+            "uuid": "88816e0c-db97-486c-9029-9693d14e4c34",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -200,6 +202,13 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "64.64.229.96"
+                }
             }
         },
         {
@@ -285,7 +294,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | vmess | @Hope_Net | 4",
+            "tag": "🇨🇦CA | vmess | @Hope_Net | 3",
             "type": "vmess",
             "server": "172.66.45.41",
             "server_port": 2053,
@@ -339,6 +348,40 @@
                 "path": "\/vmess",
                 "headers": {
                     "Host": "ca2.xv2ray.net"
+                }
+            }
+        },
+        {
+            "tag": "🇳🇱NL | vmess | @forwardv2ray | 15",
+            "type": "vmess",
+            "server": "188.114.97.7",
+            "server_port": 443,
+            "uuid": "9e32d63e-27b9-411c-a21c-87aff85348c1",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "kansas.gafn.online",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/speedtest",
+                "headers": {
+                    "Host": "kansas.gafn.online"
                 }
             }
         },
