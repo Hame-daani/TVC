@@ -1446,8 +1446,8 @@
             "tag": "🇨🇷CR | vless | @mehrosaboran | 12",
             "type": "vless",
             "server": "190.93.247.155",
-            "server_port": 8880,
-            "uuid": "f79e51b8-66fa-4cf1-d21f-fe52f3df1209",
+            "server_port": 2083,
+            "uuid": "cef2b998-f3dd-4f07-c7d1-8fbf13b88511",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1455,12 +1455,22 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "transport": {
-                "type": "ws",
-                "path": "\/@LIGHTNING6, @LIGHTNING6",
-                "headers": {
-                    "Host": "190.93.247.155"
+            "tls": {
+                "enabled": true,
+                "server_name": "190.93.247.155",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
                 }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "@LIGHTNING6,",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
             }
         },
         {
