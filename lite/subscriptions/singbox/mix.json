@@ -122,13 +122,15 @@
                 "🇺🇸US | vless | @DigiV2ray | 17",
                 "🇩🇪DE | vless | @proxy_kafee | 1",
                 "🏳️XX | vless | @V2rayCollector | 2",
+                "🏳️XX | vless | @V2rayCollectorDonate | 19",
                 "🇨🇦CA | vless | @ProxyForOpeta | 1",
                 "🇨🇦CA | vless | @V2rayNGn | 32",
                 "🇫🇷FR | trojan | @PrivateVPNs | 18",
                 "🇨🇦CA | trojan | @DirectVPN | 18",
                 "🇫🇷FR | vmess | @v2ray_outlineir | 0",
                 "🇺🇸US | vmess | @mftizi | 18",
-                "🇳🇱NL | vmess | @oneclickvpnkeys | 8",
+                "🇳🇱NL | vmess | @oneclickvpnkeys | 9",
+                "🇨🇦CA | vless | @prrofile_purple | 170",
                 "🇨🇦CA | vless | @customv2ray | 9",
                 "🇨🇦CA | vless | @UnlimitedDev | 6",
                 "🏳️XX | vless | @vmessorg | 9",
@@ -147,7 +149,7 @@
                 "🇺🇸US | vless | @sinabigo | 4",
                 "🏳️XX | vless | @lrnbymaa | 5",
                 "🇺🇸US | ss | @OutlineVpnOfficial | 17",
-                "🇨🇷CR | vless | @ConfigsHUB | 18",
+                "🇺🇸US | vless | @ConfigsHUB | 18",
                 "🇳🇱NL | vless | @proxystore11 | 15",
                 "🇨🇳CN | trojan | @yaney_01 | 7",
                 "🇨🇦CA | vmess | @Hope_Net | 3",
@@ -157,9 +159,9 @@
                 "🇨🇦CA | vless | @v2rayng_config_amin | 3",
                 "🇩🇪DE | vless | @Capital_NET | 39",
                 "🇺🇸US | vmess | @v2Line | 6",
-                "🇨🇦CA | vless | @Capoit | 5",
+                "🇨🇦CA | vless | @Capoit | 7",
                 "🇨🇦CA | vless | @IRN_VPN | 2",
-                "🇺🇸US | vless | @forwardv2ray | 11",
+                "🇨🇦CA | vless | @forwardv2ray | 4",
                 "🏳️XX | vless | @FAKEOFTVC | 2",
                 "🇰🇿KZ | vless | @mehrosaboran | 15",
                 "🇸🇪SE | vless | @kiava | 7",
@@ -198,13 +200,15 @@
                 "🇺🇸US | vless | @DigiV2ray | 17",
                 "🇩🇪DE | vless | @proxy_kafee | 1",
                 "🏳️XX | vless | @V2rayCollector | 2",
+                "🏳️XX | vless | @V2rayCollectorDonate | 19",
                 "🇨🇦CA | vless | @ProxyForOpeta | 1",
                 "🇨🇦CA | vless | @V2rayNGn | 32",
                 "🇫🇷FR | trojan | @PrivateVPNs | 18",
                 "🇨🇦CA | trojan | @DirectVPN | 18",
                 "🇫🇷FR | vmess | @v2ray_outlineir | 0",
                 "🇺🇸US | vmess | @mftizi | 18",
-                "🇳🇱NL | vmess | @oneclickvpnkeys | 8",
+                "🇳🇱NL | vmess | @oneclickvpnkeys | 9",
+                "🇨🇦CA | vless | @prrofile_purple | 170",
                 "🇨🇦CA | vless | @customv2ray | 9",
                 "🇨🇦CA | vless | @UnlimitedDev | 6",
                 "🏳️XX | vless | @vmessorg | 9",
@@ -223,7 +227,7 @@
                 "🇺🇸US | vless | @sinabigo | 4",
                 "🏳️XX | vless | @lrnbymaa | 5",
                 "🇺🇸US | ss | @OutlineVpnOfficial | 17",
-                "🇨🇷CR | vless | @ConfigsHUB | 18",
+                "🇺🇸US | vless | @ConfigsHUB | 18",
                 "🇳🇱NL | vless | @proxystore11 | 15",
                 "🇨🇳CN | trojan | @yaney_01 | 7",
                 "🇨🇦CA | vmess | @Hope_Net | 3",
@@ -233,9 +237,9 @@
                 "🇨🇦CA | vless | @v2rayng_config_amin | 3",
                 "🇩🇪DE | vless | @Capital_NET | 39",
                 "🇺🇸US | vmess | @v2Line | 6",
-                "🇨🇦CA | vless | @Capoit | 5",
+                "🇨🇦CA | vless | @Capoit | 7",
                 "🇨🇦CA | vless | @IRN_VPN | 2",
-                "🇺🇸US | vless | @forwardv2ray | 11",
+                "🇨🇦CA | vless | @forwardv2ray | 4",
                 "🏳️XX | vless | @FAKEOFTVC | 2",
                 "🇰🇿KZ | vless | @mehrosaboran | 15",
                 "🇸🇪SE | vless | @kiava | 7",
@@ -730,6 +734,37 @@
             }
         },
         {
+            "tag": "🏳️XX | vless | @V2rayCollectorDonate | 19",
+            "type": "vless",
+            "server": "[::ffff:6ca2:c10a]",
+            "server_port": 8443,
+            "uuid": "4b157b8d-1198-4e56-b8df-5110569001ab",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "g.xbestspeed.cam",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "8443vless",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
+            }
+        },
+        {
             "tag": "🇨🇦CA | vless | @ProxyForOpeta | 1",
             "type": "vless",
             "server": "CDN.user.com",
@@ -860,7 +895,7 @@
             }
         },
         {
-            "tag": "🇳🇱NL | vmess | @oneclickvpnkeys | 8",
+            "tag": "🇳🇱NL | vmess | @oneclickvpnkeys | 9",
             "type": "vmess",
             "server": "188.114.97.53",
             "server_port": 443,
@@ -890,6 +925,27 @@
                 "path": "\/vmess",
                 "headers": {
                     "Host": "fr1-vmess.sshmax.xyz"
+                }
+            }
+        },
+        {
+            "tag": "🇨🇦CA | vless | @prrofile_purple | 170",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 8080,
+            "uuid": "SVNTEAMa",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "www.speedtest.net"
                 }
             }
         },
@@ -1292,11 +1348,11 @@
             "plugin_opts": ""
         },
         {
-            "tag": "🇨🇷CR | vless | @ConfigsHUB | 18",
+            "tag": "🇺🇸US | vless | @ConfigsHUB | 18",
             "type": "vless",
-            "server": "190.93.247.155",
-            "server_port": 8080,
-            "uuid": "00a9afc0-1af3-4ef9-8474-2cb80b182a1e",
+            "server": "172.64.111.9",
+            "server_port": 443,
+            "uuid": "b0138d55-a493-4dc3-9932-c6f0391707c1",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1304,11 +1360,21 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
+            "tls": {
+                "enabled": true,
+                "server_name": "edge.020770.xyz",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
             "transport": {
                 "type": "ws",
-                "path": "\/8080\/root",
+                "path": "\/vless\/b0138d55-a493-4dc3-9932-c6f0391707c1",
                 "headers": {
-                    "Host": "190.93.247.155"
+                    "Host": "edge.020770.xyz"
                 }
             }
         },
@@ -1520,7 +1586,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | vless | @Capoit | 5",
+            "tag": "🇨🇦CA | vless | @Capoit | 7",
             "type": "vless",
             "server": "eli.ELiV2.top",
             "server_port": 80,
@@ -1572,11 +1638,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | vless | @forwardv2ray | 11",
+            "tag": "🇨🇦CA | vless | @forwardv2ray | 4",
             "type": "vless",
-            "server": "172.64.111.9",
-            "server_port": 443,
-            "uuid": "b0138d55-a493-4dc3-9932-c6f0391707c1",
+            "server": "tel.VPNCUSTOMIZE.cam",
+            "server_port": 2087,
+            "uuid": "VPNCUSTOMIZE-VPNCUSTOMIZE",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1586,7 +1652,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "edge.020770.xyz",
+                "server_name": "vpncustomize2V2ray.xn--4oq36ed28d.org",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1596,9 +1662,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/vless\/b0138d55-a493-4dc3-9932-c6f0391707c1",
+                "path": "\/ws-@VPNCUSTOMIZE-@VPNCUSTOMIZE-@VPNCUSTOMIZE-@VPNCUSTOMIZE-@VPNCUSTOMIZE",
                 "headers": {
-                    "Host": "edge.020770.xyz"
+                    "Host": "vpncustomize2V2ray.xn--4oq36ed28d.org"
                 }
             }
         },
