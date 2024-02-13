@@ -129,8 +129,8 @@
                 "🇫🇮FI | vless | @CUSTOMVPNSERVER | 6",
                 "🇩🇪DE | vless | @CUSTOMVPNSERVER | 9",
                 "🇫🇷FR | vless | @CUSTOMVPNSERVER | 10",
-                "🇺🇸US | vless | @proxy_kafee | 1",
-                "🇩🇪DE | vless | @proxy_kafee | 2",
+                "🇺🇸US | vless | @proxy_kafee | 0",
+                "🇩🇪DE | vless | @proxy_kafee | 1",
                 "🇫🇮FI | vless | @v2logy | 2",
                 "🏳️XX | vless | @v2logy | 5",
                 "🏳️XX | vless | @V2rayCollector | 1",
@@ -140,18 +140,20 @@
                 "🇩🇪DE | vless | @FalconPolV2rayNG | 4",
                 "🇩🇪DE | vless | @v2ray_swhil | 7",
                 "🇬🇧GB | vless | @v2ray_swhil | 9",
+                "🇷🇴RO | vless | @proxyymeliii | 20",
                 "🇫🇮FI | vless | @DailyV2RY | 133",
+                "🇯🇵JP | vless | @ConfigsHUB | 15",
                 "🇬🇧GB | vless | @Capital_NET | 27",
                 "🇩🇪DE | vless | @Capital_NET | 28",
                 "🇩🇪DE | vless | @Capital_NET | 29",
                 "🏳️XX | vless | @Capital_NET | 30",
                 "🏳️XX | vless | @Capital_NET | 32",
-                "🇳🇱NL | vless | @Capital_NET | 34",
+                "🇨🇦CA | vless | @Capital_NET | 34",
                 "🇩🇪DE | vless | @Capital_NET | 35",
                 "🏳️XX | vless | @Capital_NET | 37",
                 "🇩🇪DE | vless | @Capital_NET | 38",
                 "🏳️XX | vless | @Capital_NET | 39",
-                "🇺🇸US | vless | @flyv2ray | 6",
+                "🇺🇸US | vless | @flyv2ray | 8",
                 "🇸🇪SE | vless | @kiava | 2",
                 "🇸🇪SE | vless | @kiava | 3",
                 "🇸🇪SE | vless | @kiava | 7",
@@ -207,8 +209,8 @@
                 "🇫🇮FI | vless | @CUSTOMVPNSERVER | 6",
                 "🇩🇪DE | vless | @CUSTOMVPNSERVER | 9",
                 "🇫🇷FR | vless | @CUSTOMVPNSERVER | 10",
-                "🇺🇸US | vless | @proxy_kafee | 1",
-                "🇩🇪DE | vless | @proxy_kafee | 2",
+                "🇺🇸US | vless | @proxy_kafee | 0",
+                "🇩🇪DE | vless | @proxy_kafee | 1",
                 "🇫🇮FI | vless | @v2logy | 2",
                 "🏳️XX | vless | @v2logy | 5",
                 "🏳️XX | vless | @V2rayCollector | 1",
@@ -218,18 +220,20 @@
                 "🇩🇪DE | vless | @FalconPolV2rayNG | 4",
                 "🇩🇪DE | vless | @v2ray_swhil | 7",
                 "🇬🇧GB | vless | @v2ray_swhil | 9",
+                "🇷🇴RO | vless | @proxyymeliii | 20",
                 "🇫🇮FI | vless | @DailyV2RY | 133",
+                "🇯🇵JP | vless | @ConfigsHUB | 15",
                 "🇬🇧GB | vless | @Capital_NET | 27",
                 "🇩🇪DE | vless | @Capital_NET | 28",
                 "🇩🇪DE | vless | @Capital_NET | 29",
                 "🏳️XX | vless | @Capital_NET | 30",
                 "🏳️XX | vless | @Capital_NET | 32",
-                "🇳🇱NL | vless | @Capital_NET | 34",
+                "🇨🇦CA | vless | @Capital_NET | 34",
                 "🇩🇪DE | vless | @Capital_NET | 35",
                 "🏳️XX | vless | @Capital_NET | 37",
                 "🇩🇪DE | vless | @Capital_NET | 38",
                 "🏳️XX | vless | @Capital_NET | 39",
-                "🇺🇸US | vless | @flyv2ray | 6",
+                "🇺🇸US | vless | @flyv2ray | 8",
                 "🇸🇪SE | vless | @kiava | 2",
                 "🇸🇪SE | vless | @kiava | 3",
                 "🇸🇪SE | vless | @kiava | 7",
@@ -1071,7 +1075,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | vless | @proxy_kafee | 1",
+            "tag": "🇺🇸US | vless | @proxy_kafee | 0",
             "type": "vless",
             "server": "164.90.144.213",
             "server_port": 443,
@@ -1107,7 +1111,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | vless | @proxy_kafee | 2",
+            "tag": "🇩🇪DE | vless | @proxy_kafee | 1",
             "type": "vless",
             "server": "49.13.149.114",
             "server_port": 443,
@@ -1460,6 +1464,42 @@
             }
         },
         {
+            "tag": "🇷🇴RO | vless | @proxyymeliii | 20",
+            "type": "vless",
+            "server": "188.241.240.230",
+            "server_port": 20044,
+            "uuid": "a598099f-5032-475d-8826-3bfac5e042b3",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.speedtest.org",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "UK7qxWWGfRQcQfwaGpHnqmmqqJBut4jxve8AeDDJ2UI",
+                    "short_id": ""
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "www.speedtest.org",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
+            }
+        },
+        {
             "tag": "🇫🇮FI | vless | @DailyV2RY | 133",
             "type": "vless",
             "server": "37.27.7.241",
@@ -1493,6 +1533,35 @@
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
+            }
+        },
+        {
+            "tag": "🇯🇵JP | vless | @ConfigsHUB | 15",
+            "type": "vless",
+            "server": "jp02.421421.xyz",
+            "server_port": 20230,
+            "uuid": "ad9a59fe-b588-47ae-b55a-634ac0eeea79",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "api.push.apple.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "gKQ1iax36vjbOYLKLveiSn_OnlBVAf3ecHLpQnrC4jw",
+                    "short_id": "a7464bff"
+                }
             }
         },
         {
@@ -1648,7 +1717,7 @@
             }
         },
         {
-            "tag": "🇳🇱NL | vless | @Capital_NET | 34",
+            "tag": "🇨🇦CA | vless | @Capital_NET | 34",
             "type": "vless",
             "server": "194.5.97.158",
             "server_port": 443,
@@ -1793,7 +1862,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | vless | @flyv2ray | 6",
+            "tag": "🇺🇸US | vless | @flyv2ray | 8",
             "type": "vless",
             "server": "5.161.111.235",
             "server_port": 25365,
