@@ -106,7 +106,6 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🏳️XX | vless | @EliV2ray | 16",
                 "🇩🇪DE | vless | @ipV2Ray | 3",
                 "🇳🇱NL | vless | @ipV2Ray | 4",
                 "🇩🇪DE | vless | @ipV2Ray | 5",
@@ -134,9 +133,9 @@
                 "🇩🇪DE | vless | @FalconPolV2rayNG | 4",
                 "🇩🇪DE | vless | @v2ray_swhil | 5",
                 "🇬🇧GB | vless | @v2ray_swhil | 7",
-                "🏳️XX | vless | @V2RayTz | 7",
-                "🇳🇱NL | vless | @V2RayTz | 8",
-                "🇩🇪DE | vless | @V2RayTz | 9",
+                "🏳️XX | vless | @V2RayTz | 8",
+                "🇳🇱NL | vless | @V2RayTz | 9",
+                "🇩🇪DE | vless | @V2RayTz | 10",
                 "🇬🇧GB | vless | @Capital_NET | 27",
                 "🇩🇪DE | vless | @Capital_NET | 28",
                 "🇩🇪DE | vless | @Capital_NET | 29",
@@ -181,7 +180,6 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🏳️XX | vless | @EliV2ray | 16",
                 "🇩🇪DE | vless | @ipV2Ray | 3",
                 "🇳🇱NL | vless | @ipV2Ray | 4",
                 "🇩🇪DE | vless | @ipV2Ray | 5",
@@ -209,9 +207,9 @@
                 "🇩🇪DE | vless | @FalconPolV2rayNG | 4",
                 "🇩🇪DE | vless | @v2ray_swhil | 5",
                 "🇬🇧GB | vless | @v2ray_swhil | 7",
-                "🏳️XX | vless | @V2RayTz | 7",
-                "🇳🇱NL | vless | @V2RayTz | 8",
-                "🇩🇪DE | vless | @V2RayTz | 9",
+                "🏳️XX | vless | @V2RayTz | 8",
+                "🇳🇱NL | vless | @V2RayTz | 9",
+                "🇩🇪DE | vless | @V2RayTz | 10",
                 "🇬🇧GB | vless | @Capital_NET | 27",
                 "🇩🇪DE | vless | @Capital_NET | 28",
                 "🇩🇪DE | vless | @Capital_NET | 29",
@@ -270,35 +268,6 @@
         {
             "tag": "dns-out",
             "type": "dns"
-        },
-        {
-            "tag": "🏳️XX | vless | @EliV2ray | 16",
-            "type": "vless",
-            "server": "[2001:41d0:401:3000::3be1]",
-            "server_port": 2083,
-            "uuid": "37405634-5db1-4d2a-a0a1-85d006dbe35a",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "streaming.androidcentral.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "QBzDikCTIljaAPywseSeEkfvJ0snlAIXmrjTYKz7mQo",
-                    "short_id": "43BB2438"
-                }
-            }
         },
         {
             "tag": "🇩🇪DE | vless | @ipV2Ray | 3",
@@ -1231,7 +1200,7 @@
             }
         },
         {
-            "tag": "🏳️XX | vless | @V2RayTz | 7",
+            "tag": "🏳️XX | vless | @V2RayTz | 8",
             "type": "vless",
             "server": "join-v2raytz.v2raytz.sbs",
             "server_port": 443,
@@ -1267,7 +1236,7 @@
             }
         },
         {
-            "tag": "🇳🇱NL | vless | @V2RayTz | 8",
+            "tag": "🇳🇱NL | vless | @V2RayTz | 9",
             "type": "vless",
             "server": "152.42.140.102",
             "server_port": 443,
@@ -1303,7 +1272,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | vless | @V2RayTz | 9",
+            "tag": "🇩🇪DE | vless | @V2RayTz | 10",
             "type": "vless",
             "server": "195.201.91.198",
             "server_port": 443,
