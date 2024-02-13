@@ -126,10 +126,8 @@
                 "🇦🇹AT | ss | @OutlineVpnOfficial | 15",
                 "🇺🇸US | ss | @OutlineVpnOfficial | 16",
                 "🇺🇸US | ss | @OutlineVpnOfficial | 17",
-                "🇸🇪SE | ss | @forwardv2ray | 5",
-                "🇬🇧GB | ss | @forwardv2ray | 6",
-                "🇬🇧GB | ss | @forwardv2ray | 15",
-                "🇺🇸US | ss | @proxy_mtm | 2",
+                "🇬🇧GB | ss | @forwardv2ray | 9",
+                "🇺🇸US | ss | @proxy_mtm | 8",
                 "🇸🇪SE | ss | @kingofilter | 0",
                 "🇸🇪SE | ss | @kingofilter | 9",
                 "🇺🇸US | ss | @ROMAX_VPN | 0",
@@ -161,10 +159,8 @@
                 "🇦🇹AT | ss | @OutlineVpnOfficial | 15",
                 "🇺🇸US | ss | @OutlineVpnOfficial | 16",
                 "🇺🇸US | ss | @OutlineVpnOfficial | 17",
-                "🇸🇪SE | ss | @forwardv2ray | 5",
-                "🇬🇧GB | ss | @forwardv2ray | 6",
-                "🇬🇧GB | ss | @forwardv2ray | 15",
-                "🇺🇸US | ss | @proxy_mtm | 2",
+                "🇬🇧GB | ss | @forwardv2ray | 9",
+                "🇺🇸US | ss | @proxy_mtm | 8",
                 "🇸🇪SE | ss | @kingofilter | 0",
                 "🇸🇪SE | ss | @kingofilter | 9",
                 "🇺🇸US | ss | @ROMAX_VPN | 0",
@@ -392,17 +388,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "🇸🇪SE | ss | @forwardv2ray | 5",
-            "type": "shadowsocks",
-            "server": "13.60.35.149",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "Wqw4mG9GRYGXTNS2Cj8HLy5I92daQFDrC9hCi1HXrs8=",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "🇬🇧GB | ss | @forwardv2ray | 6",
+            "tag": "🇬🇧GB | ss | @forwardv2ray | 9",
             "type": "shadowsocks",
             "server": "series-a2.samanehha.co",
             "server_port": 443,
@@ -412,17 +398,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "🇬🇧GB | ss | @forwardv2ray | 15",
-            "type": "shadowsocks",
-            "server": "18.171.94.33",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "hBEBjXU6Sk0UK4T6",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "🇺🇸US | ss | @proxy_mtm | 2",
+            "tag": "🇺🇸US | ss | @proxy_mtm | 8",
             "type": "shadowsocks",
             "server": "beacomf.xyz",
             "server_port": 8080,
