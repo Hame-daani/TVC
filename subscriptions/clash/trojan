@@ -153,6 +153,7 @@ proxies:
   - {"name":"🇸🇪SE | trojan | @DirectVPN | 15","type":"trojan","server":"16.16.234.141","port":22222,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.miwan.co.uk"}
   - {"name":"🇨🇳CN | trojan | @oneclickvpnkeys | 2","type":"trojan","server":"183.232.230.230","port":8443,"udp":false,"password":"7b4066ae-accc-11eb-a8bf-f23c91cfbbc9","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"083ab9ab-s8usg0-0-zzkl.s5.p5pv.com"}
   - {"name":"🏳️XX | trojan | @oneclickvpnkeys | 5","type":"trojan","server":"[2001:41d0:801:2000::1456]","port":443,"udp":false,"password":"5hHSYThRxb","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"uk-04.allhub.ltd"}
+  - {"name":"🏳️XX | trojan | @v2ray_swhil | 1","type":"trojan","server":"hongkong.followerpanell.ir","port":8443,"udp":false,"password":"e40c26851093180","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"🇨🇳CN | trojan | @yaney_01 | 7","type":"trojan","server":"xibaozi.19890604.day","port":10847,"udp":false,"password":"c1dc3493-2298-44ab-98c1-4abccbc350d1","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"cloudflare.node-ssl.cdn-alibaba.com"}
 proxy-groups:
   - name: MANUAL
@@ -195,6 +196,7 @@ proxy-groups:
       - '🇸🇪SE | trojan | @DirectVPN | 15'
       - '🇨🇳CN | trojan | @oneclickvpnkeys | 2'
       - '🏳️XX | trojan | @oneclickvpnkeys | 5'
+      - '🏳️XX | trojan | @v2ray_swhil | 1'
       - '🇨🇳CN | trojan | @yaney_01 | 7'
   - name: URL-TEST
     type: url-test
@@ -237,6 +239,7 @@ proxy-groups:
       - '🇸🇪SE | trojan | @DirectVPN | 15'
       - '🇨🇳CN | trojan | @oneclickvpnkeys | 2'
       - '🏳️XX | trojan | @oneclickvpnkeys | 5'
+      - '🏳️XX | trojan | @v2ray_swhil | 1'
       - '🇨🇳CN | trojan | @yaney_01 | 7'
   - name: FALLBACK
     type: fallback
@@ -278,6 +281,7 @@ proxy-groups:
       - '🇸🇪SE | trojan | @DirectVPN | 15'
       - '🇨🇳CN | trojan | @oneclickvpnkeys | 2'
       - '🏳️XX | trojan | @oneclickvpnkeys | 5'
+      - '🏳️XX | trojan | @v2ray_swhil | 1'
       - '🇨🇳CN | trojan | @yaney_01 | 7'
 rules:
   - IP-CIDR,127.0.0.1/32,DIRECT,no-resolve
