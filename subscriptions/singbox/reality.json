@@ -120,8 +120,9 @@
                 "🇫🇮FI | vless | @ipV2Ray | 15",
                 "🏳️XX | vless | @frev2ray | 0",
                 "🏳️XX | vless | @frev2ray | 1",
-                "🇫🇮FI | vless | @ARv2ray | 1",
-                "🇫🇮FI | vless | @ARv2ray | 13",
+                "🇫🇮FI | vless | @ARv2ray | 0",
+                "🇫🇮FI | vless | @ARv2ray | 2",
+                "🇫🇮FI | vless | @ARv2ray | 14",
                 "🇩🇪DE | vless | @CUSTOMVPNSERVER | 2",
                 "🇩🇪DE | vless | @CUSTOMVPNSERVER | 5",
                 "🇫🇮FI | vless | @CUSTOMVPNSERVER | 6",
@@ -130,14 +131,13 @@
                 "🏳️XX | vless | @v2logy | 5",
                 "🏳️XX | vless | @V2rayCollector | 1",
                 "🏳️XX | vless | @V2rayCollector | 2",
-                "🇩🇪DE | vless | @V2rayCollectorDonate | 7",
+                "🇩🇪DE | vless | @V2rayCollectorDonate | 9",
                 "🇩🇪DE | vless | @FalconPolV2rayNG | 4",
                 "🇩🇪DE | vless | @v2ray_swhil | 7",
                 "🇬🇧GB | vless | @v2ray_swhil | 9",
                 "🇷🇴RO | vless | @proxyymeliii | 20",
-                "🇫🇮FI | vless | @V2RayTz | 7",
-                "🏳️XX | vless | @DailyV2RY | 140",
-                "🇩🇪DE | vless | @ConfigsHUB | 7",
+                "🇫🇮FI | vless | @V2RayTz | 8",
+                "🏳️XX | vless | @DailyV2RY | 150",
                 "🇩🇪DE | vless | @Capital_NET | 25",
                 "🇬🇧GB | vless | @Capital_NET | 26",
                 "🏳️XX | vless | @Capital_NET | 27",
@@ -199,8 +199,9 @@
                 "🇫🇮FI | vless | @ipV2Ray | 15",
                 "🏳️XX | vless | @frev2ray | 0",
                 "🏳️XX | vless | @frev2ray | 1",
-                "🇫🇮FI | vless | @ARv2ray | 1",
-                "🇫🇮FI | vless | @ARv2ray | 13",
+                "🇫🇮FI | vless | @ARv2ray | 0",
+                "🇫🇮FI | vless | @ARv2ray | 2",
+                "🇫🇮FI | vless | @ARv2ray | 14",
                 "🇩🇪DE | vless | @CUSTOMVPNSERVER | 2",
                 "🇩🇪DE | vless | @CUSTOMVPNSERVER | 5",
                 "🇫🇮FI | vless | @CUSTOMVPNSERVER | 6",
@@ -209,14 +210,13 @@
                 "🏳️XX | vless | @v2logy | 5",
                 "🏳️XX | vless | @V2rayCollector | 1",
                 "🏳️XX | vless | @V2rayCollector | 2",
-                "🇩🇪DE | vless | @V2rayCollectorDonate | 7",
+                "🇩🇪DE | vless | @V2rayCollectorDonate | 9",
                 "🇩🇪DE | vless | @FalconPolV2rayNG | 4",
                 "🇩🇪DE | vless | @v2ray_swhil | 7",
                 "🇬🇧GB | vless | @v2ray_swhil | 9",
                 "🇷🇴RO | vless | @proxyymeliii | 20",
-                "🇫🇮FI | vless | @V2RayTz | 7",
-                "🏳️XX | vless | @DailyV2RY | 140",
-                "🇩🇪DE | vless | @ConfigsHUB | 7",
+                "🇫🇮FI | vless | @V2RayTz | 8",
+                "🏳️XX | vless | @DailyV2RY | 150",
                 "🇩🇪DE | vless | @Capital_NET | 25",
                 "🇬🇧GB | vless | @Capital_NET | 26",
                 "🏳️XX | vless | @Capital_NET | 27",
@@ -784,7 +784,43 @@
             }
         },
         {
-            "tag": "🇫🇮FI | vless | @ARv2ray | 1",
+            "tag": "🇫🇮FI | vless | @ARv2ray | 0",
+            "type": "vless",
+            "server": "65.21.176.30",
+            "server_port": 443,
+            "uuid": "telegram-id-ArV2ray",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "greenpepper.ir",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "oysNTM0FzsHkKl2YBD2Py_NMPPDfjR4xvggpXbAIe2k",
+                    "short_id": "89501de4"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
+            }
+        },
+        {
+            "tag": "🇫🇮FI | vless | @ARv2ray | 2",
             "type": "vless",
             "server": "95.216.151.99",
             "server_port": 443,
@@ -820,7 +856,7 @@
             }
         },
         {
-            "tag": "🇫🇮FI | vless | @ARv2ray | 13",
+            "tag": "🇫🇮FI | vless | @ARv2ray | 14",
             "type": "vless",
             "server": "37.27.7.241",
             "server_port": 443,
@@ -1109,7 +1145,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | vless | @V2rayCollectorDonate | 7",
+            "tag": "🇩🇪DE | vless | @V2rayCollectorDonate | 9",
             "type": "vless",
             "server": "5.75.196.185",
             "server_port": 443,
@@ -1282,7 +1318,7 @@
             }
         },
         {
-            "tag": "🇫🇮FI | vless | @V2RayTz | 7",
+            "tag": "🇫🇮FI | vless | @V2RayTz | 8",
             "type": "vless",
             "server": "95.217.184.111",
             "server_port": 443,
@@ -1318,7 +1354,7 @@
             }
         },
         {
-            "tag": "🏳️XX | vless | @DailyV2RY | 140",
+            "tag": "🏳️XX | vless | @DailyV2RY | 150",
             "type": "vless",
             "server": "[2001:41d0:401:3000::3be1]",
             "server_port": 2083,
@@ -1343,35 +1379,6 @@
                     "enabled": true,
                     "public_key": "QBzDikCTIljaAPywseSeEkfvJ0snlAIXmrjTYKz7mQo",
                     "short_id": "43BB2438"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪DE | vless | @ConfigsHUB | 7",
-            "type": "vless",
-            "server": "167.235.219.99",
-            "server_port": 443,
-            "uuid": "1dbd6492-6780-4795-9fe4-f858d5c4c660",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "ftp.debian.org",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "MEV9xoI0avI7cW_xp5oGX8K3KsffOQjJPURBQh87zng",
-                    "short_id": "343fd6bea8c0f878"
                 }
             }
         },
