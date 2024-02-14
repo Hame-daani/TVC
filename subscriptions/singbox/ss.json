@@ -106,8 +106,10 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇺🇸US | ss | @DeamNet_Proxy | 6",
-                "🇵🇱PL | ss | @DeamNet_Proxy | 9",
+                "🇩🇪DE | ss | @DeamNet_Proxy | 6",
+                "🇩🇪DE | ss | @DeamNet_Proxy | 7",
+                "🇺🇸US | ss | @DeamNet_Proxy | 9",
+                "🇵🇱PL | ss | @DeamNet_Proxy | 12",
                 "🇷🇺RU | ss | @VmessProtocol | 11",
                 "🇺🇸US | ss | @VmessProtocol | 13",
                 "🇸🇪SE | ss | @OutlineVpnOfficial | 3",
@@ -136,8 +138,10 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇺🇸US | ss | @DeamNet_Proxy | 6",
-                "🇵🇱PL | ss | @DeamNet_Proxy | 9",
+                "🇩🇪DE | ss | @DeamNet_Proxy | 6",
+                "🇩🇪DE | ss | @DeamNet_Proxy | 7",
+                "🇺🇸US | ss | @DeamNet_Proxy | 9",
+                "🇵🇱PL | ss | @DeamNet_Proxy | 12",
                 "🇷🇺RU | ss | @VmessProtocol | 11",
                 "🇺🇸US | ss | @VmessProtocol | 13",
                 "🇸🇪SE | ss | @OutlineVpnOfficial | 3",
@@ -182,7 +186,27 @@
             "type": "dns"
         },
         {
-            "tag": "🇺🇸US | ss | @DeamNet_Proxy | 6",
+            "tag": "🇩🇪DE | ss | @DeamNet_Proxy | 6",
+            "type": "shadowsocks",
+            "server": "145.239.1.100",
+            "server_port": 8008,
+            "method": "aes-256-gcm",
+            "password": "XKFKl2rULjIp74",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "🇩🇪DE | ss | @DeamNet_Proxy | 7",
+            "type": "shadowsocks",
+            "server": "145.239.1.100",
+            "server_port": 4444,
+            "method": "aes-256-gcm",
+            "password": "pKEW8JPByTVTLtM",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "🇺🇸US | ss | @DeamNet_Proxy | 9",
             "type": "shadowsocks",
             "server": "38.75.136.21",
             "server_port": 5004,
@@ -192,7 +216,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "🇵🇱PL | ss | @DeamNet_Proxy | 9",
+            "tag": "🇵🇱PL | ss | @DeamNet_Proxy | 12",
             "type": "shadowsocks",
             "server": "54.36.174.181",
             "server_port": 8881,
