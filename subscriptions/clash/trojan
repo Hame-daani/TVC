@@ -150,8 +150,11 @@ proxies:
   - {"name":"🇫🇷FR | trojan | @DirectVPN | 14","type":"trojan","server":"13.37.88.128","port":22222,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.miwan.co.uk"}
   - {"name":"🇸🇪SE | trojan | @DirectVPN | 15","type":"trojan","server":"51.20.173.2","port":22222,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.miwan.co.uk"}
   - {"name":"🇨🇳CN | trojan | @oneclickvpnkeys | 9","type":"trojan","server":"183.232.230.230","port":8443,"udp":false,"password":"7b4066ae-accc-11eb-a8bf-f23c91cfbbc9","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"083ab9ab-s8usg0-0-zzkl.s5.p5pv.com"}
-  - {"name":"🇨🇦CA | trojan | @v2ray_swhil | 4","type":"trojan","server":"hongkong.followerpanell.ir","port":8443,"udp":false,"password":"e40c26851093180","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🇺🇸US | trojan | @v2ray_swhil | 4","type":"trojan","server":"hongkong.followerpanell.ir","port":8443,"udp":false,"password":"e40c26851093180","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"🇨🇳CN | trojan | @yaney_01 | 7","type":"trojan","server":"xibaozi.19890604.day","port":10847,"udp":false,"password":"c1dc3493-2298-44ab-98c1-4abccbc350d1","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"cloudflare.node-ssl.cdn-alibaba.com"}
+  - {"name":"🇺🇦UA | trojan | @forwardv2ray | 5","type":"trojan","server":"89.116.180.179","port":443,"udp":false,"password":"d2698cf9-c47e-455c-8384-12e642cbba15","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"p6us4.pqjc.buzz"}
+  - {"name":"🇨🇦CA | trojan | @forwardv2ray | 7","type":"trojan","server":"104.19.171.3","port":443,"udp":false,"password":"f0eb8c92ce8946aaba856569cff1a16b","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"sherasheba.com"}
+  - {"name":"🇺🇸US | trojan | @forwardv2ray | 9","type":"trojan","server":"198.41.220.20","port":443,"udp":false,"password":"e8105dfd24414268b6c7652c63731097","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"avianrecruit.com"}
 proxy-groups:
   - name: MANUAL
     type: select
@@ -190,8 +193,11 @@ proxy-groups:
       - '🇫🇷FR | trojan | @DirectVPN | 14'
       - '🇸🇪SE | trojan | @DirectVPN | 15'
       - '🇨🇳CN | trojan | @oneclickvpnkeys | 9'
-      - '🇨🇦CA | trojan | @v2ray_swhil | 4'
+      - '🇺🇸US | trojan | @v2ray_swhil | 4'
       - '🇨🇳CN | trojan | @yaney_01 | 7'
+      - '🇺🇦UA | trojan | @forwardv2ray | 5'
+      - '🇨🇦CA | trojan | @forwardv2ray | 7'
+      - '🇺🇸US | trojan | @forwardv2ray | 9'
   - name: URL-TEST
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -230,8 +236,11 @@ proxy-groups:
       - '🇫🇷FR | trojan | @DirectVPN | 14'
       - '🇸🇪SE | trojan | @DirectVPN | 15'
       - '🇨🇳CN | trojan | @oneclickvpnkeys | 9'
-      - '🇨🇦CA | trojan | @v2ray_swhil | 4'
+      - '🇺🇸US | trojan | @v2ray_swhil | 4'
       - '🇨🇳CN | trojan | @yaney_01 | 7'
+      - '🇺🇦UA | trojan | @forwardv2ray | 5'
+      - '🇨🇦CA | trojan | @forwardv2ray | 7'
+      - '🇺🇸US | trojan | @forwardv2ray | 9'
   - name: FALLBACK
     type: fallback
     url: http://www.gstatic.com/generate_204
@@ -269,8 +278,11 @@ proxy-groups:
       - '🇫🇷FR | trojan | @DirectVPN | 14'
       - '🇸🇪SE | trojan | @DirectVPN | 15'
       - '🇨🇳CN | trojan | @oneclickvpnkeys | 9'
-      - '🇨🇦CA | trojan | @v2ray_swhil | 4'
+      - '🇺🇸US | trojan | @v2ray_swhil | 4'
       - '🇨🇳CN | trojan | @yaney_01 | 7'
+      - '🇺🇦UA | trojan | @forwardv2ray | 5'
+      - '🇨🇦CA | trojan | @forwardv2ray | 7'
+      - '🇺🇸US | trojan | @forwardv2ray | 9'
 rules:
   - IP-CIDR,127.0.0.1/32,DIRECT,no-resolve
   - IP-CIDR,198.18.0.1/16,DIRECT,no-resolve
