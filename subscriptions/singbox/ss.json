@@ -126,7 +126,6 @@
                 "🇦🇹AT | ss | @OutlineVpnOfficial | 15",
                 "🇺🇸US | ss | @OutlineVpnOfficial | 16",
                 "🇺🇸US | ss | @OutlineVpnOfficial | 17",
-                "🇸🇪SE | ss | @proxy_mtm | 6",
                 "🇸🇪SE | ss | @kingofilter | 1",
                 "🇺🇸US | ss | @ROMAX_VPN | 0",
                 "🇬🇧GB | ss | @ROMAX_VPN | 1",
@@ -157,7 +156,6 @@
                 "🇦🇹AT | ss | @OutlineVpnOfficial | 15",
                 "🇺🇸US | ss | @OutlineVpnOfficial | 16",
                 "🇺🇸US | ss | @OutlineVpnOfficial | 17",
-                "🇸🇪SE | ss | @proxy_mtm | 6",
                 "🇸🇪SE | ss | @kingofilter | 1",
                 "🇺🇸US | ss | @ROMAX_VPN | 0",
                 "🇬🇧GB | ss | @ROMAX_VPN | 1",
@@ -380,16 +378,6 @@
             "server_port": 2443,
             "method": "aes-256-gcm",
             "password": "hh4JlBhsJ0JthpDP3vIwxXvJWHknI16AijGx6sbcqWI=",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "🇸🇪SE | ss | @proxy_mtm | 6",
-            "type": "shadowsocks",
-            "server": "13.48.44.73",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "V2xEMpwXjvy41q8FjFtcffVpbKYGfbHi0qPlEJIgj7E=",
             "plugin": "",
             "plugin_opts": ""
         },
