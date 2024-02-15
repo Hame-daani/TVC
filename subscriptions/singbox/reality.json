@@ -106,7 +106,7 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇫🇷FR | vless | @NIM_VPN_ir | 0",
+                "🇫🇷FR | vless | @NIM_VPN_ir | 1",
                 "🇩🇪DE | vless | @ipV2Ray | 5",
                 "🇺🇸US | vless | @ipV2Ray | 6",
                 "🇩🇪DE | vless | @ipV2Ray | 7",
@@ -140,10 +140,10 @@
                 "🇩🇪DE | vless | @V2rayCollectorDonate | 19",
                 "🇳🇱NL | vless | @prrofile_purple | 168",
                 "🇩🇪DE | vless | @FalconPolV2rayNG | 5",
-                "🇳🇱NL | vless | @v2ray_swhil | 1",
-                "🇩🇪DE | vless | @v2ray_swhil | 11",
-                "🏳️XX | vless | @v2ray_swhil | 13",
-                "🇳🇱NL | vless | @v2ray1_ng | 4",
+                "🇳🇱NL | vless | @v2ray_swhil | 2",
+                "🇩🇪DE | vless | @v2ray_swhil | 12",
+                "🏳️XX | vless | @v2ray_swhil | 14",
+                "🇳🇱NL | vless | @v2ray1_ng | 5",
                 "🇺🇸US | vless | @DailyV2RY | 80",
                 "🏳️XX | vless | @DailyV2RY | 81",
                 "🇩🇪DE | vless | @DailyV2RY | 83",
@@ -158,7 +158,6 @@
                 "🏳️XX | vless | @Capital_NET | 37",
                 "🇩🇪DE | vless | @Capital_NET | 38",
                 "🏳️XX | vless | @Capital_NET | 39",
-                "🇩🇪DE | vless | @mehrosaboran | 6",
                 "🇸🇪SE | vless | @kiava | 2",
                 "🇸🇪SE | vless | @kiava | 3",
                 "🇫🇮FI | vless | @vpn_go67 | 9",
@@ -194,7 +193,7 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇫🇷FR | vless | @NIM_VPN_ir | 0",
+                "🇫🇷FR | vless | @NIM_VPN_ir | 1",
                 "🇩🇪DE | vless | @ipV2Ray | 5",
                 "🇺🇸US | vless | @ipV2Ray | 6",
                 "🇩🇪DE | vless | @ipV2Ray | 7",
@@ -228,10 +227,10 @@
                 "🇩🇪DE | vless | @V2rayCollectorDonate | 19",
                 "🇳🇱NL | vless | @prrofile_purple | 168",
                 "🇩🇪DE | vless | @FalconPolV2rayNG | 5",
-                "🇳🇱NL | vless | @v2ray_swhil | 1",
-                "🇩🇪DE | vless | @v2ray_swhil | 11",
-                "🏳️XX | vless | @v2ray_swhil | 13",
-                "🇳🇱NL | vless | @v2ray1_ng | 4",
+                "🇳🇱NL | vless | @v2ray_swhil | 2",
+                "🇩🇪DE | vless | @v2ray_swhil | 12",
+                "🏳️XX | vless | @v2ray_swhil | 14",
+                "🇳🇱NL | vless | @v2ray1_ng | 5",
                 "🇺🇸US | vless | @DailyV2RY | 80",
                 "🏳️XX | vless | @DailyV2RY | 81",
                 "🇩🇪DE | vless | @DailyV2RY | 83",
@@ -246,7 +245,6 @@
                 "🏳️XX | vless | @Capital_NET | 37",
                 "🇩🇪DE | vless | @Capital_NET | 38",
                 "🏳️XX | vless | @Capital_NET | 39",
-                "🇩🇪DE | vless | @mehrosaboran | 6",
                 "🇸🇪SE | vless | @kiava | 2",
                 "🇸🇪SE | vless | @kiava | 3",
                 "🇫🇮FI | vless | @vpn_go67 | 9",
@@ -298,7 +296,7 @@
             "type": "dns"
         },
         {
-            "tag": "🇫🇷FR | vless | @NIM_VPN_ir | 0",
+            "tag": "🇫🇷FR | vless | @NIM_VPN_ir | 1",
             "type": "vless",
             "server": "95.179.217.33",
             "server_port": 45712,
@@ -1473,7 +1471,7 @@
             }
         },
         {
-            "tag": "🇳🇱NL | vless | @v2ray_swhil | 1",
+            "tag": "🇳🇱NL | vless | @v2ray_swhil | 2",
             "type": "vless",
             "server": "165.232.87.109",
             "server_port": 443,
@@ -1509,7 +1507,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | vless | @v2ray_swhil | 11",
+            "tag": "🇩🇪DE | vless | @v2ray_swhil | 12",
             "type": "vless",
             "server": "germany.mmdtitaniom.com",
             "server_port": 2053,
@@ -1545,7 +1543,7 @@
             }
         },
         {
-            "tag": "🏳️XX | vless | @v2ray_swhil | 13",
+            "tag": "🏳️XX | vless | @v2ray_swhil | 14",
             "type": "vless",
             "server": "England.kamimiller.top",
             "server_port": 8443,
@@ -1581,7 +1579,7 @@
             }
         },
         {
-            "tag": "🇳🇱NL | vless | @v2ray1_ng | 4",
+            "tag": "🇳🇱NL | vless | @v2ray1_ng | 5",
             "type": "vless",
             "server": "188.166.33.153",
             "server_port": 443,
@@ -2055,42 +2053,6 @@
                     "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
                     "short_id": ""
                 }
-            }
-        },
-        {
-            "tag": "🇩🇪DE | vless | @mehrosaboran | 6",
-            "type": "vless",
-            "server": "167.235.219.105",
-            "server_port": 443,
-            "uuid": "telegram-id-ArV2ray",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "ftp.debian.org",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Gbyto4BT5UYvIA3ddgwlznSOgR9cC_t4HbChRHy1rEo",
-                    "short_id": "bd073ffa"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
             }
         },
         {
