@@ -118,7 +118,7 @@ dns:
     - "https://8.8.4.4/dns-query"
 
 proxies:
-  - {"name":"🇺🇸US | trojan | @V2rayCollectorDonate | 7","type":"trojan","server":"104.16.0.0","port":443,"udp":false,"password":"EYOCZiCLYH","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"optical-lesson-dell-lead.trycloudflare.com"}
+  - {"name":"🇨🇦CA | trojan | @V2rayCollectorDonate | 7","type":"trojan","server":"104.16.0.0","port":443,"udp":false,"password":"EYOCZiCLYH","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"optical-lesson-dell-lead.trycloudflare.com"}
   - {"name":"🇮🇪IE | trojan | @PrivateVPNs | 1","type":"trojan","server":"52.17.193.110","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.miwan.co.uk"}
   - {"name":"🇬🇧GB | trojan | @PrivateVPNs | 2","type":"trojan","server":"35.178.43.110","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.miwan.co.uk"}
   - {"name":"🇬🇧GB | trojan | @PrivateVPNs | 3","type":"trojan","server":"13.43.210.187","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.miwan.co.uk"}
@@ -157,7 +157,7 @@ proxy-groups:
     proxies:
       - URL-TEST
       - FALLBACK
-      - '🇺🇸US | trojan | @V2rayCollectorDonate | 7'
+      - '🇨🇦CA | trojan | @V2rayCollectorDonate | 7'
       - '🇮🇪IE | trojan | @PrivateVPNs | 1'
       - '🇬🇧GB | trojan | @PrivateVPNs | 2'
       - '🇬🇧GB | trojan | @PrivateVPNs | 3'
@@ -196,7 +196,7 @@ proxy-groups:
     interval: 60
     tolerance: 50
     proxies:
-      - '🇺🇸US | trojan | @V2rayCollectorDonate | 7'
+      - '🇨🇦CA | trojan | @V2rayCollectorDonate | 7'
       - '🇮🇪IE | trojan | @PrivateVPNs | 1'
       - '🇬🇧GB | trojan | @PrivateVPNs | 2'
       - '🇬🇧GB | trojan | @PrivateVPNs | 3'
@@ -234,7 +234,7 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 60
     proxies:
-      - '🇺🇸US | trojan | @V2rayCollectorDonate | 7'
+      - '🇨🇦CA | trojan | @V2rayCollectorDonate | 7'
       - '🇮🇪IE | trojan | @PrivateVPNs | 1'
       - '🇬🇧GB | trojan | @PrivateVPNs | 2'
       - '🇬🇧GB | trojan | @PrivateVPNs | 3'
