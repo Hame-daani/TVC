@@ -111,7 +111,6 @@
                 "🇺🇸US | ss | @DeamNet_Proxy | 18",
                 "🇺🇸US | ss | @DeamNet_Proxy | 19",
                 "🇬🇧GB | ss | @proxyymeliii | 14",
-                "🇷🇺RU | ss | @VmessProtocol | 16",
                 "🇸🇪SE | ss | @OutlineVpnOfficial | 3",
                 "🇸🇬SG | ss | @OutlineVpnOfficial | 4",
                 "🇷🇺RU | ss | @OutlineVpnOfficial | 5",
@@ -145,7 +144,6 @@
                 "🇺🇸US | ss | @DeamNet_Proxy | 18",
                 "🇺🇸US | ss | @DeamNet_Proxy | 19",
                 "🇬🇧GB | ss | @proxyymeliii | 14",
-                "🇷🇺RU | ss | @VmessProtocol | 16",
                 "🇸🇪SE | ss | @OutlineVpnOfficial | 3",
                 "🇸🇬SG | ss | @OutlineVpnOfficial | 4",
                 "🇷🇺RU | ss | @OutlineVpnOfficial | 5",
@@ -236,16 +234,6 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "Bog0ELmMM9DSxDdQ",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "🇷🇺RU | ss | @VmessProtocol | 16",
-            "type": "shadowsocks",
-            "server": "109.107.189.185",
-            "server_port": 17397,
-            "method": "chacha20-ietf-poly1305",
-            "password": "lrJVYHCiZA3VdRckEWQnSg",
             "plugin": "",
             "plugin_opts": ""
         },
