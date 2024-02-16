@@ -148,7 +148,8 @@ proxies:
   - {"name":"🇳🇱NL | vless | @V2rayCollectorDonate | 8","type":"vless","server":"128.199.60.64","port":443,"udp":true,"uuid":"bcb032f0-9b14-4451-8ced-e64b4838c51d","tls":true,"network":"grpc","client-fingerprint":"firefox","servername":"*.feedthemplants.com","grpc-opts":{"grpc-service-name":"@ipV2Ray"},"reality-opts":{"public-key":"6w1YppYTfGfJgldQ8RseRFwlA2MQ9CGdA2AgyAJctD0","short-id":"a626e83e"}}
   - {"name":"🇩🇪DE | vless | @prrofile_purple | 171","type":"vless","server":"ab.rxteam.live","port":2030,"udp":true,"uuid":"9f8cdb9c-cdc8-4df7-9f67-e785a697789b","tls":true,"network":"grpc","client-fingerprint":"firefox","servername":"sourceforge.net","grpc-opts":{"grpc-service-name":""},"reality-opts":{"public-key":"kiIIZgLNjhbbfCgtoufy4fWgGwrqA4C8cUQ6V7DlgwA","short-id":"f69d5f03"}}
   - {"name":"🇩🇪DE | vless | @FalconPolV2rayNG | 5","type":"vless","server":"188.34.194.108","port":443,"udp":true,"uuid":"cb00ef4a-fcf7-484a-8c49-6a2422ed84e6","tls":true,"network":"grpc","client-fingerprint":"firefox","servername":"ftp.debian.org","grpc-opts":{"grpc-service-name":"@ipV2Ray"},"reality-opts":{"public-key":"W6ol7KU4fjV1mBS2aG_xs8emIKsqF8y6Ufva-2MRa20","short-id":"9d2b63ad"}}
-  - {"name":"🇳🇱NL | vless | @v2ray_swhil | 4","type":"vless","server":"165.232.87.109","port":443,"udp":true,"uuid":"9ffd7abc-6d40-46a2-b0d6-71c2d1f1fcd6","tls":true,"network":"grpc","client-fingerprint":"firefox","servername":"mail.feedthemplants.com","grpc-opts":{"grpc-service-name":"@ipV2Ray"},"reality-opts":{"public-key":"mZ55nxRoRWqdnZH5lDRenJTJmeKrfXl6gbkU2gtn6XE","short-id":"727f53e2"}}
+  - {"name":"🇳🇱NL | vless | @v2ray_swhil | 3","type":"vless","server":"165.232.87.109","port":443,"udp":true,"uuid":"9ffd7abc-6d40-46a2-b0d6-71c2d1f1fcd6","tls":true,"network":"grpc","client-fingerprint":"firefox","servername":"mail.feedthemplants.com","grpc-opts":{"grpc-service-name":"@ipV2Ray"},"reality-opts":{"public-key":"mZ55nxRoRWqdnZH5lDRenJTJmeKrfXl6gbkU2gtn6XE","short-id":"727f53e2"}}
+  - {"name":"🇩🇪DE | vless | @v2ray_swhil | 13","type":"vless","server":"germany.mmdtitaniom.com","port":2053,"udp":true,"uuid":"fafcd6a9-07b2-4185-a4e8-a2e5abf8035c","tls":true,"network":"grpc","client-fingerprint":"firefox","servername":"www.sourceforge.net","grpc-opts":{"grpc-service-name":"Telegram:@Titaniom_Official,@Titaniom_Official,@Titaniom_Official,@Titaniom_Official,@Titaniom_Official,@Titaniom_Official,@Titaniom_Official,@Titaniom_Official,@Titaniom_Official,@Titaniom_Official,@Titaniom_Official"},"reality-opts":{"public-key":"SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc"}}
   - {"name":"🇳🇱NL | vless | @V2RayTz | 9","type":"vless","server":"164.90.199.195","port":443,"udp":true,"uuid":"6766a962-1286-4401-b561-f211ae4f010e","tls":true,"network":"grpc","client-fingerprint":"firefox","servername":"wagadtoha.com","grpc-opts":{"grpc-service-name":"@ipV2Ray"},"reality-opts":{"public-key":"KVzIvG9xQahVZNQH61XfhhNMgVWzU0I6R-_1FoRYeFM","short-id":"2589fd53"}}
   - {"name":"🇫🇮FI | vless | @VmessProtocol | 11","type":"vless","server":"fi-01.allhub.ltd","port":443,"udp":true,"uuid":"9e6e8844-5eca-4e7e-b02e-235234521658","tls":true,"network":"grpc","client-fingerprint":"randomized","servername":"www.speedtest.net","reality-opts":{"public-key":"MZdzrFI1TPMrqDmtAuEsQjGGe0scA9mmMSWevCY33h4","short-id":"6c92dc78"}}
   - {"name":"🏳️XX | vless | @proxystore11 | 0","type":"vless","server":"[2a01:4f9:c010:6fb9::2e]","port":443,"udp":true,"uuid":"38f30c94-7bb8-4fcc-8574-17fb02677d7e","tls":true,"network":"grpc","client-fingerprint":"chrome","servername":"gsmarena.com","grpc-opts":{"grpc-service-name":"@Everyday_VPN"},"reality-opts":{"public-key":"AVesZ9rUbwnESVl0YSPs98oWmZbXlhDVjR4ssJAw6yw","short-id":"32d7a82d"}}
@@ -221,7 +222,8 @@ proxy-groups:
       - '🇳🇱NL | vless | @V2rayCollectorDonate | 8'
       - '🇩🇪DE | vless | @prrofile_purple | 171'
       - '🇩🇪DE | vless | @FalconPolV2rayNG | 5'
-      - '🇳🇱NL | vless | @v2ray_swhil | 4'
+      - '🇳🇱NL | vless | @v2ray_swhil | 3'
+      - '🇩🇪DE | vless | @v2ray_swhil | 13'
       - '🇳🇱NL | vless | @V2RayTz | 9'
       - '🇫🇮FI | vless | @VmessProtocol | 11'
       - '🏳️XX | vless | @proxystore11 | 0'
@@ -294,7 +296,8 @@ proxy-groups:
       - '🇳🇱NL | vless | @V2rayCollectorDonate | 8'
       - '🇩🇪DE | vless | @prrofile_purple | 171'
       - '🇩🇪DE | vless | @FalconPolV2rayNG | 5'
-      - '🇳🇱NL | vless | @v2ray_swhil | 4'
+      - '🇳🇱NL | vless | @v2ray_swhil | 3'
+      - '🇩🇪DE | vless | @v2ray_swhil | 13'
       - '🇳🇱NL | vless | @V2RayTz | 9'
       - '🇫🇮FI | vless | @VmessProtocol | 11'
       - '🏳️XX | vless | @proxystore11 | 0'
@@ -366,7 +369,8 @@ proxy-groups:
       - '🇳🇱NL | vless | @V2rayCollectorDonate | 8'
       - '🇩🇪DE | vless | @prrofile_purple | 171'
       - '🇩🇪DE | vless | @FalconPolV2rayNG | 5'
-      - '🇳🇱NL | vless | @v2ray_swhil | 4'
+      - '🇳🇱NL | vless | @v2ray_swhil | 3'
+      - '🇩🇪DE | vless | @v2ray_swhil | 13'
       - '🇳🇱NL | vless | @V2RayTz | 9'
       - '🇫🇮FI | vless | @VmessProtocol | 11'
       - '🏳️XX | vless | @proxystore11 | 0'

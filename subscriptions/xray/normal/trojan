@@ -22,7 +22,6 @@ trojan://telegram-id-privatevpns@52.56.59.250:22222?security=tls&alpn=http%2F1.1
 trojan://telegram-id-privatevpns@18.169.212.197:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇬🇧GB%20|%20trojan%20|%20@PrivateVPNs%20|%2013
 trojan://telegram-id-privatevpns@52.47.53.178:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇫🇷FR%20|%20trojan%20|%20@PrivateVPNs%20|%2014
 trojan://telegram-id-privatevpns@15.188.170.29:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇫🇷FR%20|%20trojan%20|%20@PrivateVPNs%20|%2015
-trojan://telegram-id-directvpn@3.69.111.29:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇩🇪DE%20|%20trojan%20|%20@DirectVPN%20|%200
 trojan://telegram-id-directvpn@3.76.108.116:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇩🇪DE%20|%20trojan%20|%20@DirectVPN%20|%201
 trojan://telegram-id-directvpn@51.20.175.143:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇸🇪SE%20|%20trojan%20|%20@DirectVPN%20|%202
 trojan://telegram-id-directvpn@16.170.23.176:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇸🇪SE%20|%20trojan%20|%20@DirectVPN%20|%203
@@ -37,7 +36,16 @@ trojan://telegram-id-directvpn@18.169.32.83:22222?security=tls&alpn=http%2F1.1&h
 trojan://telegram-id-directvpn@13.41.123.117:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇬🇧GB%20|%20trojan%20|%20@DirectVPN%20|%2012
 trojan://telegram-id-directvpn@35.181.133.244:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇫🇷FR%20|%20trojan%20|%20@DirectVPN%20|%2013
 trojan://telegram-id-directvpn@35.180.224.251:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇫🇷FR%20|%20trojan%20|%20@DirectVPN%20|%2014
-trojan://e40c26851093180@hongkong.followerpanell.ir:8443?mode=gun&security=tls&type=grpc&serviceName=162.159.1.94#🏳️XX%20|%20trojan%20|%20@v2ray_swhil%20|%2010
+trojan://telegram-id-directvpn@51.21.77.204:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇸🇪SE%20|%20trojan%20|%20@DirectVPN%20|%2015
+trojan://e40c26851093180@hongkong.followerpanell.ir:8443?mode=gun&security=tls&type=grpc&serviceName=162.159.1.94#🏳️XX%20|%20trojan%20|%20@v2ray_swhil%20|%209
+trojan://telegram-id-directvpn@3.69.111.29:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇩🇪DE%20|%20trojan%20|%20@V2RayTz%20|%2011
 trojan://c1dc3493-2298-44ab-98c1-4abccbc350d1@xibaozi.19890604.day:10847?sni=cloudflare.node-ssl.cdn-alibaba.com#🇨🇳CN%20|%20trojan%20|%20@yaney_01%20|%207
-trojan://xC6mxKqzrb@207.148.127.143:22516?security=tls&headerType=none&type=tcp&sni=fonts.googleapis.com#🇸🇬SG%20|%20trojan%20|%20@forwardv2ray%20|%203
+trojan://d4e41ff772c7fd45@45.11.104.94:3389?security=tls&sni=sbank.ir&allowInsecure=1&type=tcp#🇭🇰HK%20|%20trojan%20|%20@forwardv2ray%20|%202
+trojan://469ed42e-2905-3aec-a622-e8dae2100813@backcn.rmanluo.top:443?security=tls&sni=backcn.rmanluo.top&allowInsecure=1&type=tcp#🇺🇸US%20|%20trojan%20|%20@forwardv2ray%20|%203
+trojan://95af4fd9-3b0a-3af6-8836-982739fed565@euro.nextloink.com:16217?security=tls&sni=eplcgame.com&allowInsecure=1&type=tcp#🇩🇪DE%20|%20trojan%20|%20@forwardv2ray%20|%205
+trojan://d4e41ff772c7fd45@5.44.249.42:3306?security=tls&allowInsecure=1&type=tcp#🇸🇬SG%20|%20trojan%20|%20@forwardv2ray%20|%206
+trojan://0cdc54e5-c8e1-4350-a7b2-047e5f4c02f9@kh.mjt000.com:443?security=tls&sni=kh.mjt000.com&allowInsecure=1&type=tcp#🇯🇵JP%20|%20trojan%20|%20@forwardv2ray%20|%207
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.chernigov.ua:2053?security=tls&allowInsecure=1&type=tcp#🇨🇳CN%20|%20trojan%20|%20@forwardv2ray%20|%208
+trojan://b3902e81-6260-4932-bcc9-708445fe40b4@frt2.sshocean.net:443?security=tls&sni=frt2.sshocean.net&allowInsecure=1&type=tcp#🇫🇷FR%20|%20trojan%20|%20@forwardv2ray%20|%2012
+trojan://9bb27128-e6d2-4cac-bbd3-beb46c4417f8@sk01.trojanyyds.xyz:443?security=tls&allowInsecure=1&type=tcp#🇭🇰HK%20|%20trojan%20|%20@forwardv2ray%20|%2013
 trojan://147669c0-cbef-11ee-b2e9-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp&sni=irancell.ir#🇫🇷FR%20|%20trojan%20|%20@FAKEOFTVC%20|%202
