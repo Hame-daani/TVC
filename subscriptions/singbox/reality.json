@@ -184,8 +184,10 @@
                 "🏳️XX | vless | @Good_V2rayy | 2",
                 "🇺🇸US | vless | @FoXrayIran | 2",
                 "🇬🇧GB | vless | @FoXrayIran | 4",
-                "🏳️XX | vless | @TVCminer | 5",
-                "🏳️XX | vless | @TVCminer | 9"
+                "🇫🇮FI | vless | @TVCminer | 5",
+                "🇩🇪DE | vless | @TVCminer | 6",
+                "🇩🇪DE | vless | @TVCminer | 7",
+                "🇩🇪DE | vless | @TVCminer | 8"
             ]
         },
         {
@@ -270,8 +272,10 @@
                 "🏳️XX | vless | @Good_V2rayy | 2",
                 "🇺🇸US | vless | @FoXrayIran | 2",
                 "🇬🇧GB | vless | @FoXrayIran | 4",
-                "🏳️XX | vless | @TVCminer | 5",
-                "🏳️XX | vless | @TVCminer | 9"
+                "🇫🇮FI | vless | @TVCminer | 5",
+                "🇩🇪DE | vless | @TVCminer | 6",
+                "🇩🇪DE | vless | @TVCminer | 7",
+                "🇩🇪DE | vless | @TVCminer | 8"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -2941,11 +2945,11 @@
             }
         },
         {
-            "tag": "🏳️XX | vless | @TVCminer | 5",
+            "tag": "🇫🇮FI | vless | @TVCminer | 5",
             "type": "vless",
-            "server": "[2a01:4f9:c010:6fb9::2d]",
+            "server": "95.217.160.17",
             "server_port": 443,
-            "uuid": "4566efc8-ac00-40a7-a300-729a58325a0d",
+            "uuid": "72f56335-bab8-4fbf-8ac5-a7e3de51a5f9",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -2955,33 +2959,33 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "gsmarena.com",
+                "server_name": "datadoghq.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "chrome"
+                    "fingerprint": "firefox"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "AVesZ9rUbwnESVl0YSPs98oWmZbXlhDVjR4ssJAw6yw",
-                    "short_id": "32d7a82d"
+                    "public_key": "KaoZnDe6evEmpWmpRl9GwZ3rrSr3NOLln_kqF-s2fC4",
+                    "short_id": "ebcc6ba4"
                 }
             },
             "transport": {
                 "type": "grpc",
-                "service_name": "@Everyday_VPN",
+                "service_name": "@V2ray_Alpha@V2ray_Alpha@V2ray_Alpha",
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
             }
         },
         {
-            "tag": "🏳️XX | vless | @TVCminer | 9",
+            "tag": "🇩🇪DE | vless | @TVCminer | 6",
             "type": "vless",
-            "server": "[2a01:4f9:c010:6fb9::2b]",
-            "server_port": 443,
-            "uuid": "38f30c94-7bb8-4fcc-8574-17fb02677d7e",
+            "server": "49.13.56.103",
+            "server_port": 80,
+            "uuid": "78ae3da4-3170-446f-903b-83ba0a43247e",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -2991,7 +2995,43 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "gsmarena.com",
+                "server_name": "greenpepper.ir",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "dCdZipsPFMbbPDZca81KnDRmUeLQcleR4IjhAdL_Zx0",
+                    "short_id": "89d5e3b5"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "s3cdn1.norbertpro.site",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
+            }
+        },
+        {
+            "tag": "🇩🇪DE | vless | @TVCminer | 7",
+            "type": "vless",
+            "server": "167.235.130.134",
+            "server_port": 443,
+            "uuid": "c1272294-cba2-4fe2-8663-93cf92bab9be",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "none.felinefreedom.site",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -3000,13 +3040,42 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "AVesZ9rUbwnESVl0YSPs98oWmZbXlhDVjR4ssJAw6yw",
-                    "short_id": "32d7a82d"
+                    "public_key": "It8T_WWejuo-QOwZsYWbe5gRBDQOLXp9wfnWDo_FIFQ",
+                    "short_id": "4e69ed37"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪DE | vless | @TVCminer | 8",
+            "type": "vless",
+            "server": "5.75.195.175",
+            "server_port": 2053,
+            "uuid": "1c0bcecb-12b6-4683-abc6-cae98174d2d8",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "discordapp.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
+                    "short_id": ""
                 }
             },
             "transport": {
                 "type": "grpc",
-                "service_name": "@Everyday_VPN",
+                "service_name": "xyz",
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
