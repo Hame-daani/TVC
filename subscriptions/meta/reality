@@ -145,7 +145,7 @@ proxies:
   - {"name":"🇩🇪DE | vless | @v2logy | 0","type":"vless","server":"116.202.103.212","port":443,"udp":true,"uuid":"ac554074-ad55-41c6-9fc1-5af16ace00f1","tls":true,"network":"grpc","client-fingerprint":"firefox","servername":"www.danishshakeel.me","grpc-opts":{"grpc-service-name":"@ipV2Ray"},"reality-opts":{"public-key":"dt-8AYayJYIhVUKUcfNwD7t67i199CiGWqGfcsYj2Wo","short-id":"0cb80458"}}
   - {"name":"🇩🇪DE | vless | @v2logy | 1","type":"vless","server":"49.13.136.109","port":443,"udp":true,"uuid":"ac554074-ad55-41c6-9fc1-5af16ace00f1","tls":true,"network":"grpc","client-fingerprint":"firefox","servername":"albasir.in","grpc-opts":{"grpc-service-name":"@ipV2Ray"},"reality-opts":{"public-key":"Bd-_Pb-tDjuVjONc59pDmblvX6tUx_-fsJDs8fAYTG4","short-id":"0cb80458"}}
   - {"name":"🏳️XX | vless | @azadi_az_inja_migzare | 0","type":"vless","server":"[2a01:4f9:c011:64f::2d]","port":443,"udp":true,"uuid":"2cc2c64a-f1ff-44d4-ac05-4037adc9a3e2","tls":true,"network":"grpc","client-fingerprint":"chrome","servername":"gsmarena.com","grpc-opts":{"grpc-service-name":"@Everyday_VPN"},"reality-opts":{"public-key":"AVesZ9rUbwnESVl0YSPs98oWmZbXlhDVjR4ssJAw6yw","short-id":"32d7a82d"}}
-  - {"name":"🇳🇱NL | vless | @V2rayCollectorDonate | 8","type":"vless","server":"128.199.60.64","port":443,"udp":true,"uuid":"bcb032f0-9b14-4451-8ced-e64b4838c51d","tls":true,"network":"grpc","client-fingerprint":"firefox","servername":"*.feedthemplants.com","grpc-opts":{"grpc-service-name":"@ipV2Ray"},"reality-opts":{"public-key":"6w1YppYTfGfJgldQ8RseRFwlA2MQ9CGdA2AgyAJctD0","short-id":"a626e83e"}}
+  - {"name":"🇳🇱NL | vless | @V2rayCollectorDonate | 10","type":"vless","server":"128.199.60.64","port":443,"udp":true,"uuid":"bcb032f0-9b14-4451-8ced-e64b4838c51d","tls":true,"network":"grpc","client-fingerprint":"firefox","servername":"*.feedthemplants.com","grpc-opts":{"grpc-service-name":"@ipV2Ray"},"reality-opts":{"public-key":"6w1YppYTfGfJgldQ8RseRFwlA2MQ9CGdA2AgyAJctD0","short-id":"a626e83e"}}
   - {"name":"🇩🇪DE | vless | @prrofile_purple | 171","type":"vless","server":"ab.rxteam.live","port":2030,"udp":true,"uuid":"9f8cdb9c-cdc8-4df7-9f67-e785a697789b","tls":true,"network":"grpc","client-fingerprint":"firefox","servername":"sourceforge.net","grpc-opts":{"grpc-service-name":""},"reality-opts":{"public-key":"kiIIZgLNjhbbfCgtoufy4fWgGwrqA4C8cUQ6V7DlgwA","short-id":"f69d5f03"}}
   - {"name":"🇩🇪DE | vless | @FalconPolV2rayNG | 5","type":"vless","server":"188.34.194.108","port":443,"udp":true,"uuid":"cb00ef4a-fcf7-484a-8c49-6a2422ed84e6","tls":true,"network":"grpc","client-fingerprint":"firefox","servername":"ftp.debian.org","grpc-opts":{"grpc-service-name":"@ipV2Ray"},"reality-opts":{"public-key":"W6ol7KU4fjV1mBS2aG_xs8emIKsqF8y6Ufva-2MRa20","short-id":"9d2b63ad"}}
   - {"name":"🇳🇱NL | vless | @v2ray_swhil | 3","type":"vless","server":"165.232.87.109","port":443,"udp":true,"uuid":"9ffd7abc-6d40-46a2-b0d6-71c2d1f1fcd6","tls":true,"network":"grpc","client-fingerprint":"firefox","servername":"mail.feedthemplants.com","grpc-opts":{"grpc-service-name":"@ipV2Ray"},"reality-opts":{"public-key":"mZ55nxRoRWqdnZH5lDRenJTJmeKrfXl6gbkU2gtn6XE","short-id":"727f53e2"}}
@@ -219,7 +219,7 @@ proxy-groups:
       - '🇩🇪DE | vless | @v2logy | 0'
       - '🇩🇪DE | vless | @v2logy | 1'
       - '🏳️XX | vless | @azadi_az_inja_migzare | 0'
-      - '🇳🇱NL | vless | @V2rayCollectorDonate | 8'
+      - '🇳🇱NL | vless | @V2rayCollectorDonate | 10'
       - '🇩🇪DE | vless | @prrofile_purple | 171'
       - '🇩🇪DE | vless | @FalconPolV2rayNG | 5'
       - '🇳🇱NL | vless | @v2ray_swhil | 3'
@@ -293,7 +293,7 @@ proxy-groups:
       - '🇩🇪DE | vless | @v2logy | 0'
       - '🇩🇪DE | vless | @v2logy | 1'
       - '🏳️XX | vless | @azadi_az_inja_migzare | 0'
-      - '🇳🇱NL | vless | @V2rayCollectorDonate | 8'
+      - '🇳🇱NL | vless | @V2rayCollectorDonate | 10'
       - '🇩🇪DE | vless | @prrofile_purple | 171'
       - '🇩🇪DE | vless | @FalconPolV2rayNG | 5'
       - '🇳🇱NL | vless | @v2ray_swhil | 3'
@@ -366,7 +366,7 @@ proxy-groups:
       - '🇩🇪DE | vless | @v2logy | 0'
       - '🇩🇪DE | vless | @v2logy | 1'
       - '🏳️XX | vless | @azadi_az_inja_migzare | 0'
-      - '🇳🇱NL | vless | @V2rayCollectorDonate | 8'
+      - '🇳🇱NL | vless | @V2rayCollectorDonate | 10'
       - '🇩🇪DE | vless | @prrofile_purple | 171'
       - '🇩🇪DE | vless | @FalconPolV2rayNG | 5'
       - '🇳🇱NL | vless | @v2ray_swhil | 3'
