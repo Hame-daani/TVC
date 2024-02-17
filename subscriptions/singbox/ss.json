@@ -128,7 +128,6 @@
                 "🇦🇹AT | ss | @OutlineVpnOfficial | 15",
                 "🇺🇸US | ss | @OutlineVpnOfficial | 16",
                 "🇺🇸US | ss | @OutlineVpnOfficial | 17",
-                "🇨🇳CN | ss | @forwardv2ray | 3",
                 "🇬🇧GB | ss | @kingofilter | 2",
                 "🇸🇪SE | ss | @kingofilter | 8",
                 "🇺🇸US | ss | @ROMAX_VPN | 2",
@@ -162,7 +161,6 @@
                 "🇦🇹AT | ss | @OutlineVpnOfficial | 15",
                 "🇺🇸US | ss | @OutlineVpnOfficial | 16",
                 "🇺🇸US | ss | @OutlineVpnOfficial | 17",
-                "🇨🇳CN | ss | @forwardv2ray | 3",
                 "🇬🇧GB | ss | @kingofilter | 2",
                 "🇸🇪SE | ss | @kingofilter | 8",
                 "🇺🇸US | ss | @ROMAX_VPN | 2",
@@ -406,16 +404,6 @@
             "server_port": 2443,
             "method": "aes-256-gcm",
             "password": "hh4JlBhsJ0JthpDP3vIwxXvJWHknI16AijGx6sbcqWI=",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "🇨🇳CN | ss | @forwardv2ray | 3",
-            "type": "shadowsocks",
-            "server": "bldipixb.rongkun.xyz",
-            "server_port": 41002,
-            "method": "aes-256-gcm",
-            "password": "b60c81ff-057b-471a-bc9a-55987648c827",
             "plugin": "",
             "plugin_opts": ""
         },
