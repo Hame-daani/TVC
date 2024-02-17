@@ -128,9 +128,9 @@
                 "🇦🇹AT | ss | @OutlineVpnOfficial | 15",
                 "🇺🇸US | ss | @OutlineVpnOfficial | 16",
                 "🇺🇸US | ss | @OutlineVpnOfficial | 17",
-                "🇬🇧GB | ss | @forwardv2ray | 2",
-                "🇳🇱NL | ss | @forwardv2ray | 6",
-                "🇳🇱NL | ss | @forwardv2ray | 7",
+                "🇬🇧GB | ss | @forwardv2ray | 6",
+                "🇳🇱NL | ss | @forwardv2ray | 12",
+                "🇳🇱NL | ss | @forwardv2ray | 13",
                 "🇬🇧GB | ss | @kingofilter | 2",
                 "🇸🇪SE | ss | @kingofilter | 8",
                 "🇺🇸US | ss | @ROMAX_VPN | 2",
@@ -164,9 +164,9 @@
                 "🇦🇹AT | ss | @OutlineVpnOfficial | 15",
                 "🇺🇸US | ss | @OutlineVpnOfficial | 16",
                 "🇺🇸US | ss | @OutlineVpnOfficial | 17",
-                "🇬🇧GB | ss | @forwardv2ray | 2",
-                "🇳🇱NL | ss | @forwardv2ray | 6",
-                "🇳🇱NL | ss | @forwardv2ray | 7",
+                "🇬🇧GB | ss | @forwardv2ray | 6",
+                "🇳🇱NL | ss | @forwardv2ray | 12",
+                "🇳🇱NL | ss | @forwardv2ray | 13",
                 "🇬🇧GB | ss | @kingofilter | 2",
                 "🇸🇪SE | ss | @kingofilter | 8",
                 "🇺🇸US | ss | @ROMAX_VPN | 2",
@@ -414,7 +414,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "🇬🇧GB | ss | @forwardv2ray | 2",
+            "tag": "🇬🇧GB | ss | @forwardv2ray | 6",
             "type": "shadowsocks",
             "server": "series-a2-me.samanehha.co",
             "server_port": 443,
@@ -424,7 +424,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "🇳🇱NL | ss | @forwardv2ray | 6",
+            "tag": "🇳🇱NL | ss | @forwardv2ray | 12",
             "type": "shadowsocks",
             "server": "172.233.57.5",
             "server_port": 8080,
@@ -434,7 +434,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "🇳🇱NL | ss | @forwardv2ray | 7",
+            "tag": "🇳🇱NL | ss | @forwardv2ray | 13",
             "type": "shadowsocks",
             "server": "172.233.51.96",
             "server_port": 8080,
