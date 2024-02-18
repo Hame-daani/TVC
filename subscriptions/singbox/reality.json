@@ -148,11 +148,10 @@
                 "🇩🇪DE | vless | @Capital_NET | 36",
                 "🏳️XX | vless | @Capital_NET | 37",
                 "🏳️XX | vless | @Capital_NET | 39",
-                "🇳🇱NL | vless | @Capital_NET | 41",
+                "🇨🇦CA | vless | @Capital_NET | 41",
                 "🇩🇪DE | vless | @Capital_NET | 42",
                 "🏳️XX | vless | @Capital_NET | 44",
                 "🇩🇪DE | vless | @Capital_NET | 45",
-                "🏳️XX | vless | @forwardv2ray | 15",
                 "🇸🇪SE | vless | @kiava | 2",
                 "🇸🇪SE | vless | @kiava | 3",
                 "🇫🇮FI | vless | @vpn_go67 | 9",
@@ -180,9 +179,9 @@
                 "🏳️XX | vless | @Good_V2rayy | 2",
                 "🇺🇸US | vless | @FoXrayIran | 2",
                 "🇬🇧GB | vless | @FoXrayIran | 4",
-                "🇺🇸US | vless | @TVCminer | 6",
-                "🇩🇪DE | vless | @TVCminer | 7",
-                "🇫🇮FI | vless | @TVCminer | 17"
+                "🇺🇸US | vless | @TVCminer | 5",
+                "🇩🇪DE | vless | @TVCminer | 6",
+                "🇫🇮FI | vless | @TVCminer | 16"
             ]
         },
         {
@@ -231,11 +230,10 @@
                 "🇩🇪DE | vless | @Capital_NET | 36",
                 "🏳️XX | vless | @Capital_NET | 37",
                 "🏳️XX | vless | @Capital_NET | 39",
-                "🇳🇱NL | vless | @Capital_NET | 41",
+                "🇨🇦CA | vless | @Capital_NET | 41",
                 "🇩🇪DE | vless | @Capital_NET | 42",
                 "🏳️XX | vless | @Capital_NET | 44",
                 "🇩🇪DE | vless | @Capital_NET | 45",
-                "🏳️XX | vless | @forwardv2ray | 15",
                 "🇸🇪SE | vless | @kiava | 2",
                 "🇸🇪SE | vless | @kiava | 3",
                 "🇫🇮FI | vless | @vpn_go67 | 9",
@@ -263,9 +261,9 @@
                 "🏳️XX | vless | @Good_V2rayy | 2",
                 "🇺🇸US | vless | @FoXrayIran | 2",
                 "🇬🇧GB | vless | @FoXrayIran | 4",
-                "🇺🇸US | vless | @TVCminer | 6",
-                "🇩🇪DE | vless | @TVCminer | 7",
-                "🇫🇮FI | vless | @TVCminer | 17"
+                "🇺🇸US | vless | @TVCminer | 5",
+                "🇩🇪DE | vless | @TVCminer | 6",
+                "🇫🇮FI | vless | @TVCminer | 16"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -1716,7 +1714,7 @@
             }
         },
         {
-            "tag": "🇳🇱NL | vless | @Capital_NET | 41",
+            "tag": "🇨🇦CA | vless | @Capital_NET | 41",
             "type": "vless",
             "server": "194.5.97.158",
             "server_port": 443,
@@ -1829,42 +1827,6 @@
                     "public_key": "fabWUdBWxh7NsMaqOF35petD3ljQbKf6OSDnROV9jDs",
                     "short_id": "6f9deca7"
                 }
-            }
-        },
-        {
-            "tag": "🏳️XX | vless | @forwardv2ray | 15",
-            "type": "vless",
-            "server": "[2a01:4f8:1c0c:7523::1]",
-            "server_port": 2096,
-            "uuid": "cc7a59ce-eee7-4503-afc1-d73703c40993",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "sourceforge.net",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "fkSxbZt-AETccsW2WfmHBP5RhiLy6Nk1vdEgYdnYQUc",
-                    "short_id": "c8129c93"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "ZEDMODEON-ZEDMODEON",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
             }
         },
         {
@@ -2791,7 +2753,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | vless | @TVCminer | 6",
+            "tag": "🇺🇸US | vless | @TVCminer | 5",
             "type": "vless",
             "server": "45.77.210.181",
             "server_port": 443,
@@ -2820,7 +2782,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | vless | @TVCminer | 7",
+            "tag": "🇩🇪DE | vless | @TVCminer | 6",
             "type": "vless",
             "server": "159.69.117.204",
             "server_port": 443,
@@ -2856,7 +2818,7 @@
             }
         },
         {
-            "tag": "🇫🇮FI | vless | @TVCminer | 17",
+            "tag": "🇫🇮FI | vless | @TVCminer | 16",
             "type": "vless",
             "server": "37.27.24.220",
             "server_port": 25365,
