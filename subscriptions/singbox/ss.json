@@ -107,7 +107,7 @@
             "outbounds": [
                 "URL-TEST",
                 "🏳️XX | ss | @azadi_az_inja_migzare | 2",
-                "🏳️XX | ss | @V2rayCollectorDonate | 7",
+                "🏳️XX | ss | @V2rayCollectorDonate | 8",
                 "🇬🇧GB | ss | @DeamNet_Proxy | 8",
                 "🇬🇧GB | ss | @DeamNet_Proxy | 14",
                 "🇬🇧GB | ss | @DeamNet_Proxy | 17",
@@ -138,7 +138,7 @@
             "type": "urltest",
             "outbounds": [
                 "🏳️XX | ss | @azadi_az_inja_migzare | 2",
-                "🏳️XX | ss | @V2rayCollectorDonate | 7",
+                "🏳️XX | ss | @V2rayCollectorDonate | 8",
                 "🇬🇧GB | ss | @DeamNet_Proxy | 8",
                 "🇬🇧GB | ss | @DeamNet_Proxy | 14",
                 "🇬🇧GB | ss | @DeamNet_Proxy | 17",
@@ -194,7 +194,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "🏳️XX | ss | @V2rayCollectorDonate | 7",
+            "tag": "🏳️XX | ss | @V2rayCollectorDonate | 8",
             "type": "shadowsocks",
             "server": "[::ffff:12ab:7d73]",
             "server_port": 443,
