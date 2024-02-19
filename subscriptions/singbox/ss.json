@@ -108,9 +108,9 @@
                 "URL-TEST",
                 "🏳️XX | ss | @azadi_az_inja_migzare | 2",
                 "🏳️XX | ss | @V2rayCollectorDonate | 8",
-                "🇬🇧GB | ss | @DeamNet_Proxy | 8",
-                "🇬🇧GB | ss | @DeamNet_Proxy | 14",
-                "🇬🇧GB | ss | @DeamNet_Proxy | 17",
+                "🇬🇧GB | ss | @DeamNet_Proxy | 9",
+                "🇬🇧GB | ss | @DeamNet_Proxy | 15",
+                "🇬🇧GB | ss | @DeamNet_Proxy | 18",
                 "🇬🇧GB | ss | @proxyymeliii | 6",
                 "🇸🇪SE | ss | @OutlineVpnOfficial | 3",
                 "🇸🇬SG | ss | @OutlineVpnOfficial | 4",
@@ -139,9 +139,9 @@
             "outbounds": [
                 "🏳️XX | ss | @azadi_az_inja_migzare | 2",
                 "🏳️XX | ss | @V2rayCollectorDonate | 8",
-                "🇬🇧GB | ss | @DeamNet_Proxy | 8",
-                "🇬🇧GB | ss | @DeamNet_Proxy | 14",
-                "🇬🇧GB | ss | @DeamNet_Proxy | 17",
+                "🇬🇧GB | ss | @DeamNet_Proxy | 9",
+                "🇬🇧GB | ss | @DeamNet_Proxy | 15",
+                "🇬🇧GB | ss | @DeamNet_Proxy | 18",
                 "🇬🇧GB | ss | @proxyymeliii | 6",
                 "🇸🇪SE | ss | @OutlineVpnOfficial | 3",
                 "🇸🇬SG | ss | @OutlineVpnOfficial | 4",
@@ -204,7 +204,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "🇬🇧GB | ss | @DeamNet_Proxy | 8",
+            "tag": "🇬🇧GB | ss | @DeamNet_Proxy | 9",
             "type": "shadowsocks",
             "server": "series-a2-mec.samanehha.co",
             "server_port": 443,
@@ -214,7 +214,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "🇬🇧GB | ss | @DeamNet_Proxy | 14",
+            "tag": "🇬🇧GB | ss | @DeamNet_Proxy | 15",
             "type": "shadowsocks",
             "server": "series-a2.samanehha.co",
             "server_port": 443,
@@ -224,7 +224,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "🇬🇧GB | ss | @DeamNet_Proxy | 17",
+            "tag": "🇬🇧GB | ss | @DeamNet_Proxy | 18",
             "type": "shadowsocks",
             "server": "series-a2-me.samanehha.co",
             "server_port": 443,
