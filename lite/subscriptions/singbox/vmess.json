@@ -108,11 +108,15 @@
                 "URL-TEST",
                 "🇬🇧GB | vmess | @v2ray_outlineir | 0",
                 "🇺🇸US | vmess | @mftizi | 18",
-                "🇨🇦CA | vmess | @oneclickvpnkeys | 8",
-                "🇨🇦CA | vmess | @V2rayng_Fast | 0",
-                "🇨🇦CA | vmess | @free1_vpn | 0",
+                "🇨🇦CA | vmess | @DeamNet_Proxy | 19",
+                "🇨🇦CA | vmess | @oneclickvpnkeys | 9",
+                "🇨🇦CA | vmess | @V2rayng_Fast | 1",
+                "🇮🇷IR | vmess | @proxyymeliii | 17",
+                "🇨🇦CA | vmess | @yaney_01 | 7",
+                "🇨🇦CA | vmess | @free1_vpn | 1",
                 "🇺🇸US | vmess | @v2Line | 6",
-                "🇨🇦CA | vmess | @eliya_chiter0 | 2"
+                "🇨🇦CA | vmess | @eliya_chiter0 | 2",
+                "🇨🇦CA | vmess | @FoXrayIran | 3"
             ]
         },
         {
@@ -121,11 +125,15 @@
             "outbounds": [
                 "🇬🇧GB | vmess | @v2ray_outlineir | 0",
                 "🇺🇸US | vmess | @mftizi | 18",
-                "🇨🇦CA | vmess | @oneclickvpnkeys | 8",
-                "🇨🇦CA | vmess | @V2rayng_Fast | 0",
-                "🇨🇦CA | vmess | @free1_vpn | 0",
+                "🇨🇦CA | vmess | @DeamNet_Proxy | 19",
+                "🇨🇦CA | vmess | @oneclickvpnkeys | 9",
+                "🇨🇦CA | vmess | @V2rayng_Fast | 1",
+                "🇮🇷IR | vmess | @proxyymeliii | 17",
+                "🇨🇦CA | vmess | @yaney_01 | 7",
+                "🇨🇦CA | vmess | @free1_vpn | 1",
                 "🇺🇸US | vmess | @v2Line | 6",
-                "🇨🇦CA | vmess | @eliya_chiter0 | 2"
+                "🇨🇦CA | vmess | @eliya_chiter0 | 2",
+                "🇨🇦CA | vmess | @FoXrayIran | 3"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -182,10 +190,44 @@
             }
         },
         {
-            "tag": "🇨🇦CA | vmess | @oneclickvpnkeys | 8",
+            "tag": "🇨🇦CA | vmess | @DeamNet_Proxy | 19",
+            "type": "vmess",
+            "server": "172.67.133.78",
+            "server_port": 2053,
+            "uuid": "0f1b29b8-0f0f-431a-b6d1-035803a95c32",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "v2ray.ibgfw.top",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/vVNUJOgb\/",
+                "headers": {
+                    "Host": "v2ray.ibgfw.top"
+                }
+            }
+        },
+        {
+            "tag": "🇨🇦CA | vmess | @oneclickvpnkeys | 9",
             "type": "vmess",
             "server": "warp-sub.pages.dev",
-            "server_port": 2083,
+            "server_port": 443,
             "uuid": "06195b5b-3815-4a07-96f7-47eefbb1b143",
             "security": "auto",
             "alter_id": 0,
@@ -216,7 +258,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | vmess | @V2rayng_Fast | 0",
+            "tag": "🇨🇦CA | vmess | @V2rayng_Fast | 1",
             "type": "vmess",
             "server": "104.21.30.254",
             "server_port": 443,
@@ -250,7 +292,48 @@
             }
         },
         {
-            "tag": "🇨🇦CA | vmess | @free1_vpn | 0",
+            "tag": "🇮🇷IR | vmess | @proxyymeliii | 17",
+            "type": "vmess",
+            "server": "193.151.142.196",
+            "server_port": 16048,
+            "uuid": "67823cc6-821a-484a-b809-23758629fef6",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇨🇦CA | vmess | @yaney_01 | 7",
+            "type": "vmess",
+            "server": "172.67.217.144",
+            "server_port": 80,
+            "uuid": "85674552-ce41-44d9-bb2a-50f76450b3d8",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "172.67.217.144"
+                }
+            }
+        },
+        {
+            "tag": "🇨🇦CA | vmess | @free1_vpn | 1",
             "type": "vmess",
             "server": "104.21.33.32",
             "server_port": 443,
@@ -338,6 +421,30 @@
                 "path": "\/linkws",
                 "headers": {
                     "Host": "glweidf.cfd"
+                }
+            }
+        },
+        {
+            "tag": "🇨🇦CA | vmess | @FoXrayIran | 3",
+            "type": "vmess",
+            "server": "tl.iranray.online",
+            "server_port": 8080,
+            "uuid": "839a223f-7510-4556-91fc-03c9dcd9056b",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": ""
                 }
             }
         }
