@@ -106,12 +106,13 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇫🇷FR | vless | @NIM_VPN_ir | 5",
+                "🇫🇷FR | vless | @NIM_VPN_ir | 4",
                 "🇩🇪DE | vless | @ipV2Ray | 19",
                 "🇩🇪DE | vless | @ARv2ray | 10",
                 "🇩🇪DE | vless | @v2logy | 10",
                 "🇬🇧GB | vless | @azadi_az_inja_migzare | 2",
                 "🇩🇪DE | vless | @Capital_NET | 45",
+                "🇳🇱NL | vless | @forwardv2ray | 17",
                 "🏳️XX | vless | @vpn_go67 | 23"
             ]
         },
@@ -119,12 +120,13 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇫🇷FR | vless | @NIM_VPN_ir | 5",
+                "🇫🇷FR | vless | @NIM_VPN_ir | 4",
                 "🇩🇪DE | vless | @ipV2Ray | 19",
                 "🇩🇪DE | vless | @ARv2ray | 10",
                 "🇩🇪DE | vless | @v2logy | 10",
                 "🇬🇧GB | vless | @azadi_az_inja_migzare | 2",
                 "🇩🇪DE | vless | @Capital_NET | 45",
+                "🇳🇱NL | vless | @forwardv2ray | 17",
                 "🏳️XX | vless | @vpn_go67 | 23"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -148,7 +150,7 @@
             "type": "dns"
         },
         {
-            "tag": "🇫🇷FR | vless | @NIM_VPN_ir | 5",
+            "tag": "🇫🇷FR | vless | @NIM_VPN_ir | 4",
             "type": "vless",
             "server": "95.179.217.33",
             "server_port": 45712,
@@ -179,7 +181,7 @@
         {
             "tag": "🇩🇪DE | vless | @ipV2Ray | 19",
             "type": "vless",
-            "server": "116.202.103.212",
+            "server": "49.13.139.192",
             "server_port": 443,
             "uuid": "ac554074-ad55-41c6-9fc1-5af16ace00f1",
             "flow": "xtls-rprx-vision",
@@ -191,7 +193,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "www.danishshakeel.me",
+                "server_name": "*.danishshakeel.me",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -200,8 +202,8 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "dt-8AYayJYIhVUKUcfNwD7t67i199CiGWqGfcsYj2Wo",
-                    "short_id": "0cb80458"
+                    "public_key": "jSxs7VtFMN2tQOo9dKG63UHNfjqcXt-krPDrEfer1n4",
+                    "short_id": "45796768"
                 }
             },
             "transport": {
@@ -347,6 +349,42 @@
                     "public_key": "fabWUdBWxh7NsMaqOF35petD3ljQbKf6OSDnROV9jDs",
                     "short_id": "6f9deca7"
                 }
+            }
+        },
+        {
+            "tag": "🇳🇱NL | vless | @forwardv2ray | 17",
+            "type": "vless",
+            "server": "159.223.227.52",
+            "server_port": 443,
+            "uuid": "99df74d0-d7e6-4cc6-aa0e-4500c1881ae0",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "*.digitalocean.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "TsjAPMbbbHZkKgLEi4oNOBRn02rxRCU1gG0YVQCajTI",
+                    "short_id": "9e649bed"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "@ipV2Ray",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
             }
         },
         {
