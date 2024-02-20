@@ -109,13 +109,11 @@
                 "🇬🇧GB | vmess | @v2ray_outlineir | 0",
                 "🇺🇸US | vmess | @mftizi | 18",
                 "🇨🇦CA | vmess | @DeamNet_Proxy | 19",
-                "🇨🇦CA | vmess | @oneclickvpnkeys | 6",
+                "🇨🇦CA | vmess | @oneclickvpnkeys | 5",
                 "🇨🇦CA | vmess | @V2rayng_Fast | 1",
-                "🇮🇷IR | vmess | @proxyymeliii | 17",
                 "🇨🇦CA | vmess | @yaney_01 | 7",
                 "🇨🇦CA | vmess | @free1_vpn | 1",
                 "🇺🇸US | vmess | @v2Line | 6",
-                "🇨🇦CA | vmess | @forwardv2ray | 18",
                 "🇨🇦CA | vmess | @eliya_chiter0 | 2",
                 "🇨🇦CA | vmess | @FoXrayIran | 3"
             ]
@@ -127,13 +125,11 @@
                 "🇬🇧GB | vmess | @v2ray_outlineir | 0",
                 "🇺🇸US | vmess | @mftizi | 18",
                 "🇨🇦CA | vmess | @DeamNet_Proxy | 19",
-                "🇨🇦CA | vmess | @oneclickvpnkeys | 6",
+                "🇨🇦CA | vmess | @oneclickvpnkeys | 5",
                 "🇨🇦CA | vmess | @V2rayng_Fast | 1",
-                "🇮🇷IR | vmess | @proxyymeliii | 17",
                 "🇨🇦CA | vmess | @yaney_01 | 7",
                 "🇨🇦CA | vmess | @free1_vpn | 1",
                 "🇺🇸US | vmess | @v2Line | 6",
-                "🇨🇦CA | vmess | @forwardv2ray | 18",
                 "🇨🇦CA | vmess | @eliya_chiter0 | 2",
                 "🇨🇦CA | vmess | @FoXrayIran | 3"
             ],
@@ -226,9 +222,9 @@
             }
         },
         {
-            "tag": "🇨🇦CA | vmess | @oneclickvpnkeys | 6",
+            "tag": "🇨🇦CA | vmess | @oneclickvpnkeys | 5",
             "type": "vmess",
-            "server": "172.67.68.246",
+            "server": "maggiy.shop",
             "server_port": 443,
             "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
             "security": "auto",
@@ -243,7 +239,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "vip2323.cfd",
+                "server_name": "maggiy.shop",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -255,7 +251,7 @@
                 "type": "ws",
                 "path": "\/linkvws",
                 "headers": {
-                    "Host": "vip2323.cfd"
+                    "Host": "maggiy.shop"
                 }
             }
         },
@@ -291,23 +287,6 @@
                 "headers": {
                     "Host": "nina.bond"
                 }
-            }
-        },
-        {
-            "tag": "🇮🇷IR | vmess | @proxyymeliii | 17",
-            "type": "vmess",
-            "server": "193.151.142.196",
-            "server_port": 16048,
-            "uuid": "67823cc6-821a-484a-b809-23758629fef6",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         },
         {
@@ -389,30 +368,6 @@
                 "path": "\/vmess",
                 "headers": {
                     "Host": "ca2.xv2ray.net"
-                }
-            }
-        },
-        {
-            "tag": "🇨🇦CA | vmess | @forwardv2ray | 18",
-            "type": "vmess",
-            "server": "104.21.236.82",
-            "server_port": 80,
-            "uuid": "7022982f-da4c-48c9-c660-b2315abdcf7e",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": ""
                 }
             }
         },
