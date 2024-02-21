@@ -117,7 +117,7 @@
                 "🇨🇦CA | vless | @Lockey_vpn | 9",
                 "🇨🇦CA | vless | @rxv2ray | 21",
                 "🇨🇦CA | vless | @free_v2rayyy | 5",
-                "🇨🇷CR | vless | @lightning6 | 23",
+                "🇺🇸US | vless | @lightning6 | 23",
                 "🇨🇦CA | vless | @V2rayNGmat | 1",
                 "🏳️XX | vless | @CUSTOMVPNSERVER | 14",
                 "🇺🇸US | vless | @DigiV2ray | 15",
@@ -144,16 +144,15 @@
                 "🇨🇦CA | vless | @DailyV2RY | 97",
                 "🏳️XX | vless | @lrnbymaa | 5",
                 "🇨🇦CA | vless | @proxystore11 | 14",
-                "🇨🇦CA | vless | @fnet00 | 7",
                 "🇨🇦CA | vless | @polproxy | 3",
                 "🇨🇦CA | vless | @Outlinev2rayNG | 18",
                 "🇨🇦CA | vless | @v2rayng_config_amin | 4",
                 "🇩🇪DE | vless | @Capital_NET | 45",
                 "🇨🇦CA | vless | @Capoit | 1",
                 "🇨🇦CA | vless | @flyv2ray | 14",
-                "🇩🇪DE | vless | @forwardv2ray | 18",
+                "🇨🇦CA | vless | @forwardv2ray | 16",
                 "🏳️XX | vless | @https_config_injector | 9",
-                "🇺🇸US | vless | @mehrosaboran | 22",
+                "🇨🇷CR | vless | @mehrosaboran | 25",
                 "🏳️XX | vless | @kiava | 5",
                 "🇨🇦CA | vless | @nofiltering2 | 1",
                 "🏳️XX | vless | @vpn_go67 | 23",
@@ -182,7 +181,7 @@
                 "🇨🇦CA | vless | @Lockey_vpn | 9",
                 "🇨🇦CA | vless | @rxv2ray | 21",
                 "🇨🇦CA | vless | @free_v2rayyy | 5",
-                "🇨🇷CR | vless | @lightning6 | 23",
+                "🇺🇸US | vless | @lightning6 | 23",
                 "🇨🇦CA | vless | @V2rayNGmat | 1",
                 "🏳️XX | vless | @CUSTOMVPNSERVER | 14",
                 "🇺🇸US | vless | @DigiV2ray | 15",
@@ -209,16 +208,15 @@
                 "🇨🇦CA | vless | @DailyV2RY | 97",
                 "🏳️XX | vless | @lrnbymaa | 5",
                 "🇨🇦CA | vless | @proxystore11 | 14",
-                "🇨🇦CA | vless | @fnet00 | 7",
                 "🇨🇦CA | vless | @polproxy | 3",
                 "🇨🇦CA | vless | @Outlinev2rayNG | 18",
                 "🇨🇦CA | vless | @v2rayng_config_amin | 4",
                 "🇩🇪DE | vless | @Capital_NET | 45",
                 "🇨🇦CA | vless | @Capoit | 1",
                 "🇨🇦CA | vless | @flyv2ray | 14",
-                "🇩🇪DE | vless | @forwardv2ray | 18",
+                "🇨🇦CA | vless | @forwardv2ray | 16",
                 "🏳️XX | vless | @https_config_injector | 9",
-                "🇺🇸US | vless | @mehrosaboran | 22",
+                "🇨🇷CR | vless | @mehrosaboran | 25",
                 "🏳️XX | vless | @kiava | 5",
                 "🇨🇦CA | vless | @nofiltering2 | 1",
                 "🏳️XX | vless | @vpn_go67 | 23",
@@ -571,7 +569,7 @@
             }
         },
         {
-            "tag": "🇨🇷CR | vless | @lightning6 | 23",
+            "tag": "🇺🇸US | vless | @lightning6 | 23",
             "type": "vless",
             "server": "LIGHTNING6-joinbede.liV2ray.xyz",
             "server_port": 2083,
@@ -1260,37 +1258,6 @@
             }
         },
         {
-            "tag": "🇨🇦CA | vless | @fnet00 | 7",
-            "type": "vless",
-            "server": "104.22.51.162",
-            "server_port": 443,
-            "uuid": "8b5fcc34-698b-45fe-9499-87da75257a08",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "kamy.CaUmaz.shop",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "@Fnet00",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
-            }
-        },
-        {
             "tag": "🇨🇦CA | vless | @polproxy | 3",
             "type": "vless",
             "server": "104.16.32.40",
@@ -1445,11 +1412,11 @@
             }
         },
         {
-            "tag": "🇩🇪DE | vless | @forwardv2ray | 18",
+            "tag": "🇨🇦CA | vless | @forwardv2ray | 16",
             "type": "vless",
-            "server": "ch1.add1.tech",
-            "server_port": 2052,
-            "uuid": "4ba0ef4d-1955-406f-a875-76483676f792",
+            "server": "104.16.32.40",
+            "server_port": 443,
+            "uuid": "d342d11e-d424-4583-b36e-524ab1f0afa4",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1457,11 +1424,21 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
+            "tls": {
+                "enabled": true,
+                "server_name": "baipiao206.stunning-bassoon.pages.dev",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
             "transport": {
                 "type": "ws",
-                "path": "\/",
+                "path": "\/Path\/Telegram@V2ray_alpha\/",
                 "headers": {
-                    "Host": "ch1.add1.tech"
+                    "Host": "baipiao206.stunning-bassoon.pages.dev"
                 }
             }
         },
@@ -1480,9 +1457,9 @@
             }
         },
         {
-            "tag": "🇺🇸US | vless | @mehrosaboran | 22",
+            "tag": "🇨🇷CR | vless | @mehrosaboran | 25",
             "type": "vless",
-            "server": "69.84.182.0",
+            "server": "190.93.246.241",
             "server_port": 2083,
             "uuid": "2ea77325-b4e3-454d-ab8d-b301c9a1ee2f",
             "flow": "",
@@ -1494,7 +1471,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "69.84.182.0",
+                "server_name": "190.93.246.241",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
