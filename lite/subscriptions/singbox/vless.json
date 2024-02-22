@@ -125,8 +125,8 @@
                 "🇩🇪DE | vless | @v2logy | 8",
                 "🇬🇧GB | vless | @azadi_az_inja_migzare | 2",
                 "🇨🇦CA | vless | @ProxyForOpeta | 1",
-                "🇨🇷CR | vless | @V2rayNGn | 38",
-                "🇨🇷CR | vless | @prrofile_purple | 174",
+                "🇺🇸US | vless | @V2rayNGn | 38",
+                "🇮🇷IR | vless | @prrofile_purple | 173",
                 "🇨🇦CA | vless | @customv2ray | 9",
                 "🇨🇦CA | vless | @UnlimitedDev | 10",
                 "🏳️XX | vless | @vmessorg | 10",
@@ -143,14 +143,14 @@
                 "🇨🇦CA | vless | @DailyV2RY | 109",
                 "🇨🇦CA | vless | @sinabigo | 3",
                 "🏳️XX | vless | @lrnbymaa | 4",
-                "🇮🇷IR | vless | @proxystore11 | 14",
+                "🇮🇷IR | vless | @proxystore11 | 15",
                 "🇨🇦CA | vless | @free1_vpn | 2",
                 "🇨🇦CA | vless | @polproxy | 4",
                 "🇨🇦CA | vless | @Outlinev2rayNG | 10",
                 "🇨🇦CA | vless | @v2rayng_config_amin | 4",
                 "🇩🇪DE | vless | @Capital_NET | 45",
                 "🇨🇦CA | vless | @Capoit | 1",
-                "🇨🇦CA | vless | @forwardv2ray | 15",
+                "🇨🇦CA | vless | @flyv2ray | 16",
                 "🇨🇦CA | vless | @FAKEOFTVC | 0",
                 "🇨🇳CN | vless | @mehrosaboran | 24",
                 "🇸🇪SE | vless | @kiava | 4",
@@ -162,7 +162,7 @@
                 "🇨🇦CA | vless | @IBv2ray | 3",
                 "🇨🇦CA | vless | @V2FETCH | 6",
                 "🏳️XX | vless | @VpnSkyy | 7",
-                "🇨🇦CA | vless | @TIKTOK_PROXY | 1",
+                "🇨🇦CA | vless | @TIKTOK_PROXY | 2",
                 "🇮🇷IR | vless | @TVCminer | 18"
             ]
         },
@@ -189,8 +189,8 @@
                 "🇩🇪DE | vless | @v2logy | 8",
                 "🇬🇧GB | vless | @azadi_az_inja_migzare | 2",
                 "🇨🇦CA | vless | @ProxyForOpeta | 1",
-                "🇨🇷CR | vless | @V2rayNGn | 38",
-                "🇨🇷CR | vless | @prrofile_purple | 174",
+                "🇺🇸US | vless | @V2rayNGn | 38",
+                "🇮🇷IR | vless | @prrofile_purple | 173",
                 "🇨🇦CA | vless | @customv2ray | 9",
                 "🇨🇦CA | vless | @UnlimitedDev | 10",
                 "🏳️XX | vless | @vmessorg | 10",
@@ -207,14 +207,14 @@
                 "🇨🇦CA | vless | @DailyV2RY | 109",
                 "🇨🇦CA | vless | @sinabigo | 3",
                 "🏳️XX | vless | @lrnbymaa | 4",
-                "🇮🇷IR | vless | @proxystore11 | 14",
+                "🇮🇷IR | vless | @proxystore11 | 15",
                 "🇨🇦CA | vless | @free1_vpn | 2",
                 "🇨🇦CA | vless | @polproxy | 4",
                 "🇨🇦CA | vless | @Outlinev2rayNG | 10",
                 "🇨🇦CA | vless | @v2rayng_config_amin | 4",
                 "🇩🇪DE | vless | @Capital_NET | 45",
                 "🇨🇦CA | vless | @Capoit | 1",
-                "🇨🇦CA | vless | @forwardv2ray | 15",
+                "🇨🇦CA | vless | @flyv2ray | 16",
                 "🇨🇦CA | vless | @FAKEOFTVC | 0",
                 "🇨🇳CN | vless | @mehrosaboran | 24",
                 "🇸🇪SE | vless | @kiava | 4",
@@ -226,7 +226,7 @@
                 "🇨🇦CA | vless | @IBv2ray | 3",
                 "🇨🇦CA | vless | @V2FETCH | 6",
                 "🏳️XX | vless | @VpnSkyy | 7",
-                "🇨🇦CA | vless | @TIKTOK_PROXY | 1",
+                "🇨🇦CA | vless | @TIKTOK_PROXY | 2",
                 "🇮🇷IR | vless | @TVCminer | 18"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -302,7 +302,7 @@
         {
             "tag": "🇮🇪IE | vless | @VlessConfig | 18",
             "type": "vless",
-            "server": "54.73.237.250",
+            "server": "18.200.220.181",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -354,7 +354,7 @@
         {
             "tag": "🇩🇪DE | vless | @ipV2Ray | 19",
             "type": "vless",
-            "server": "49.12.219.158",
+            "server": "49.12.72.62",
             "server_port": 443,
             "uuid": "b7c9d0ac-9ad2-4f19-a7af-4e5929a3409c",
             "flow": "xtls-rprx-vision",
@@ -366,7 +366,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "mail.janikdietz.de",
+                "server_name": "*.wearenimble.nl",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -375,8 +375,8 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "VfEhjBZ0DFFISRisJmhWLA33NPup4xvYsO9F1OEPnH0",
-                    "short_id": "7beac2be"
+                    "public_key": "pPpTgNj1bPnJ6cL_l3nSPacY6Bl2R2uctUi_ULZ0iR0",
+                    "short_id": "0d83afe9"
                 }
             },
             "transport": {
@@ -768,7 +768,7 @@
             }
         },
         {
-            "tag": "🇨🇷CR | vless | @V2rayNGn | 38",
+            "tag": "🇺🇸US | vless | @V2rayNGn | 38",
             "type": "vless",
             "server": "LIGHTNING6-joinbede.liV2ray.xyz",
             "server_port": 2083,
@@ -799,34 +799,17 @@
             }
         },
         {
-            "tag": "🇨🇷CR | vless | @prrofile_purple | 174",
+            "tag": "🇮🇷IR | vless | @prrofile_purple | 173",
             "type": "vless",
-            "server": "190.93.247.155",
-            "server_port": 443,
-            "uuid": "4bfd6a4b-c217-4cf5-88b9-eee90e72768e",
+            "server": "62.60.178.140",
+            "server_port": 8081,
+            "uuid": "5058e128-1907-4e72-f3d2-d22ad0a4d6a5",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "Punisher-V2rayCnc.radiotehran.org",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "@puni_shop_v2rayNG،@puni_shop_v2rayNG",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
             }
         },
         {
@@ -1229,7 +1212,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | vless | @proxystore11 | 14",
+            "tag": "🇮🇷IR | vless | @proxystore11 | 15",
             "type": "vless",
             "server": "46.245.64.63",
             "server_port": 41645,
@@ -1417,11 +1400,11 @@
             }
         },
         {
-            "tag": "🇨🇦CA | vless | @forwardv2ray | 15",
+            "tag": "🇨🇦CA | vless | @flyv2ray | 16",
             "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 80,
-            "uuid": "telegram-id-ArV2ray",
+            "server": "162.159.135.79",
+            "server_port": 443,
+            "uuid": "d672ec4f-afba-4f61-af09-eec872f97e99",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1429,11 +1412,21 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
+            "tls": {
+                "enabled": true,
+                "server_name": "test37.pages.dev",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
             "transport": {
                 "type": "ws",
-                "path": "\/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray",
+                "path": "\/Path\/Telegram@SINABIGO\/",
                 "headers": {
-                    "Host": "www.speedtest.net"
+                    "Host": "test37.pages.dev"
                 }
             }
         },
@@ -1715,7 +1708,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | vless | @TIKTOK_PROXY | 1",
+            "tag": "🇨🇦CA | vless | @TIKTOK_PROXY | 2",
             "type": "vless",
             "server": "104.17.243.121",
             "server_port": 2096,
