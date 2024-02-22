@@ -122,7 +122,6 @@
                 "🏳️XX | vless | @CUSTOMVPNSERVER | 14",
                 "🇺🇸US | vless | @DigiV2ray | 15",
                 "🇮🇷IR | vless | @DarkTeam_VPN | 2",
-                "🇨🇦CA | vless | @proxy_kafee | 2",
                 "🇨🇦CA | vless | @v2logy | 9",
                 "🇬🇧GB | vless | @azadi_az_inja_migzare | 2",
                 "🇨🇦CA | vless | @V2rayCollectorDonate | 22",
@@ -139,7 +138,7 @@
                 "🇨🇦CA | vless | @proxyymeliii | 17",
                 "🇨🇷CR | vless | @MsV2ray | 14",
                 "🇮🇷IR | vless | @vless_vmess | 2",
-                "🇩🇪DE | vless | @V2RayTz | 18",
+                "🇨🇷CR | vless | @V2RayTz | 19",
                 "🇩🇪DE | vless | @VmessProtocol | 16",
                 "🇬🇧GB | vless | @DailyV2RY | 104",
                 "🇨🇦CA | vless | @sinabigo | 3",
@@ -152,10 +151,9 @@
                 "🇨🇦CA | vless | @v2rayng_config_amin | 4",
                 "🇩🇪DE | vless | @Capital_NET | 45",
                 "🇨🇦CA | vless | @Capoit | 1",
-                "🇨🇦CA | vless | @forwardv2ray | 15",
                 "🇨🇦CA | vless | @FAKEOFTVC | 0",
                 "🇨🇦CA | vless | @https_config_injector | 12",
-                "🇺🇸US | vless | @mehrosaboran | 29",
+                "🇨🇷CR | vless | @mehrosaboran | 28",
                 "🏳️XX | vless | @kiava | 5",
                 "🇨🇦CA | vless | @nofiltering2 | 1",
                 "🇨🇦CA | vless | @proxy_mtm | 2",
@@ -190,7 +188,6 @@
                 "🏳️XX | vless | @CUSTOMVPNSERVER | 14",
                 "🇺🇸US | vless | @DigiV2ray | 15",
                 "🇮🇷IR | vless | @DarkTeam_VPN | 2",
-                "🇨🇦CA | vless | @proxy_kafee | 2",
                 "🇨🇦CA | vless | @v2logy | 9",
                 "🇬🇧GB | vless | @azadi_az_inja_migzare | 2",
                 "🇨🇦CA | vless | @V2rayCollectorDonate | 22",
@@ -207,7 +204,7 @@
                 "🇨🇦CA | vless | @proxyymeliii | 17",
                 "🇨🇷CR | vless | @MsV2ray | 14",
                 "🇮🇷IR | vless | @vless_vmess | 2",
-                "🇩🇪DE | vless | @V2RayTz | 18",
+                "🇨🇷CR | vless | @V2RayTz | 19",
                 "🇩🇪DE | vless | @VmessProtocol | 16",
                 "🇬🇧GB | vless | @DailyV2RY | 104",
                 "🇨🇦CA | vless | @sinabigo | 3",
@@ -220,10 +217,9 @@
                 "🇨🇦CA | vless | @v2rayng_config_amin | 4",
                 "🇩🇪DE | vless | @Capital_NET | 45",
                 "🇨🇦CA | vless | @Capoit | 1",
-                "🇨🇦CA | vless | @forwardv2ray | 15",
                 "🇨🇦CA | vless | @FAKEOFTVC | 0",
                 "🇨🇦CA | vless | @https_config_injector | 12",
-                "🇺🇸US | vless | @mehrosaboran | 29",
+                "🇨🇷CR | vless | @mehrosaboran | 28",
                 "🏳️XX | vless | @kiava | 5",
                 "🇨🇦CA | vless | @nofiltering2 | 1",
                 "🇨🇦CA | vless | @proxy_mtm | 2",
@@ -680,37 +676,6 @@
             }
         },
         {
-            "tag": "🇨🇦CA | vless | @proxy_kafee | 2",
-            "type": "vless",
-            "server": "telegram-falcunargo.falcunar.uk.eu.org",
-            "server_port": 8443,
-            "uuid": "041f479a-63f5-4af1-a492-8cbff5797b8a",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "telegram-falcunargo.falcunar.uk.eu.org",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "telegram-falcunargo.falcunar.uk.eu.org"
-                }
-            }
-        },
-        {
             "tag": "🇨🇦CA | vless | @v2logy | 9",
             "type": "vless",
             "server": "172.67.170.103",
@@ -1133,11 +1098,11 @@
             }
         },
         {
-            "tag": "🇩🇪DE | vless | @V2RayTz | 18",
+            "tag": "🇨🇷CR | vless | @V2RayTz | 19",
             "type": "vless",
-            "server": "154.197.75.98",
-            "server_port": 80,
-            "uuid": "3bc743b6-75c1-48f7-ba0e-38ff14939251",
+            "server": "190.93.247.155",
+            "server_port": 8880,
+            "uuid": "fddc172c-c28b-4fbd-b5e4-d163f1959b0d",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1147,9 +1112,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/",
+                "path": "\/@LIGHTNING6, @LIGHTNING6",
                 "headers": {
-                    "Host": "154.197.75.98"
+                    "Host": "190.93.247.155"
                 }
             }
         },
@@ -1489,27 +1454,6 @@
             }
         },
         {
-            "tag": "🇨🇦CA | vless | @forwardv2ray | 15",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 8080,
-            "uuid": "Parsashonam-4",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "www.speedtest.net"
-                }
-            }
-        },
-        {
             "tag": "🇨🇦CA | vless | @FAKEOFTVC | 0",
             "type": "vless",
             "server": "fr.snailnetworktm.link",
@@ -1572,9 +1516,9 @@
             }
         },
         {
-            "tag": "🇺🇸US | vless | @mehrosaboran | 29",
+            "tag": "🇨🇷CR | vless | @mehrosaboran | 28",
             "type": "vless",
-            "server": "205.233.181.168",
+            "server": "190.93.246.241",
             "server_port": 2083,
             "uuid": "df5c5b57-3be9-4831-a3f7-7ac4b13a84e5",
             "flow": "",
@@ -1586,7 +1530,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "205.233.181.168",
+                "server_name": "190.93.246.241",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
