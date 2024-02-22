@@ -106,14 +106,12 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇨🇦CA | vmess | @V2rayCollectorDonate | 26",
+                "🇩🇪DE | vmess | @V2rayCollectorDonate | 26",
                 "🇬🇧GB | vmess | @v2ray_outlineir | 0",
                 "🇺🇸US | vmess | @mftizi | 18",
-                "🇨🇦CA | vmess | @DeamNet_Proxy | 19",
                 "🇨🇦CA | vmess | @oneclickvpnkeys | 9",
                 "🇨🇦CA | vmess | @ShadowProxy66 | 5",
                 "🇨🇦CA | vmess | @V2rayng_Fast | 3",
-                "🏳️XX | vmess | @proxyymeliii | 19",
                 "🇨🇦CA | vmess | @yaney_01 | 8",
                 "🇺🇸US | vmess | @v2Line | 6",
                 "🇨🇦CA | vmess | @eliya_chiter0 | 3",
@@ -124,14 +122,12 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇨🇦CA | vmess | @V2rayCollectorDonate | 26",
+                "🇩🇪DE | vmess | @V2rayCollectorDonate | 26",
                 "🇬🇧GB | vmess | @v2ray_outlineir | 0",
                 "🇺🇸US | vmess | @mftizi | 18",
-                "🇨🇦CA | vmess | @DeamNet_Proxy | 19",
                 "🇨🇦CA | vmess | @oneclickvpnkeys | 9",
                 "🇨🇦CA | vmess | @ShadowProxy66 | 5",
                 "🇨🇦CA | vmess | @V2rayng_Fast | 3",
-                "🏳️XX | vmess | @proxyymeliii | 19",
                 "🇨🇦CA | vmess | @yaney_01 | 8",
                 "🇺🇸US | vmess | @v2Line | 6",
                 "🇨🇦CA | vmess | @eliya_chiter0 | 3",
@@ -158,11 +154,11 @@
             "type": "dns"
         },
         {
-            "tag": "🇨🇦CA | vmess | @V2rayCollectorDonate | 26",
+            "tag": "🇩🇪DE | vmess | @V2rayCollectorDonate | 26",
             "type": "vmess",
-            "server": "104.21.44.64",
-            "server_port": 443,
-            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
+            "server": "callmesir.rezashopparivate.sbs",
+            "server_port": 80,
+            "uuid": "202fef2a-eff2-4815-bf05-cadcad4b7863",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -173,21 +169,11 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "kellie.makeup",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
             "transport": {
                 "type": "ws",
-                "path": "\/linkvws",
+                "path": "\/bz2HzBtQEcjPHCvBrw",
                 "headers": {
-                    "Host": "kellie.makeup"
+                    "Host": ""
                 }
             }
         },
@@ -223,40 +209,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇨🇦CA | vmess | @DeamNet_Proxy | 19",
-            "type": "vmess",
-            "server": "104.21.51.208",
-            "server_port": 443,
-            "uuid": "45f63e92-f782-4cac-84b8-e61cb5a5bfd0",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "adenc35.fixedlfoat.top",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/linkws",
-                "headers": {
-                    "Host": "adenc35.fixedlfoat.top"
-                }
             }
         },
         {
@@ -320,9 +272,9 @@
         {
             "tag": "🇨🇦CA | vmess | @V2rayng_Fast | 3",
             "type": "vmess",
-            "server": "maggiy.shop",
+            "server": "hms182.glweidf.sbs",
             "server_port": 443,
-            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
+            "uuid": "76221bfb-e92f-4e80-81c5-6fe48f50ac0b",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -335,7 +287,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "maggiy.shop",
+                "server_name": "glweidf.sbs",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -345,27 +297,10 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/linkvws",
+                "path": "\/linkws",
                 "headers": {
-                    "Host": "maggiy.shop"
+                    "Host": "glweidf.sbs"
                 }
-            }
-        },
-        {
-            "tag": "🏳️XX | vmess | @proxyymeliii | 19",
-            "type": "vmess",
-            "server": "fast-mst.76996.ir",
-            "server_port": 20346,
-            "uuid": "d3da5d9f-a47f-49ce-9c5e-e501cbd09186",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         },
         {
