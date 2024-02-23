@@ -133,7 +133,7 @@
                 "🇩🇪DE | vless | @v2logy | 8",
                 "🏳️XX | vless | @azadi_az_inja_migzare | 3",
                 "🇬🇧GB | vless | @azadi_az_inja_migzare | 4",
-                "🇮🇷IR | vless | @V2rayCollectorDonate | 10",
+                "🇮🇷IR | vless | @V2rayCollectorDonate | 13",
                 "🏳️XX | vless | @prrofile_purple | 170",
                 "🇳🇱NL | vless | @FalconPolV2rayNG | 0",
                 "🇩🇪DE | vless | @FalconPolV2rayNG | 6",
@@ -141,7 +141,6 @@
                 "🇩🇪DE | vless | @VmessProtocol | 14",
                 "🇩🇪DE | vless | @VmessProtocol | 15",
                 "🇩🇪DE | vless | @VmessProtocol | 16",
-                "🇫🇷FR | vless | @DailyV2RY | 91",
                 "🇩🇪DE | vless | @Capital_NET | 31",
                 "🇬🇧GB | vless | @Capital_NET | 32",
                 "🏳️XX | vless | @Capital_NET | 33",
@@ -157,6 +156,7 @@
                 "🇩🇪DE | vless | @Capoit | 4",
                 "🇳🇱NL | vless | @flyv2ray | 6",
                 "🇩🇪DE | vless | @flyv2ray | 7",
+                "🇯🇵JP | vless | @forwardv2ray | 12",
                 "🇱🇺LU | vless | @mehrosaboran | 11",
                 "🇸🇪SE | vless | @kiava | 3",
                 "🇸🇪SE | vless | @kiava | 4",
@@ -218,7 +218,7 @@
                 "🇩🇪DE | vless | @v2logy | 8",
                 "🏳️XX | vless | @azadi_az_inja_migzare | 3",
                 "🇬🇧GB | vless | @azadi_az_inja_migzare | 4",
-                "🇮🇷IR | vless | @V2rayCollectorDonate | 10",
+                "🇮🇷IR | vless | @V2rayCollectorDonate | 13",
                 "🏳️XX | vless | @prrofile_purple | 170",
                 "🇳🇱NL | vless | @FalconPolV2rayNG | 0",
                 "🇩🇪DE | vless | @FalconPolV2rayNG | 6",
@@ -226,7 +226,6 @@
                 "🇩🇪DE | vless | @VmessProtocol | 14",
                 "🇩🇪DE | vless | @VmessProtocol | 15",
                 "🇩🇪DE | vless | @VmessProtocol | 16",
-                "🇫🇷FR | vless | @DailyV2RY | 91",
                 "🇩🇪DE | vless | @Capital_NET | 31",
                 "🇬🇧GB | vless | @Capital_NET | 32",
                 "🏳️XX | vless | @Capital_NET | 33",
@@ -242,6 +241,7 @@
                 "🇩🇪DE | vless | @Capoit | 4",
                 "🇳🇱NL | vless | @flyv2ray | 6",
                 "🇩🇪DE | vless | @flyv2ray | 7",
+                "🇯🇵JP | vless | @forwardv2ray | 12",
                 "🇱🇺LU | vless | @mehrosaboran | 11",
                 "🇸🇪SE | vless | @kiava | 3",
                 "🇸🇪SE | vless | @kiava | 4",
@@ -1222,7 +1222,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | vless | @V2rayCollectorDonate | 10",
+            "tag": "🇮🇷IR | vless | @V2rayCollectorDonate | 13",
             "type": "vless",
             "server": "188.121.97.1",
             "server_port": 443,
@@ -1493,35 +1493,6 @@
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
-            }
-        },
-        {
-            "tag": "🇫🇷FR | vless | @DailyV2RY | 91",
-            "type": "vless",
-            "server": "95.179.217.33",
-            "server_port": 45712,
-            "uuid": "69a75a84-31ab-46c4-8e42-fc4c6d320ba1",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "cdn.discordapp.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "RsbT8HImgysmMNJaDi3x4yyrUdWpfk3EJEDVYQPvZRw",
-                    "short_id": "d55861e7"
-                }
             }
         },
         {
@@ -1992,6 +1963,35 @@
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
+            }
+        },
+        {
+            "tag": "🇯🇵JP | vless | @forwardv2ray | 12",
+            "type": "vless",
+            "server": "egbhihafuow.xqc.best",
+            "server_port": 20011,
+            "uuid": "8c80cb0d-5ec1-48b5-bd6a-7bdc4d2e1d0a",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.timeto.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "Wt9cTNEcGKp6Qy2n050o5U3sDCEK1C-iuzQFYSzXknU",
+                    "short_id": "4a3749e4"
+                }
             }
         },
         {
