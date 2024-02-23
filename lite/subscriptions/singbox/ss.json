@@ -106,18 +106,20 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇩🇪DE | ss | @proxyymeliii | 20",
+                "🇵🇱PL | ss | @DeamNet_Proxy | 18",
                 "🇺🇸US | ss | @OutlineVpnOfficial | 17",
-                "🏳️XX | ss | @ROMAX_VPN | 5"
+                "🇬🇧GB | ss | @forwardv2ray | 16",
+                "🏳️XX | ss | @ROMAX_VPN | 6"
             ]
         },
         {
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇩🇪DE | ss | @proxyymeliii | 20",
+                "🇵🇱PL | ss | @DeamNet_Proxy | 18",
                 "🇺🇸US | ss | @OutlineVpnOfficial | 17",
-                "🏳️XX | ss | @ROMAX_VPN | 5"
+                "🇬🇧GB | ss | @forwardv2ray | 16",
+                "🏳️XX | ss | @ROMAX_VPN | 6"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -140,12 +142,12 @@
             "type": "dns"
         },
         {
-            "tag": "🇩🇪DE | ss | @proxyymeliii | 20",
+            "tag": "🇵🇱PL | ss | @DeamNet_Proxy | 18",
             "type": "shadowsocks",
-            "server": "18.184.7.178",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "7kxZc4xumaXvGy1v\/DR\/YP6tcOJmfdi3MkkjeIWNtf0=",
+            "server": "54.36.174.181",
+            "server_port": 7002,
+            "method": "aes-256-gcm",
+            "password": "RexnBgU7EV5ADxG",
             "plugin": "",
             "plugin_opts": ""
         },
@@ -160,7 +162,17 @@
             "plugin_opts": ""
         },
         {
-            "tag": "🏳️XX | ss | @ROMAX_VPN | 5",
+            "tag": "🇬🇧GB | ss | @forwardv2ray | 16",
+            "type": "shadowsocks",
+            "server": "52.142.190.70",
+            "server_port": 13499,
+            "method": "chacha20-ietf-poly1305",
+            "password": "K227sUvoII4iLfJJ4U0LLO",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "🏳️XX | ss | @ROMAX_VPN | 6",
             "type": "shadowsocks",
             "server": "[::ffff:1285:d01c]",
             "server_port": 443,
