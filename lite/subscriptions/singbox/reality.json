@@ -112,6 +112,7 @@
                 "🇩🇪DE | vless | @FalconPolV2rayNG | 8",
                 "🇳🇱NL | vless | @Outlinev2rayNG | 18",
                 "🇩🇪DE | vless | @Capital_NET | 45",
+                "🇯🇵JP | vless | @forwardv2ray | 12",
                 "🇩🇪DE | vless | @mehrosaboran | 16",
                 "🇸🇪SE | vless | @kiava | 3",
                 "🇩🇪DE | vless | @proxy_mtm | 11",
@@ -128,6 +129,7 @@
                 "🇩🇪DE | vless | @FalconPolV2rayNG | 8",
                 "🇳🇱NL | vless | @Outlinev2rayNG | 18",
                 "🇩🇪DE | vless | @Capital_NET | 45",
+                "🇯🇵JP | vless | @forwardv2ray | 12",
                 "🇩🇪DE | vless | @mehrosaboran | 16",
                 "🇸🇪SE | vless | @kiava | 3",
                 "🇩🇪DE | vless | @proxy_mtm | 11",
@@ -359,6 +361,35 @@
                     "enabled": true,
                     "public_key": "fabWUdBWxh7NsMaqOF35petD3ljQbKf6OSDnROV9jDs",
                     "short_id": "6f9deca7"
+                }
+            }
+        },
+        {
+            "tag": "🇯🇵JP | vless | @forwardv2ray | 12",
+            "type": "vless",
+            "server": "jpegwdzrw.xqc.best",
+            "server_port": 20003,
+            "uuid": "0f2e03ab-1916-4386-9dcf-2499512a929e",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.timeto.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "Wt9cTNEcGKp6Qy2n050o5U3sDCEK1C-iuzQFYSzXknU",
+                    "short_id": "4a3749e4"
                 }
             }
         },
