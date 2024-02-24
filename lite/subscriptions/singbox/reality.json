@@ -110,8 +110,8 @@
                 "🇩🇪DE | vless | @ipV2Ray | 19",
                 "🇩🇪DE | vless | @v2logy | 8",
                 "🇩🇪DE | vless | @FalconPolV2rayNG | 8",
+                "🇳🇱NL | vless | @Outlinev2rayNG | 18",
                 "🇩🇪DE | vless | @Capital_NET | 45",
-                "🇯🇵JP | vless | @forwardv2ray | 18",
                 "🇩🇪DE | vless | @mehrosaboran | 16",
                 "🇸🇪SE | vless | @kiava | 3",
                 "🇩🇪DE | vless | @proxy_mtm | 11",
@@ -126,8 +126,8 @@
                 "🇩🇪DE | vless | @ipV2Ray | 19",
                 "🇩🇪DE | vless | @v2logy | 8",
                 "🇩🇪DE | vless | @FalconPolV2rayNG | 8",
+                "🇳🇱NL | vless | @Outlinev2rayNG | 18",
                 "🇩🇪DE | vless | @Capital_NET | 45",
-                "🇯🇵JP | vless | @forwardv2ray | 18",
                 "🇩🇪DE | vless | @mehrosaboran | 16",
                 "🇸🇪SE | vless | @kiava | 3",
                 "🇩🇪DE | vless | @proxy_mtm | 11",
@@ -298,6 +298,42 @@
             }
         },
         {
+            "tag": "🇳🇱NL | vless | @Outlinev2rayNG | 18",
+            "type": "vless",
+            "server": "146.190.17.120",
+            "server_port": 443,
+            "uuid": "8558f681-519e-40c3-8cc8-aea8e850d34a",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "*.biro.nl",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "tpbNb0GaEaKigfpohZXxjlbNyBXHcsucB0KiFyw3fFA",
+                    "short_id": "85446011"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "@ipV2Ray",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
+            }
+        },
+        {
             "tag": "🇩🇪DE | vless | @Capital_NET | 45",
             "type": "vless",
             "server": "four.felinetest.site",
@@ -323,35 +359,6 @@
                     "enabled": true,
                     "public_key": "fabWUdBWxh7NsMaqOF35petD3ljQbKf6OSDnROV9jDs",
                     "short_id": "6f9deca7"
-                }
-            }
-        },
-        {
-            "tag": "🇯🇵JP | vless | @forwardv2ray | 18",
-            "type": "vless",
-            "server": "jpegwdzrw.xqc.best",
-            "server_port": 20003,
-            "uuid": "0f2e03ab-1916-4386-9dcf-2499512a929e",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "www.timeto.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Wt9cTNEcGKp6Qy2n050o5U3sDCEK1C-iuzQFYSzXknU",
-                    "short_id": "4a3749e4"
                 }
             }
         },
