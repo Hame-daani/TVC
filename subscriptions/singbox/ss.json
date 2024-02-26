@@ -126,10 +126,9 @@
                 "🇦🇹AT | ss | @OutlineVpnOfficial | 15",
                 "🇺🇸US | ss | @OutlineVpnOfficial | 16",
                 "🇺🇸US | ss | @OutlineVpnOfficial | 17",
-                "🇬🇧GB | ss | @forwardv2ray | 19",
+                "🇨🇦CA | ss | @forwardv2ray | 12",
                 "🇩🇪DE | ss | @ROMAX_VPN | 2",
-                "🇫🇮FI | ss | @ROMAX_VPN | 3",
-                "🇸🇪SE | ss | @ROMAX_VPN | 4"
+                "🇫🇮FI | ss | @ROMAX_VPN | 3"
             ]
         },
         {
@@ -156,10 +155,9 @@
                 "🇦🇹AT | ss | @OutlineVpnOfficial | 15",
                 "🇺🇸US | ss | @OutlineVpnOfficial | 16",
                 "🇺🇸US | ss | @OutlineVpnOfficial | 17",
-                "🇬🇧GB | ss | @forwardv2ray | 19",
+                "🇨🇦CA | ss | @forwardv2ray | 12",
                 "🇩🇪DE | ss | @ROMAX_VPN | 2",
-                "🇫🇮FI | ss | @ROMAX_VPN | 3",
-                "🇸🇪SE | ss | @ROMAX_VPN | 4"
+                "🇫🇮FI | ss | @ROMAX_VPN | 3"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -382,12 +380,12 @@
             "plugin_opts": ""
         },
         {
-            "tag": "🇬🇧GB | ss | @forwardv2ray | 19",
+            "tag": "🇨🇦CA | ss | @forwardv2ray | 12",
             "type": "shadowsocks",
-            "server": "3.8.14.193",
-            "server_port": 443,
+            "server": "toronto.telegavpn.org",
+            "server_port": 31024,
             "method": "chacha20-ietf-poly1305",
-            "password": "u17T3BvpYaaiuW2c",
+            "password": "jwepSBEJeHRbMeKZ9EdfPY",
             "plugin": "",
             "plugin_opts": ""
         },
@@ -408,16 +406,6 @@
             "server_port": 7150,
             "method": "chacha20-ietf-poly1305",
             "password": "btzmpL7aOs7YbcLS4In6YX",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "🇸🇪SE | ss | @ROMAX_VPN | 4",
-            "type": "shadowsocks",
-            "server": "45.8.147.65",
-            "server_port": 37219,
-            "method": "chacha20-ietf-poly1305",
-            "password": "ETt8vY8HbPwOfk21c3i13h",
             "plugin": "",
             "plugin_opts": ""
         }
