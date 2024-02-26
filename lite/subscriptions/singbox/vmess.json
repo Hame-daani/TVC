@@ -107,9 +107,10 @@
             "outbounds": [
                 "URL-TEST",
                 "🇬🇧GB | vmess | @v2ray_outlineir | 0",
-                "🇨🇦CA | vmess | @mftizi | 18",
+                "🇺🇸US | vmess | @mftizi | 18",
                 "🇨🇦CA | vmess | @oneclickvpnkeys | 6",
-                "🇨🇦CA | vmess | @V2rayng_Fast | 1",
+                "🇮🇷IR | vmess | @V2rayng_Fast | 0",
+                "🏳️XX | vmess | @proxyymeliii | 16",
                 "🇨🇦CA | vmess | @yaney_01 | 8",
                 "🇨🇦CA | vmess | @Hope_Net | 1",
                 "🇺🇸US | vmess | @v2Line | 6",
@@ -122,9 +123,10 @@
             "type": "urltest",
             "outbounds": [
                 "🇬🇧GB | vmess | @v2ray_outlineir | 0",
-                "🇨🇦CA | vmess | @mftizi | 18",
+                "🇺🇸US | vmess | @mftizi | 18",
                 "🇨🇦CA | vmess | @oneclickvpnkeys | 6",
-                "🇨🇦CA | vmess | @V2rayng_Fast | 1",
+                "🇮🇷IR | vmess | @V2rayng_Fast | 0",
+                "🏳️XX | vmess | @proxyymeliii | 16",
                 "🇨🇦CA | vmess | @yaney_01 | 8",
                 "🇨🇦CA | vmess | @Hope_Net | 1",
                 "🇺🇸US | vmess | @v2Line | 6",
@@ -169,11 +171,11 @@
             }
         },
         {
-            "tag": "🇨🇦CA | vmess | @mftizi | 18",
+            "tag": "🇺🇸US | vmess | @mftizi | 18",
             "type": "vmess",
-            "server": "cfcdn2.sanfencdn9.com",
-            "server_port": 2052,
-            "uuid": "27c7e182-88bf-4fc6-bbdd-83453061f47f",
+            "server": "38.147.191.185",
+            "server_port": 10241,
+            "uuid": "e820d6f7-57ef-4575-99da-bcd7d318c742",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -183,13 +185,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/video\/34kKXbLM",
-                "headers": {
-                    "Host": ""
-                }
             }
         },
         {
@@ -227,11 +222,11 @@
             }
         },
         {
-            "tag": "🇨🇦CA | vmess | @V2rayng_Fast | 1",
+            "tag": "🇮🇷IR | vmess | @V2rayng_Fast | 0",
             "type": "vmess",
-            "server": "warp-sub.pages.dev",
-            "server_port": 443,
-            "uuid": "06195b5b-3815-4a07-96f7-47eefbb1b143",
+            "server": "85.133.151.96",
+            "server_port": 38288,
+            "uuid": "e40053db-36c7-45d1-b9e9-76e04cfe6ebc",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -241,23 +236,23 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/urnxewzvh.site:443\/kwhmvws",
-                "headers": {
-                    "Host": ""
-                }
+            }
+        },
+        {
+            "tag": "🏳️XX | vmess | @proxyymeliii | 16",
+            "type": "vmess",
+            "server": "shirt.mintstore.store",
+            "server_port": 8081,
+            "uuid": "9f1b2512-9146-4a43-b277-ee2e0a5e926b",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
             }
         },
         {
