@@ -108,14 +108,15 @@
                 "URL-TEST",
                 "🇬🇧GB | vmess | @v2ray_outlineir | 0",
                 "🇺🇸US | vmess | @mftizi | 18",
-                "🇨🇦CA | vmess | @oneclickvpnkeys | 6",
-                "🇮🇷IR | vmess | @V2rayng_Fast | 0",
-                "🏳️XX | vmess | @proxyymeliii | 16",
+                "🇩🇪DE | vmess | @oneclickvpnkeys | 6",
+                "🇨🇦CA | vmess | @V2rayng_Fast | 2",
+                "🇨🇦CA | vmess | @v2ray_swhil | 21",
+                "🇺🇦UA | vmess | @ConfigsHUB | 19",
                 "🇨🇦CA | vmess | @yaney_01 | 8",
                 "🇨🇦CA | vmess | @Hope_Net | 1",
                 "🇺🇸US | vmess | @v2Line | 6",
                 "🇨🇦CA | vmess | @FoXrayIran | 1",
-                "🇨🇦CA | vmess | @SINABIGO | 6"
+                "🇨🇦CA | vmess | @SINABIGO | 7"
             ]
         },
         {
@@ -124,14 +125,15 @@
             "outbounds": [
                 "🇬🇧GB | vmess | @v2ray_outlineir | 0",
                 "🇺🇸US | vmess | @mftizi | 18",
-                "🇨🇦CA | vmess | @oneclickvpnkeys | 6",
-                "🇮🇷IR | vmess | @V2rayng_Fast | 0",
-                "🏳️XX | vmess | @proxyymeliii | 16",
+                "🇩🇪DE | vmess | @oneclickvpnkeys | 6",
+                "🇨🇦CA | vmess | @V2rayng_Fast | 2",
+                "🇨🇦CA | vmess | @v2ray_swhil | 21",
+                "🇺🇦UA | vmess | @ConfigsHUB | 19",
                 "🇨🇦CA | vmess | @yaney_01 | 8",
                 "🇨🇦CA | vmess | @Hope_Net | 1",
                 "🇺🇸US | vmess | @v2Line | 6",
                 "🇨🇦CA | vmess | @FoXrayIran | 1",
-                "🇨🇦CA | vmess | @SINABIGO | 6"
+                "🇨🇦CA | vmess | @SINABIGO | 7"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -188,9 +190,67 @@
             }
         },
         {
-            "tag": "🇨🇦CA | vmess | @oneclickvpnkeys | 6",
+            "tag": "🇩🇪DE | vmess | @oneclickvpnkeys | 6",
             "type": "vmess",
-            "server": "mtn-----join.outline-vpn.cloud",
+            "server": "38.54.13.212",
+            "server_port": 23026,
+            "uuid": "ef4d0930-3788-4410-9305-fae4ba652ede",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/ef4d0930",
+                "headers": {
+                    "Host": ""
+                }
+            }
+        },
+        {
+            "tag": "🇨🇦CA | vmess | @V2rayng_Fast | 2",
+            "type": "vmess",
+            "server": "warp-sub.pages.dev",
+            "server_port": 443,
+            "uuid": "06195b5b-3815-4a07-96f7-47eefbb1b143",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/urnxewzvh.site:443\/kwhmvws",
+                "headers": {
+                    "Host": ""
+                }
+            }
+        },
+        {
+            "tag": "🇨🇦CA | vmess | @v2ray_swhil | 21",
+            "type": "vmess",
+            "server": "104.21.33.32",
             "server_port": 443,
             "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
             "security": "auto",
@@ -205,7 +265,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "vip2323.cfd",
+                "server_name": "nelly.homes",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -217,16 +277,16 @@
                 "type": "ws",
                 "path": "\/linkvws",
                 "headers": {
-                    "Host": "vip2323.cfd"
+                    "Host": "nelly.homes"
                 }
             }
         },
         {
-            "tag": "🇮🇷IR | vmess | @V2rayng_Fast | 0",
+            "tag": "🇺🇦UA | vmess | @ConfigsHUB | 19",
             "type": "vmess",
-            "server": "85.133.151.96",
-            "server_port": 38288,
-            "uuid": "e40053db-36c7-45d1-b9e9-76e04cfe6ebc",
+            "server": "45.137.155.195",
+            "server_port": 443,
+            "uuid": "49c76bcf-3a58-43df-b1d4-2bffe9ca03b5",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -236,23 +296,16 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "🏳️XX | vmess | @proxyymeliii | 16",
-            "type": "vmess",
-            "server": "shirt.mintstore.store",
-            "server_port": 8081,
-            "uuid": "9f1b2512-9146-4a43-b277-ee2e0a5e926b",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
             }
         },
         {
@@ -352,7 +405,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | vmess | @SINABIGO | 6",
+            "tag": "🇨🇦CA | vmess | @SINABIGO | 7",
             "type": "vmess",
             "server": "104.21.75.244",
             "server_port": 443,
