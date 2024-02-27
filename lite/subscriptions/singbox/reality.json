@@ -106,26 +106,24 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇩🇪DE | vless | @ipV2Ray | 19",
+                "🇩🇪DE | vless | @ipV2Ray | 18",
                 "🇩🇪DE | vless | @ARv2ray | 13",
                 "🇩🇪DE | vless | @v2logy | 8",
                 "🇩🇪DE | vless | @Capital_NET | 45",
                 "🇸🇪SE | vless | @kiava | 3",
-                "🏳️XX | vless | @vpn_go67 | 23",
-                "🇩🇪DE | vless | @TVCminer | 19"
+                "🏳️XX | vless | @vpn_go67 | 23"
             ]
         },
         {
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇩🇪DE | vless | @ipV2Ray | 19",
+                "🇩🇪DE | vless | @ipV2Ray | 18",
                 "🇩🇪DE | vless | @ARv2ray | 13",
                 "🇩🇪DE | vless | @v2logy | 8",
                 "🇩🇪DE | vless | @Capital_NET | 45",
                 "🇸🇪SE | vless | @kiava | 3",
-                "🏳️XX | vless | @vpn_go67 | 23",
-                "🇩🇪DE | vless | @TVCminer | 19"
+                "🏳️XX | vless | @vpn_go67 | 23"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -148,11 +146,11 @@
             "type": "dns"
         },
         {
-            "tag": "🇩🇪DE | vless | @ipV2Ray | 19",
+            "tag": "🇩🇪DE | vless | @ipV2Ray | 18",
             "type": "vless",
             "server": "157.90.161.70",
             "server_port": 443,
-            "uuid": "8801afab-eb5a-47b0-9195-015cf321523d",
+            "uuid": "ba211e88-dfef-4faa-8274-afe75da9b518",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -344,42 +342,6 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
-            }
-        },
-        {
-            "tag": "🇩🇪DE | vless | @TVCminer | 19",
-            "type": "vless",
-            "server": "3.66.162.155",
-            "server_port": 2926,
-            "uuid": "4389c3cb-f2b2-401e-a99b-6cdf59c1f4f9",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "www.speedtest.net",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E",
-                    "short_id": ""
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "xyz",
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
