@@ -128,8 +128,7 @@
                 "🇦🇹AT | ss | @OutlineVpnOfficial | 15",
                 "🇺🇸US | ss | @OutlineVpnOfficial | 16",
                 "🇺🇸US | ss | @OutlineVpnOfficial | 17",
-                "🇬🇧GB | ss | @forwardv2ray | 10",
-                "🇬🇧GB | ss | @forwardv2ray | 12",
+                "🇸🇪SE | ss | @forwardv2ray | 11",
                 "🇩🇪DE | ss | @proxy_mtm | 0",
                 "🇩🇪DE | ss | @ROMAX_VPN | 6"
             ]
@@ -160,8 +159,7 @@
                 "🇦🇹AT | ss | @OutlineVpnOfficial | 15",
                 "🇺🇸US | ss | @OutlineVpnOfficial | 16",
                 "🇺🇸US | ss | @OutlineVpnOfficial | 17",
-                "🇬🇧GB | ss | @forwardv2ray | 10",
-                "🇬🇧GB | ss | @forwardv2ray | 12",
+                "🇸🇪SE | ss | @forwardv2ray | 11",
                 "🇩🇪DE | ss | @proxy_mtm | 0",
                 "🇩🇪DE | ss | @ROMAX_VPN | 6"
             ],
@@ -406,22 +404,12 @@
             "plugin_opts": ""
         },
         {
-            "tag": "🇬🇧GB | ss | @forwardv2ray | 10",
+            "tag": "🇸🇪SE | ss | @forwardv2ray | 11",
             "type": "shadowsocks",
-            "server": "series-a2-me.samanehha.co",
-            "server_port": 443,
+            "server": "45.8.147.65",
+            "server_port": 37219,
             "method": "chacha20-ietf-poly1305",
-            "password": "Bog0ELmMM9DSxDdQ",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "🇬🇧GB | ss | @forwardv2ray | 12",
-            "type": "shadowsocks",
-            "server": "series-a2-mec.samanehha.co",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "u17T3BvpYaaiuW2c",
+            "password": "ETt8vY8HbPwOfk21c3i13h",
             "plugin": "",
             "plugin_opts": ""
         },
