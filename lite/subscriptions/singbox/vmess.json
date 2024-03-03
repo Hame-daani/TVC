@@ -109,10 +109,12 @@
                 "🇫🇷FR | vmess | @v2ray_outlineir | 0",
                 "🇺🇸US | vmess | @mftizi | 18",
                 "🇨🇦CA | vmess | @oneclickvpnkeys | 11",
+                "🇺🇦UA | vmess | @ConfigsHUB | 15",
                 "🇹🇼TW | vmess | @yaney_01 | 6",
                 "🇨🇦CA | vmess | @Hope_Net | 0",
                 "🇨🇦CA | vmess | @fnet00 | 3",
                 "🇺🇸US | vmess | @v2Line | 6",
+                "🇺🇸US | vmess | @forwardv2ray | 19",
                 "🇨🇦CA | vmess | @FoXrayIran | 1"
             ]
         },
@@ -123,10 +125,12 @@
                 "🇫🇷FR | vmess | @v2ray_outlineir | 0",
                 "🇺🇸US | vmess | @mftizi | 18",
                 "🇨🇦CA | vmess | @oneclickvpnkeys | 11",
+                "🇺🇦UA | vmess | @ConfigsHUB | 15",
                 "🇹🇼TW | vmess | @yaney_01 | 6",
                 "🇨🇦CA | vmess | @Hope_Net | 0",
                 "🇨🇦CA | vmess | @fnet00 | 3",
                 "🇺🇸US | vmess | @v2Line | 6",
+                "🇺🇸US | vmess | @forwardv2ray | 19",
                 "🇨🇦CA | vmess | @FoXrayIran | 1"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -214,6 +218,33 @@
                 "path": "\/linkvws",
                 "headers": {
                     "Host": "octavi.cfd"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇦UA | vmess | @ConfigsHUB | 15",
+            "type": "vmess",
+            "server": "45.137.155.195",
+            "server_port": 443,
+            "uuid": "49c76bcf-3a58-43df-b1d4-2bffe9ca03b5",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
                 }
             }
         },
@@ -306,6 +337,30 @@
                 "path": "\/vmess",
                 "headers": {
                     "Host": "ca2.xv2ray.net"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | vmess | @forwardv2ray | 19",
+            "type": "vmess",
+            "server": "6hpnb90wb63a.todayisagoodday.life",
+            "server_port": 2052,
+            "uuid": "d88c5dda-939a-442a-b5ec-4baf7f71a96e",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/@forwardv2ray",
+                "headers": {
+                    "Host": ""
                 }
             }
         },
