@@ -108,7 +108,7 @@
                 "URL-TEST",
                 "🇫🇷FR | vmess | @v2ray_outlineir | 0",
                 "🇺🇸US | vmess | @mftizi | 18",
-                "🇨🇦CA | vmess | @DeamNet_Proxy | 19",
+                "🇺🇦UA | vmess | @DeamNet_Proxy | 18",
                 "🇨🇦CA | vmess | @oneclickvpnkeys | 10",
                 "🇨🇦CA | vmess | @Hope_Net | 0",
                 "🇨🇦CA | vmess | @fnet00 | 3",
@@ -121,7 +121,7 @@
             "outbounds": [
                 "🇫🇷FR | vmess | @v2ray_outlineir | 0",
                 "🇺🇸US | vmess | @mftizi | 18",
-                "🇨🇦CA | vmess | @DeamNet_Proxy | 19",
+                "🇺🇦UA | vmess | @DeamNet_Proxy | 18",
                 "🇨🇦CA | vmess | @oneclickvpnkeys | 10",
                 "🇨🇦CA | vmess | @Hope_Net | 0",
                 "🇨🇦CA | vmess | @fnet00 | 3",
@@ -182,11 +182,11 @@
             }
         },
         {
-            "tag": "🇨🇦CA | vmess | @DeamNet_Proxy | 19",
+            "tag": "🇺🇦UA | vmess | @DeamNet_Proxy | 18",
             "type": "vmess",
-            "server": "v2ray.ibgfw.top",
-            "server_port": 2053,
-            "uuid": "0f1b29b8-0f0f-431a-b6d1-035803a95c32",
+            "server": "195.137.167.100",
+            "server_port": 443,
+            "uuid": "a1655f51-1e20-4a92-8a11-b7ca30a7a353",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -199,7 +199,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "v2ray.ibgfw.top",
+                "server_name": "range-shape-b3fuegu.bananok182.workers.dev",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -209,9 +209,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/vVNUJOgb\/",
+                "path": "\/afrhms07.xfixedfloat.cfd\/linkws",
                 "headers": {
-                    "Host": "v2ray.ibgfw.top"
+                    "Host": "range-shape-b3fuegu.bananok182.workers.dev"
                 }
             }
         },
