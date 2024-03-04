@@ -140,6 +140,7 @@
                 "🇩🇪DE | vless | @V2RayTz | 16",
                 "🇩🇪DE | vless | @VmessProtocol | 19",
                 "🇨🇦CA | vless | @DailyV2RY | 143",
+                "🇨🇦CA | vless | @ConfigsHUB | 17",
                 "🇨🇦CA | vless | @proxystore11 | 8",
                 "🇩🇪DE | vless | @free1_vpn | 2",
                 "🇨🇦CA | vless | @polproxy | 9",
@@ -157,7 +158,8 @@
                 "🇩🇪DE | vless | @kingofilter | 11",
                 "🇬🇧GB | vless | @freeconfigv2 | 14",
                 "🇮🇷IR | vless | @Good_V2rayy | 3",
-                "🇺🇸US | vless | @FoXrayIran | 0",
+                "🇨🇦CA | vless | @FoXrayIran | 0",
+                "🇩🇪DE | vless | @IBv2ray | 5",
                 "🇨🇦CA | vless | @V2FETCH | 7",
                 "🏳️XX | vless | @VpnSkyy | 7"
             ]
@@ -200,6 +202,7 @@
                 "🇩🇪DE | vless | @V2RayTz | 16",
                 "🇩🇪DE | vless | @VmessProtocol | 19",
                 "🇨🇦CA | vless | @DailyV2RY | 143",
+                "🇨🇦CA | vless | @ConfigsHUB | 17",
                 "🇨🇦CA | vless | @proxystore11 | 8",
                 "🇩🇪DE | vless | @free1_vpn | 2",
                 "🇨🇦CA | vless | @polproxy | 9",
@@ -217,7 +220,8 @@
                 "🇩🇪DE | vless | @kingofilter | 11",
                 "🇬🇧GB | vless | @freeconfigv2 | 14",
                 "🇮🇷IR | vless | @Good_V2rayy | 3",
-                "🇺🇸US | vless | @FoXrayIran | 0",
+                "🇨🇦CA | vless | @FoXrayIran | 0",
+                "🇩🇪DE | vless | @IBv2ray | 5",
                 "🇨🇦CA | vless | @V2FETCH | 7",
                 "🏳️XX | vless | @VpnSkyy | 7"
             ],
@@ -1081,6 +1085,27 @@
             }
         },
         {
+            "tag": "🇨🇦CA | vless | @ConfigsHUB | 17",
+            "type": "vless",
+            "server": "104.16.126.175",
+            "server_port": 2052,
+            "uuid": "aa76cb84-df68-4c10-b771-9e33e5ba91a5",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "104.16.126.175"
+                }
+            }
+        },
+        {
             "tag": "🇨🇦CA | vless | @proxystore11 | 8",
             "type": "vless",
             "server": "172.67.68.191",
@@ -1509,7 +1534,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | vless | @FoXrayIran | 0",
+            "tag": "🇨🇦CA | vless | @FoXrayIran | 0",
             "type": "vless",
             "server": "c1.shoplandtr.xyz",
             "server_port": 2096,
@@ -1537,6 +1562,27 @@
                 "headers": {
                     "Host": "C1.shoplandtr.xyz"
                 }
+            }
+        },
+        {
+            "tag": "🇩🇪DE | vless | @IBv2ray | 5",
+            "type": "vless",
+            "server": "18.185.116.70",
+            "server_port": 8080,
+            "uuid": "34d6863f-257d-4c01-9967-17b5e0ca0945",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "kiava",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
             }
         },
         {
