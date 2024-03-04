@@ -146,7 +146,7 @@
                 "🇩🇪DE | vless | @VmessProtocol | 19",
                 "🇨🇦CA | vless | @DailyV2RY | 145",
                 "🇺🇸US | ss | @OutlineVpnOfficial | 17",
-                "🇸🇪SE | vless | @ConfigsHUB | 12",
+                "🇺🇸US | vless | @ConfigsHUB | 14",
                 "🇨🇦CA | vless | @proxystore11 | 8",
                 "🇩🇪DE | vless | @free1_vpn | 2",
                 "🇨🇦CA | vmess | @Hope_Net | 0",
@@ -159,8 +159,8 @@
                 "🇺🇸US | vmess | @v2Line | 6",
                 "🇺🇸US | vless | @Capoit | 8",
                 "🇨🇷CR | vless | @IRN_VPN | 4",
-                "🇩🇪DE | vless | @flyv2ray | 18",
-                "🇳🇱NL | vmess | @forwardv2ray | 19",
+                "🇨🇦CA | vless | @flyv2ray | 18",
+                "🇺🇦UA | vless | @forwardv2ray | 18",
                 "🇩🇪DE | vless | @https_config_injector | 25",
                 "🇸🇪SE | vless | @mehrosaboran | 8",
                 "🇸🇪SE | vless | @kiava | 1",
@@ -220,7 +220,7 @@
                 "🇩🇪DE | vless | @VmessProtocol | 19",
                 "🇨🇦CA | vless | @DailyV2RY | 145",
                 "🇺🇸US | ss | @OutlineVpnOfficial | 17",
-                "🇸🇪SE | vless | @ConfigsHUB | 12",
+                "🇺🇸US | vless | @ConfigsHUB | 14",
                 "🇨🇦CA | vless | @proxystore11 | 8",
                 "🇩🇪DE | vless | @free1_vpn | 2",
                 "🇨🇦CA | vmess | @Hope_Net | 0",
@@ -233,8 +233,8 @@
                 "🇺🇸US | vmess | @v2Line | 6",
                 "🇺🇸US | vless | @Capoit | 8",
                 "🇨🇷CR | vless | @IRN_VPN | 4",
-                "🇩🇪DE | vless | @flyv2ray | 18",
-                "🇳🇱NL | vmess | @forwardv2ray | 19",
+                "🇨🇦CA | vless | @flyv2ray | 18",
+                "🇺🇦UA | vless | @forwardv2ray | 18",
                 "🇩🇪DE | vless | @https_config_injector | 25",
                 "🇸🇪SE | vless | @mehrosaboran | 8",
                 "🇸🇪SE | vless | @kiava | 1",
@@ -1232,11 +1232,11 @@
             "plugin_opts": ""
         },
         {
-            "tag": "🇸🇪SE | vless | @ConfigsHUB | 12",
+            "tag": "🇺🇸US | vless | @ConfigsHUB | 14",
             "type": "vless",
-            "server": "185.146.173.59",
-            "server_port": 8880,
-            "uuid": "e8e8a50f-9aa0-46f6-a6e7-ed822be60323",
+            "server": "162.159.152.2",
+            "server_port": 8080,
+            "uuid": "b0703142-bc40-41b6-a49c-c885337661c7",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1246,9 +1246,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/@LIGHTNING6,@LIGHTNING6",
+                "path": "\/@daily_configs-@daily_configs-@daily_configs-@daily_configs-@daily_configs-@daily_configs-@daily_configs-@daily_configs",
                 "headers": {
-                    "Host": "185.146.173.59"
+                    "Host": "162.159.152.2"
                 }
             }
         },
@@ -1570,11 +1570,11 @@
             }
         },
         {
-            "tag": "🇩🇪DE | vless | @flyv2ray | 18",
+            "tag": "🇨🇦CA | vless | @flyv2ray | 18",
             "type": "vless",
-            "server": "154.197.75.80",
+            "server": "discord.gg",
             "server_port": 80,
-            "uuid": "CUSTOMIZEV2ray",
+            "uuid": "V2rayCUSTOMIZE",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1586,31 +1586,31 @@
                 "type": "ws",
                 "path": "\/@VPNCUSTOMIZE",
                 "headers": {
-                    "Host": "154.197.75.80"
+                    "Host": "discord.gg"
                 }
             }
         },
         {
-            "tag": "🇳🇱NL | vmess | @forwardv2ray | 19",
-            "type": "vmess",
-            "server": "188.114.96.113",
-            "server_port": 80,
-            "uuid": "7022982f-da4c-48c9-c660-b2315abdcf7e",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
+            "tag": "🇺🇦UA | vless | @forwardv2ray | 18",
+            "type": "vless",
+            "server": "alpha.pharmaweb.info",
+            "server_port": 443,
+            "uuid": "3bece666-f5fd-4329-90cc-35ad7e067359",
+            "flow": "",
+            "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "188.114.96.113"
+            "tls": {
+                "enabled": true,
+                "server_name": "alpha.pharmaweb.info",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
                 }
             }
         },
