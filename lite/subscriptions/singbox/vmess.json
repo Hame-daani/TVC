@@ -111,7 +111,7 @@
                 "🇨🇦CA | vmess | @oneclickvpnkeys | 10",
                 "🇩🇪DE | vmess | @ShadowProxy66 | 28",
                 "🇺🇸US | vmess | @v2ray1_ng | 5",
-                "🇮🇷IR | vmess | @ConfigsHUB | 15",
+                "🇨🇦CA | vmess | @ConfigsHUB | 18",
                 "🇸🇬SG | vmess | @yaney_01 | 6",
                 "🇨🇦CA | vmess | @fnet00 | 3",
                 "🇦🇺AU | vmess | @v2Line | 6",
@@ -127,7 +127,7 @@
                 "🇨🇦CA | vmess | @oneclickvpnkeys | 10",
                 "🇩🇪DE | vmess | @ShadowProxy66 | 28",
                 "🇺🇸US | vmess | @v2ray1_ng | 5",
-                "🇮🇷IR | vmess | @ConfigsHUB | 15",
+                "🇨🇦CA | vmess | @ConfigsHUB | 18",
                 "🇸🇬SG | vmess | @yaney_01 | 6",
                 "🇨🇦CA | vmess | @fnet00 | 3",
                 "🇦🇺AU | vmess | @v2Line | 6",
@@ -273,11 +273,11 @@
             }
         },
         {
-            "tag": "🇮🇷IR | vmess | @ConfigsHUB | 15",
+            "tag": "🇨🇦CA | vmess | @ConfigsHUB | 18",
             "type": "vmess",
-            "server": "94.182.136.40",
-            "server_port": 25832,
-            "uuid": "a4393300-6777-47b9-8348-1ac84aa7ede9",
+            "server": "104.17.25.1",
+            "server_port": 80,
+            "uuid": "83c19463-f966-4adb-a7d8-b127825ffab2",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -287,6 +287,13 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "104.17.25.1"
+                }
             }
         },
         {
