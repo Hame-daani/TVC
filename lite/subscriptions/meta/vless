@@ -125,7 +125,7 @@ proxies:
   - {"name":"🇨🇦CA | vless | @NIM_VPN_ir | 9","type":"vless","server":"104.24.176.7","port":2096,"udp":false,"uuid":"2b005d19-f211-4745-9d41-03dacaa7311f","tls":true,"network":"grpc","client-fingerprint":"chrome","servername":"xn4oq36ed28d.nimbahaserverrr.sbs","grpc-opts":{"grpc-service-name":"@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir"}}
   - {"name":"🇩🇪DE | vless | @VlessConfig | 17","type":"vless","server":"3.122.203.163","port":22222,"udp":false,"uuid":"05519058-d2ac-4f28-9e4a-2b2a1386749e","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"telegram-channel-vlessconfig.sohala.uk","ws-opts":{"path":"/telegram-channel-vlessconfig-ws","headers":{"host":"telegram-channel-vlessconfig.sohala.uk"}}}
   - {"name":"🇩🇪DE | vless | @ipV2Ray | 9","type":"vless","server":"164.92.250.121","port":443,"udp":true,"uuid":"107e6e81-80da-47b0-a125-449f7c4b38e3","tls":true,"network":"grpc","client-fingerprint":"firefox","servername":"*.dsp-redirect.com","grpc-opts":{"grpc-service-name":"@ipV2Ray"},"reality-opts":{"public-key":"BxRvYZ4Jfff0ozG7aLyOqnCsUVq0O_ws1t21PEHlWx4","short-id":"a3f0945a"}}
-  - {"name":"🇨🇦CA | vless | @melov2ray | 3","type":"vless","server":"chat.openai.com","port":8080,"udp":false,"uuid":"f04ac048-0a6d-4ce7-a23f-9b9722002af2","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/melov2ray","headers":{"host":"mci.melov2ray.store."}}}
+  - {"name":"🇺🇸US | vless | @melov2ray | 3","type":"vless","server":"chat.openai.com","port":8080,"udp":false,"uuid":"f04ac048-0a6d-4ce7-a23f-9b9722002af2","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/melov2ray","headers":{"host":"mci.melov2ray.store."}}}
   - {"name":"🇨🇦CA | vless | @ARv2ray | 14","type":"vless","server":"www.speedtest.net","port":443,"udp":false,"uuid":"bd35454c-a7ee-4e6b-9bf3-bcccbf000332","tls":true,"network":"grpc","client-fingerprint":"chrome","servername":"1.agh9731.ir","grpc-opts":{"grpc-service-name":"@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray"}}
   - {"name":"🇩🇪DE | vless | @shh_proxy | 20","type":"vless","server":"154.197.75.98","port":80,"udp":false,"uuid":"aa74d446-18a0-4b76-a255-e47373717e77","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/","headers":{"host":"shhproxyfrees.xn--69-pv2cl2k5x3fipr.org"}}}
   - {"name":"🇨🇦CA | vless | @Lockey_vpn | 9","type":"vless","server":"slfingp.com","port":443,"udp":false,"uuid":"ef1d268c-221e-4d7a-828e-3ade2fb26d11","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"csub5.cpIfORpERsIa.uk","ws-opts":{"path":"vless-ws/?ed=2048","headers":{"host":"csub5.cpIfORpERsIa.uk"}}}
@@ -178,7 +178,7 @@ proxy-groups:
       - '🇨🇦CA | vless | @NIM_VPN_ir | 9'
       - '🇩🇪DE | vless | @VlessConfig | 17'
       - '🇩🇪DE | vless | @ipV2Ray | 9'
-      - '🇨🇦CA | vless | @melov2ray | 3'
+      - '🇺🇸US | vless | @melov2ray | 3'
       - '🇨🇦CA | vless | @ARv2ray | 14'
       - '🇩🇪DE | vless | @shh_proxy | 20'
       - '🇨🇦CA | vless | @Lockey_vpn | 9'
@@ -231,7 +231,7 @@ proxy-groups:
       - '🇨🇦CA | vless | @NIM_VPN_ir | 9'
       - '🇩🇪DE | vless | @VlessConfig | 17'
       - '🇩🇪DE | vless | @ipV2Ray | 9'
-      - '🇨🇦CA | vless | @melov2ray | 3'
+      - '🇺🇸US | vless | @melov2ray | 3'
       - '🇨🇦CA | vless | @ARv2ray | 14'
       - '🇩🇪DE | vless | @shh_proxy | 20'
       - '🇨🇦CA | vless | @Lockey_vpn | 9'
@@ -283,7 +283,7 @@ proxy-groups:
       - '🇨🇦CA | vless | @NIM_VPN_ir | 9'
       - '🇩🇪DE | vless | @VlessConfig | 17'
       - '🇩🇪DE | vless | @ipV2Ray | 9'
-      - '🇨🇦CA | vless | @melov2ray | 3'
+      - '🇺🇸US | vless | @melov2ray | 3'
       - '🇨🇦CA | vless | @ARv2ray | 14'
       - '🇩🇪DE | vless | @shh_proxy | 20'
       - '🇨🇦CA | vless | @Lockey_vpn | 9'
