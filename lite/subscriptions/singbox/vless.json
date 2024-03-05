@@ -116,11 +116,11 @@
                 "🇨🇦CA | vless | @V2pedia | 20",
                 "🇨🇦CA | vless | @ARv2ray | 14",
                 "🇩🇪DE | vless | @shh_proxy | 20",
-                "🇺🇸US | vless | @Lockey_vpn | 9",
+                "🇨🇦CA | vless | @Lockey_vpn | 9",
                 "🇨🇦CA | vless | @rxv2ray | 21",
-                "🇺🇸US | vless | @free_v2rayyy | 5",
+                "🇨🇦CA | vless | @free_v2rayyy | 5",
                 "🇸🇪SE | vless | @lightning6 | 27",
-                "🇺🇸US | vless | @V2rayNGmat | 2",
+                "🇨🇦CA | vless | @V2rayNGmat | 2",
                 "🏳️XX | vless | @vpn_xw | 6",
                 "🏳️XX | vless | @CUSTOMVPNSERVER | 14",
                 "🇺🇸US | vless | @DigiV2ray | 22",
@@ -142,9 +142,9 @@
                 "🇩🇪DE | vless | @v2ray1_ng | 14",
                 "🇮🇷IR | vless | @vless_vmess | 2",
                 "🇨🇦CA | vless | @V2RayTz | 15",
+                "🇩🇪DE | vless | @DailyV2RY | 131",
                 "🇺🇸US | vless | @sinabigo | 4",
                 "🇨🇦CA | vless | @lrnbymaa | 3",
-                "🇨🇦CA | vless | @ConfigsHUB | 17",
                 "🇨🇦CA | vless | @proxystore11 | 8",
                 "🇩🇪DE | vless | @free1_vpn | 0",
                 "🇨🇦CA | vless | @polproxy | 9",
@@ -180,11 +180,11 @@
                 "🇨🇦CA | vless | @V2pedia | 20",
                 "🇨🇦CA | vless | @ARv2ray | 14",
                 "🇩🇪DE | vless | @shh_proxy | 20",
-                "🇺🇸US | vless | @Lockey_vpn | 9",
+                "🇨🇦CA | vless | @Lockey_vpn | 9",
                 "🇨🇦CA | vless | @rxv2ray | 21",
-                "🇺🇸US | vless | @free_v2rayyy | 5",
+                "🇨🇦CA | vless | @free_v2rayyy | 5",
                 "🇸🇪SE | vless | @lightning6 | 27",
-                "🇺🇸US | vless | @V2rayNGmat | 2",
+                "🇨🇦CA | vless | @V2rayNGmat | 2",
                 "🏳️XX | vless | @vpn_xw | 6",
                 "🏳️XX | vless | @CUSTOMVPNSERVER | 14",
                 "🇺🇸US | vless | @DigiV2ray | 22",
@@ -206,9 +206,9 @@
                 "🇩🇪DE | vless | @v2ray1_ng | 14",
                 "🇮🇷IR | vless | @vless_vmess | 2",
                 "🇨🇦CA | vless | @V2RayTz | 15",
+                "🇩🇪DE | vless | @DailyV2RY | 131",
                 "🇺🇸US | vless | @sinabigo | 4",
                 "🇨🇦CA | vless | @lrnbymaa | 3",
-                "🇨🇦CA | vless | @ConfigsHUB | 17",
                 "🇨🇦CA | vless | @proxystore11 | 8",
                 "🇩🇪DE | vless | @free1_vpn | 0",
                 "🇨🇦CA | vless | @polproxy | 9",
@@ -515,7 +515,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | vless | @Lockey_vpn | 9",
+            "tag": "🇨🇦CA | vless | @Lockey_vpn | 9",
             "type": "vless",
             "server": "slfingp.com",
             "server_port": 443,
@@ -577,7 +577,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | vless | @free_v2rayyy | 5",
+            "tag": "🇨🇦CA | vless | @free_v2rayyy | 5",
             "type": "vless",
             "server": "zula.ir",
             "server_port": 2096,
@@ -622,7 +622,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | vless | @V2rayNGmat | 2",
+            "tag": "🇨🇦CA | vless | @V2rayNGmat | 2",
             "type": "vless",
             "server": "www.tegzitp.net",
             "server_port": 2087,
@@ -1161,6 +1161,27 @@
             }
         },
         {
+            "tag": "🇩🇪DE | vless | @DailyV2RY | 131",
+            "type": "vless",
+            "server": "154.197.75.98",
+            "server_port": 80,
+            "uuid": "adaad257-9cff-4d4a-b82a-3b269d8fc97b",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "154.197.75.98"
+                }
+            }
+        },
+        {
             "tag": "🇺🇸US | vless | @sinabigo | 4",
             "type": "vless",
             "server": "172.67.183.230",
@@ -1209,27 +1230,6 @@
                 "path": "\/",
                 "headers": {
                     "Host": "www.speedtest.net"
-                }
-            }
-        },
-        {
-            "tag": "🇨🇦CA | vless | @ConfigsHUB | 17",
-            "type": "vless",
-            "server": "104.18.202.232",
-            "server_port": 2052,
-            "uuid": "f7204e0a-0bb3-4b6e-be7c-e22c8ccd357f",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "104.18.202.232"
                 }
             }
         },
