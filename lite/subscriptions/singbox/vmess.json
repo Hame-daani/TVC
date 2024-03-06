@@ -112,7 +112,7 @@
                 "🇩🇪DE | vmess | @ShadowProxy66 | 28",
                 "🇺🇸US | vmess | @v2ray1_ng | 5",
                 "🇺🇸US | vmess | @yaney_01 | 5",
-                "🇺🇸US | vmess | @Hope_Net | 7",
+                "🇺🇸US | vmess | @Hope_Net | 5",
                 "🇦🇺AU | vmess | @v2Line | 6",
                 "🇺🇸US | vmess | @kingofilter | 12",
                 "🇵🇱PL | vmess | @eliya_chiter0 | 3"
@@ -128,7 +128,7 @@
                 "🇩🇪DE | vmess | @ShadowProxy66 | 28",
                 "🇺🇸US | vmess | @v2ray1_ng | 5",
                 "🇺🇸US | vmess | @yaney_01 | 5",
-                "🇺🇸US | vmess | @Hope_Net | 7",
+                "🇺🇸US | vmess | @Hope_Net | 5",
                 "🇦🇺AU | vmess | @v2Line | 6",
                 "🇺🇸US | vmess | @kingofilter | 12",
                 "🇵🇱PL | vmess | @eliya_chiter0 | 3"
@@ -287,11 +287,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | vmess | @Hope_Net | 7",
+            "tag": "🇺🇸US | vmess | @Hope_Net | 5",
             "type": "vmess",
-            "server": "172.67.152.200",
-            "server_port": 443,
-            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
+            "server": "172.67.164.207",
+            "server_port": 8443,
+            "uuid": "fc0a3f44-adf4-4fd2-8023-46d4aa528892",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -304,7 +304,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "meroiy.icu",
+                "server_name": "cdn.baraye-azadi-info.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -314,9 +314,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/linkvws",
+                "path": "\/download",
                 "headers": {
-                    "Host": "meroiy.icu"
+                    "Host": "cdn.baraye-azadi-info.com"
                 }
             }
         },
