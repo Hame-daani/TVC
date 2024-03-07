@@ -111,7 +111,7 @@
                 "🇩🇪DE | vless | @NIM_VPN_ir | 4",
                 "🇩🇪DE | vless | @VlessConfig | 16",
                 "🇩🇪DE | vless | @ipV2Ray | 9",
-                "🇺🇸US | vless | @melov2ray | 3",
+                "🇨🇦CA | vless | @melov2ray | 3",
                 "🇨🇦CA | vless | @V2pedia | 18",
                 "🇩🇪DE | vless | @frev2ray | 12",
                 "🇨🇦CA | vless | @ARv2ray | 15",
@@ -153,7 +153,6 @@
                 "🇩🇪DE | vless | @Capital_NET | 45",
                 "🇨🇦CA | vless | @Capoit | 8",
                 "🇨🇷CR | vless | @IRN_VPN | 2",
-                "🇺🇸US | vless | @forwardv2ray | 18",
                 "🇹🇷TR | vless | @FAKEOFTVC | 5",
                 "🇨🇦CA | vless | @https_config_injector | 21",
                 "🇸🇪SE | vless | @mehrosaboran | 10",
@@ -176,7 +175,7 @@
                 "🇩🇪DE | vless | @NIM_VPN_ir | 4",
                 "🇩🇪DE | vless | @VlessConfig | 16",
                 "🇩🇪DE | vless | @ipV2Ray | 9",
-                "🇺🇸US | vless | @melov2ray | 3",
+                "🇨🇦CA | vless | @melov2ray | 3",
                 "🇨🇦CA | vless | @V2pedia | 18",
                 "🇩🇪DE | vless | @frev2ray | 12",
                 "🇨🇦CA | vless | @ARv2ray | 15",
@@ -218,7 +217,6 @@
                 "🇩🇪DE | vless | @Capital_NET | 45",
                 "🇨🇦CA | vless | @Capoit | 8",
                 "🇨🇷CR | vless | @IRN_VPN | 2",
-                "🇺🇸US | vless | @forwardv2ray | 18",
                 "🇹🇷TR | vless | @FAKEOFTVC | 5",
                 "🇨🇦CA | vless | @https_config_injector | 21",
                 "🇸🇪SE | vless | @mehrosaboran | 10",
@@ -392,7 +390,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | vless | @melov2ray | 3",
+            "tag": "🇨🇦CA | vless | @melov2ray | 3",
             "type": "vless",
             "server": "chat.openai.com",
             "server_port": 8080,
@@ -1225,9 +1223,9 @@
         {
             "tag": "🇨🇦CA | vless | @ConfigsHUB | 15",
             "type": "vless",
-            "server": "104.21.28.62",
-            "server_port": 2052,
-            "uuid": "f7204e0a-0bb3-4b6e-be7c-e22c8ccd357f",
+            "server": "check-host.net",
+            "server_port": 8080,
+            "uuid": "ae1af6b9-c6d2-4cc1-8dc5-4d6fd7af23e3",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1237,9 +1235,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/?ed",
+                "path": "\/join--ServerNett--ServerNett?ed=1048",
                 "headers": {
-                    "Host": "104.21.28.62"
+                    "Host": "check-host.net"
                 }
             }
         },
@@ -1473,37 +1471,6 @@
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
-            }
-        },
-        {
-            "tag": "🇺🇸US | vless | @forwardv2ray | 18",
-            "type": "vless",
-            "server": "www.discord.com",
-            "server_port": 443,
-            "uuid": "0e3b028f-3471-499a-b535-07e54b474c95",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "fi2.v2vless.xyz",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/vless",
-                "headers": {
-                    "Host": "fi2.v2vless.xyz"
-                }
             }
         },
         {
