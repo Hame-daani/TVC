@@ -110,7 +110,7 @@
                 "🇨🇳CN | vmess | @mftizi | 18",
                 "🇫🇮FI | vmess | @oneclickvpnkeys | 11",
                 "🇺🇸US | vmess | @yaney_01 | 5",
-                "🏳️XX | vmess | @Hope_Net | 3",
+                "🇲🇾MY | vmess | @Hope_Net | 4",
                 "🇮🇳IN | vmess | @v2Line | 6",
                 "🇨🇦CA | vmess | @nofiltering2 | 1"
             ]
@@ -123,7 +123,7 @@
                 "🇨🇳CN | vmess | @mftizi | 18",
                 "🇫🇮FI | vmess | @oneclickvpnkeys | 11",
                 "🇺🇸US | vmess | @yaney_01 | 5",
-                "🏳️XX | vmess | @Hope_Net | 3",
+                "🇲🇾MY | vmess | @Hope_Net | 4",
                 "🇮🇳IN | vmess | @v2Line | 6",
                 "🇨🇦CA | vmess | @nofiltering2 | 1"
             ],
@@ -230,11 +230,11 @@
             }
         },
         {
-            "tag": "🏳️XX | vmess | @Hope_Net | 3",
+            "tag": "🇲🇾MY | vmess | @Hope_Net | 4",
             "type": "vmess",
-            "server": "mci.mosi.mosipro.ml",
-            "server_port": 443,
-            "uuid": "b829e687-72af-4de0-95ee-15d2074aa3d4",
+            "server": "154.90.39.63",
+            "server_port": 45343,
+            "uuid": "08aa8499-d616-4ff1-d6ab-ce0c522824aa",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -244,23 +244,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "Dusseldorf.kotick.site",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/speedtest",
-                "headers": {
-                    "Host": "Dusseldorf.kotick.site"
-                }
             }
         },
         {
