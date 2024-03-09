@@ -128,10 +128,9 @@
                 "🇩🇪DE | vless | @v2logy | 4",
                 "🇩🇪DE | vless | @v2logy | 6",
                 "🇬🇧GB | vless | @V2rayNGn | 19",
-                "🇧🇪BE | vless | @v2rayngvpn | 9",
+                "🇫🇷FR | vless | @v2rayngvpn | 9",
                 "🏳️XX | vless | @FalconPolV2rayNG | 1",
                 "🇳🇱NL | vless | @FalconPolV2rayNG | 7",
-                "🇬🇧GB | vless | @v2ray_swhil | 35",
                 "🇩🇪DE | vless | @Capital_NET | 31",
                 "🇬🇧GB | vless | @Capital_NET | 32",
                 "🏳️XX | vless | @Capital_NET | 33",
@@ -140,10 +139,11 @@
                 "🇩🇪DE | vless | @Capital_NET | 36",
                 "🏳️XX | vless | @Capital_NET | 37",
                 "🏳️XX | vless | @Capital_NET | 39",
-                "🇨🇦CA | vless | @Capital_NET | 41",
+                "🇳🇱NL | vless | @Capital_NET | 41",
                 "🇩🇪DE | vless | @Capital_NET | 42",
                 "🏳️XX | vless | @Capital_NET | 44",
                 "🇩🇪DE | vless | @Capital_NET | 45",
+                "🇬🇧GB | vless | @forwardv2ray | 9",
                 "🇫🇮FI | vless | @vpn_go67 | 9",
                 "🏳️XX | vless | @vpn_go67 | 10",
                 "🏳️XX | vless | @vpn_go67 | 11",
@@ -159,8 +159,8 @@
                 "🏳️XX | vless | @vpn_go67 | 21",
                 "🏳️XX | vless | @vpn_go67 | 22",
                 "🏳️XX | vless | @vpn_go67 | 23",
-                "🇩🇪DE | vless | @GozargahVPN | 4",
-                "🏳️XX | vless | @GozargahVPN | 5",
+                "🇩🇪DE | vless | @GozargahVPN | 5",
+                "🏳️XX | vless | @GozargahVPN | 6",
                 "🇸🇪SE | vless | @freeconfigv2 | 1",
                 "🏳️XX | vless | @freeconfigv2 | 3",
                 "🇩🇪DE | vless | @freeconfigv2 | 6",
@@ -195,10 +195,9 @@
                 "🇩🇪DE | vless | @v2logy | 4",
                 "🇩🇪DE | vless | @v2logy | 6",
                 "🇬🇧GB | vless | @V2rayNGn | 19",
-                "🇧🇪BE | vless | @v2rayngvpn | 9",
+                "🇫🇷FR | vless | @v2rayngvpn | 9",
                 "🏳️XX | vless | @FalconPolV2rayNG | 1",
                 "🇳🇱NL | vless | @FalconPolV2rayNG | 7",
-                "🇬🇧GB | vless | @v2ray_swhil | 35",
                 "🇩🇪DE | vless | @Capital_NET | 31",
                 "🇬🇧GB | vless | @Capital_NET | 32",
                 "🏳️XX | vless | @Capital_NET | 33",
@@ -207,10 +206,11 @@
                 "🇩🇪DE | vless | @Capital_NET | 36",
                 "🏳️XX | vless | @Capital_NET | 37",
                 "🏳️XX | vless | @Capital_NET | 39",
-                "🇨🇦CA | vless | @Capital_NET | 41",
+                "🇳🇱NL | vless | @Capital_NET | 41",
                 "🇩🇪DE | vless | @Capital_NET | 42",
                 "🏳️XX | vless | @Capital_NET | 44",
                 "🇩🇪DE | vless | @Capital_NET | 45",
+                "🇬🇧GB | vless | @forwardv2ray | 9",
                 "🇫🇮FI | vless | @vpn_go67 | 9",
                 "🏳️XX | vless | @vpn_go67 | 10",
                 "🏳️XX | vless | @vpn_go67 | 11",
@@ -226,8 +226,8 @@
                 "🏳️XX | vless | @vpn_go67 | 21",
                 "🏳️XX | vless | @vpn_go67 | 22",
                 "🏳️XX | vless | @vpn_go67 | 23",
-                "🇩🇪DE | vless | @GozargahVPN | 4",
-                "🏳️XX | vless | @GozargahVPN | 5",
+                "🇩🇪DE | vless | @GozargahVPN | 5",
+                "🏳️XX | vless | @GozargahVPN | 6",
                 "🇸🇪SE | vless | @freeconfigv2 | 1",
                 "🏳️XX | vless | @freeconfigv2 | 3",
                 "🇩🇪DE | vless | @freeconfigv2 | 6",
@@ -1006,7 +1006,7 @@
             }
         },
         {
-            "tag": "🇧🇪BE | vless | @v2rayngvpn | 9",
+            "tag": "🇫🇷FR | vless | @v2rayngvpn | 9",
             "type": "vless",
             "server": "5.135.21.191",
             "server_port": 8880,
@@ -1101,42 +1101,6 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "@ipV2Ray",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
-            }
-        },
-        {
-            "tag": "🇬🇧GB | vless | @v2ray_swhil | 35",
-            "type": "vless",
-            "server": "57.128.163.80",
-            "server_port": 443,
-            "uuid": "VPNCUSTOMIZE",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "cdn.kellekcollection.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "w9tYPxes9YU2yvmYMgRYhSFQCWFoyQCz5b0odul1DQQ",
-                    "short_id": "136ce8d8"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "@VPNCUSTOMIZE",
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
@@ -1389,7 +1353,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | vless | @Capital_NET | 41",
+            "tag": "🇳🇱NL | vless | @Capital_NET | 41",
             "type": "vless",
             "server": "194.5.97.158",
             "server_port": 443,
@@ -1502,6 +1466,42 @@
                     "public_key": "fabWUdBWxh7NsMaqOF35petD3ljQbKf6OSDnROV9jDs",
                     "short_id": "6f9deca7"
                 }
+            }
+        },
+        {
+            "tag": "🇬🇧GB | vless | @forwardv2ray | 9",
+            "type": "vless",
+            "server": "165.232.32.165",
+            "server_port": 2053,
+            "uuid": "ab44ee21-6497-422f-be68-06857e39c2a8",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "cdn.discordapp.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
+                    "short_id": ""
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "xyz",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
             }
         },
         {
@@ -2045,7 +2045,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | vless | @GozargahVPN | 4",
+            "tag": "🇩🇪DE | vless | @GozargahVPN | 5",
             "type": "vless",
             "server": "45.32.157.52",
             "server_port": 443,
@@ -2074,7 +2074,7 @@
             }
         },
         {
-            "tag": "🏳️XX | vless | @GozargahVPN | 5",
+            "tag": "🏳️XX | vless | @GozargahVPN | 6",
             "type": "vless",
             "server": "test.GozargahVPN.top",
             "server_port": 443,
