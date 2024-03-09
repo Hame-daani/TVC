@@ -112,8 +112,10 @@
                 "🇭🇰HK | vmess | @yaney_01 | 5",
                 "🇺🇸US | vmess | @Hope_Net | 12",
                 "🇺🇦UA | vmess | @v2Line | 7",
+                "🇨🇦CA | vmess | @FAKEOFTVC | 3",
                 "🇺🇸US | vmess | @nofiltering2 | 1",
-                "🇱🇹LT | vmess | @eliya_chiter0 | 3"
+                "🇱🇹LT | vmess | @eliya_chiter0 | 3",
+                "🇮🇷IR | vmess | @SINABIGO | 6"
             ]
         },
         {
@@ -126,8 +128,10 @@
                 "🇭🇰HK | vmess | @yaney_01 | 5",
                 "🇺🇸US | vmess | @Hope_Net | 12",
                 "🇺🇦UA | vmess | @v2Line | 7",
+                "🇨🇦CA | vmess | @FAKEOFTVC | 3",
                 "🇺🇸US | vmess | @nofiltering2 | 1",
-                "🇱🇹LT | vmess | @eliya_chiter0 | 3"
+                "🇱🇹LT | vmess | @eliya_chiter0 | 3",
+                "🇮🇷IR | vmess | @SINABIGO | 6"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -307,6 +311,40 @@
             }
         },
         {
+            "tag": "🇨🇦CA | vmess | @FAKEOFTVC | 3",
+            "type": "vmess",
+            "server": "104.26.8.202",
+            "server_port": 443,
+            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "vip2323.cfd",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/linkvws",
+                "headers": {
+                    "Host": "vip2323.cfd"
+                }
+            }
+        },
+        {
             "tag": "🇺🇸US | vmess | @nofiltering2 | 1",
             "type": "vmess",
             "server": "meroiy.icu",
@@ -362,6 +400,23 @@
                 "headers": {
                     "Host": ""
                 }
+            }
+        },
+        {
+            "tag": "🇮🇷IR | vmess | @SINABIGO | 6",
+            "type": "vmess",
+            "server": "relay.vipservice.website",
+            "server_port": 80,
+            "uuid": "469abe72-d5a9-40c2-99f6-a48459b1d65a",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
             }
         }
     ],
