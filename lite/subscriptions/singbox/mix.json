@@ -127,9 +127,8 @@
                 "🇨🇦CA | vless | @DigiV2ray | 23",
                 "🇺🇸US | vless | @proxy_kafee | 4",
                 "🇩🇪DE | vless | @v2logy | 7",
-                "🏳️XX | vless | @V2rayCollector | 3",
                 "🇮🇷IR | vless | @azadi_az_inja_migzare | 2",
-                "🇺🇸US | vless | @V2rayCollectorDonate | 19",
+                "🇨🇦CA | vless | @V2rayCollectorDonate | 19",
                 "🇨🇦CA | vless | @ProxyForOpeta | 1",
                 "🇳🇱NL | vless | @V2rayNGn | 26",
                 "🇩🇪DE | trojan | @PrivateVPNs | 17",
@@ -146,7 +145,7 @@
                 "🇬🇧GB | vless | @ServerNett | 25",
                 "🇨🇦CA | vless | @Qv2rayDONATED | 6",
                 "🇨🇦CA | trojan | @v2ray_swhil | 33",
-                "🇳🇱NL | vless | @proxyymeliii | 15",
+                "🇮🇷IR | vless | @proxyymeliii | 15",
                 "🇨🇦CA | vless | @v2ray1_ng | 11",
                 "🇸🇪SE | vless | @V2RayTz | 15",
                 "🇩🇪DE | ss | @VmessProtocol | 16",
@@ -166,6 +165,7 @@
                 "🇸🇪SE | vless | @Capoit | 17",
                 "🇨🇦CA | vless | @FreakConfig | 2",
                 "🇨🇦CA | vless | @flyv2ray | 14",
+                "🏳️XX | vmess | @forwardv2ray | 6",
                 "🇺🇸US | vmess | @FAKEOFTVC | 2",
                 "🇺🇸US | vless | @mehrosaboran | 10",
                 "🇩🇪DE | vless | @kiava | 0",
@@ -207,9 +207,8 @@
                 "🇨🇦CA | vless | @DigiV2ray | 23",
                 "🇺🇸US | vless | @proxy_kafee | 4",
                 "🇩🇪DE | vless | @v2logy | 7",
-                "🏳️XX | vless | @V2rayCollector | 3",
                 "🇮🇷IR | vless | @azadi_az_inja_migzare | 2",
-                "🇺🇸US | vless | @V2rayCollectorDonate | 19",
+                "🇨🇦CA | vless | @V2rayCollectorDonate | 19",
                 "🇨🇦CA | vless | @ProxyForOpeta | 1",
                 "🇳🇱NL | vless | @V2rayNGn | 26",
                 "🇩🇪DE | trojan | @PrivateVPNs | 17",
@@ -226,7 +225,7 @@
                 "🇬🇧GB | vless | @ServerNett | 25",
                 "🇨🇦CA | vless | @Qv2rayDONATED | 6",
                 "🇨🇦CA | trojan | @v2ray_swhil | 33",
-                "🇳🇱NL | vless | @proxyymeliii | 15",
+                "🇮🇷IR | vless | @proxyymeliii | 15",
                 "🇨🇦CA | vless | @v2ray1_ng | 11",
                 "🇸🇪SE | vless | @V2RayTz | 15",
                 "🇩🇪DE | ss | @VmessProtocol | 16",
@@ -246,6 +245,7 @@
                 "🇸🇪SE | vless | @Capoit | 17",
                 "🇨🇦CA | vless | @FreakConfig | 2",
                 "🇨🇦CA | vless | @flyv2ray | 14",
+                "🏳️XX | vmess | @forwardv2ray | 6",
                 "🇺🇸US | vmess | @FAKEOFTVC | 2",
                 "🇺🇸US | vless | @mehrosaboran | 10",
                 "🇩🇪DE | vless | @kiava | 0",
@@ -850,42 +850,6 @@
             }
         },
         {
-            "tag": "🏳️XX | vless | @V2rayCollector | 3",
-            "type": "vless",
-            "server": "[2a01:4f8:1c0c:7523::1]",
-            "server_port": 2096,
-            "uuid": "cc7a59ce-eee7-4503-afc1-d73703c40993",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "sourceforge.net",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "fkSxbZt-AETccsW2WfmHBP5RhiLy6Nk1vdEgYdnYQUc",
-                    "short_id": "c8129c93"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "ZEDMODEON-ZEDMODEON",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
-            }
-        },
-        {
             "tag": "🇮🇷IR | vless | @azadi_az_inja_migzare | 2",
             "type": "vless",
             "server": "31.47.45.101",
@@ -900,7 +864,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | vless | @V2rayCollectorDonate | 19",
+            "tag": "🇨🇦CA | vless | @V2rayCollectorDonate | 19",
             "type": "vless",
             "server": "discord.com",
             "server_port": 443,
@@ -1336,34 +1300,17 @@
             }
         },
         {
-            "tag": "🇳🇱NL | vless | @proxyymeliii | 15",
+            "tag": "🇮🇷IR | vless | @proxyymeliii | 15",
             "type": "vless",
-            "server": "188.114.98.224",
-            "server_port": 443,
-            "uuid": "VPNCUSTOMIZE",
+            "server": "185.211.59.179",
+            "server_port": 15812,
+            "uuid": "c89dcf96-96bf-47ba-a154-e7fd6a772bd2",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "cp.kellekcollection.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/account\/cart\/buy",
-                "headers": {
-                    "Host": "cp.kellekcollection.com"
-                }
             }
         },
         {
@@ -1803,6 +1750,40 @@
                 "path": "\/",
                 "headers": {
                     "Host": "discord.gg"
+                }
+            }
+        },
+        {
+            "tag": "🏳️XX | vmess | @forwardv2ray | 6",
+            "type": "vmess",
+            "server": "mci.mosi.mosipro.ml",
+            "server_port": 443,
+            "uuid": "dfeaf542-fdc2-4c0d-86d6-d0e771bc7606",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "Dusseldorf.kotick.site",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/speedtest",
+                "headers": {
+                    "Host": "Dusseldorf.kotick.site"
                 }
             }
         },
