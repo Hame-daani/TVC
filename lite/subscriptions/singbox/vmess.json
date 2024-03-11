@@ -111,9 +111,9 @@
                 "🇨🇦CA | vmess | @oneclickvpnkeys | 13",
                 "🇩🇪DE | vmess | @prrofile_purple | 183",
                 "🇭🇰HK | vmess | @yaney_01 | 5",
-                "🇫🇷FR | vmess | @Hope_Net | 5",
+                "🇫🇷FR | vmess | @Hope_Net | 9",
                 "🇨🇦CA | vmess | @v2Line | 6",
-                "🇨🇦CA | vmess | @forwardv2ray | 18",
+                "🇩🇪DE | vmess | @forwardv2ray | 12",
                 "🇨🇦CA | vmess | @nofiltering2 | 3",
                 "🇱🇹LT | vmess | @eliya_chiter0 | 5"
             ]
@@ -127,9 +127,9 @@
                 "🇨🇦CA | vmess | @oneclickvpnkeys | 13",
                 "🇩🇪DE | vmess | @prrofile_purple | 183",
                 "🇭🇰HK | vmess | @yaney_01 | 5",
-                "🇫🇷FR | vmess | @Hope_Net | 5",
+                "🇫🇷FR | vmess | @Hope_Net | 9",
                 "🇨🇦CA | vmess | @v2Line | 6",
-                "🇨🇦CA | vmess | @forwardv2ray | 18",
+                "🇩🇪DE | vmess | @forwardv2ray | 12",
                 "🇨🇦CA | vmess | @nofiltering2 | 3",
                 "🇱🇹LT | vmess | @eliya_chiter0 | 5"
             ],
@@ -270,7 +270,7 @@
             }
         },
         {
-            "tag": "🇫🇷FR | vmess | @Hope_Net | 5",
+            "tag": "🇫🇷FR | vmess | @Hope_Net | 9",
             "type": "vmess",
             "server": "141.94.237.81",
             "server_port": 8443,
@@ -331,11 +331,11 @@
             }
         },
         {
-            "tag": "🇨🇦CA | vmess | @forwardv2ray | 18",
+            "tag": "🇩🇪DE | vmess | @forwardv2ray | 12",
             "type": "vmess",
-            "server": "104.26.10.56",
-            "server_port": 2095,
-            "uuid": "3fab3fe2-7bc3-4b29-be96-2dcc79d548ad",
+            "server": "92.223.124.33",
+            "server_port": 80,
+            "uuid": "cfe523d6-1c99-418e-b3d8-691681200c95",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -348,9 +348,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/?@v2ray_every_12_hoursed=2048",
+                "path": "\/@forwardv2ray",
                 "headers": {
-                    "Host": ""
+                    "Host": "kosar12.3utilities.com"
                 }
             }
         },
