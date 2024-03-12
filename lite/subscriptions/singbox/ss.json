@@ -108,7 +108,7 @@
                 "URL-TEST",
                 "🇬🇧GB | ss | @VmessProtocol | 10",
                 "🇹🇷TR | ss | @OutlineVpnOfficial | 18",
-                "🇬🇧GB | ss | @forwardv2ray | 19"
+                "🇫🇷FR | ss | @forwardv2ray | 19"
             ]
         },
         {
@@ -117,7 +117,7 @@
             "outbounds": [
                 "🇬🇧GB | ss | @VmessProtocol | 10",
                 "🇹🇷TR | ss | @OutlineVpnOfficial | 18",
-                "🇬🇧GB | ss | @forwardv2ray | 19"
+                "🇫🇷FR | ss | @forwardv2ray | 19"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -160,12 +160,12 @@
             "plugin_opts": ""
         },
         {
-            "tag": "🇬🇧GB | ss | @forwardv2ray | 19",
+            "tag": "🇫🇷FR | ss | @forwardv2ray | 19",
             "type": "shadowsocks",
-            "server": "series-a1.samanehha.co",
-            "server_port": 443,
+            "server": "92.243.27.51",
+            "server_port": 9802,
             "method": "chacha20-ietf-poly1305",
-            "password": "W74XFALLLuw6m5IA",
+            "password": "SDa2bd3xIOMAgCaGPMQPHn",
             "plugin": "",
             "plugin_opts": ""
         }
