@@ -108,9 +108,9 @@
                 "URL-TEST",
                 "🇫🇷FR | vmess | @v2ray_outlineir | 0",
                 "🇺🇸US | vmess | @mftizi | 18",
-                "🇩🇪DE | vmess | @oneclickvpnkeys | 11",
+                "🇪🇪EE | vmess | @oneclickvpnkeys | 11",
                 "🇨🇳CN | vmess | @yaney_01 | 3",
-                "🇺🇸US | vmess | @Hope_Net | 10",
+                "🏳️XX | vmess | @Hope_Net | 8",
                 "🇪🇪EE | vmess | @v2Line | 6",
                 "🇫🇷FR | vmess | @FAKEOFTVC | 5",
                 "🇺🇸US | vmess | @nofiltering2 | 1",
@@ -123,9 +123,9 @@
             "outbounds": [
                 "🇫🇷FR | vmess | @v2ray_outlineir | 0",
                 "🇺🇸US | vmess | @mftizi | 18",
-                "🇩🇪DE | vmess | @oneclickvpnkeys | 11",
+                "🇪🇪EE | vmess | @oneclickvpnkeys | 11",
                 "🇨🇳CN | vmess | @yaney_01 | 3",
-                "🇺🇸US | vmess | @Hope_Net | 10",
+                "🏳️XX | vmess | @Hope_Net | 8",
                 "🇪🇪EE | vmess | @v2Line | 6",
                 "🇫🇷FR | vmess | @FAKEOFTVC | 5",
                 "🇺🇸US | vmess | @nofiltering2 | 1",
@@ -186,11 +186,11 @@
             }
         },
         {
-            "tag": "🇩🇪DE | vmess | @oneclickvpnkeys | 11",
+            "tag": "🇪🇪EE | vmess | @oneclickvpnkeys | 11",
             "type": "vmess",
-            "server": "91.107.169.215",
-            "server_port": 36201,
-            "uuid": "a780eb73-03ad-4097-a822-1b11c3b5011f",
+            "server": "ee1.xv2ray.net",
+            "server_port": 80,
+            "uuid": "83018580-58ce-464f-b75c-2a1331a8f016",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -203,7 +203,7 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/",
+                "path": "\/vmess",
                 "headers": {
                     "Host": ""
                 }
@@ -227,11 +227,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | vmess | @Hope_Net | 10",
+            "tag": "🏳️XX | vmess | @Hope_Net | 8",
             "type": "vmess",
-            "server": "nelly.homes",
-            "server_port": 443,
-            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
+            "server": "127.0.0.1",
+            "server_port": 8080,
+            "uuid": "acbcaab-baac-baca-bdca-accabbbaccab",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -241,23 +241,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "nelly.homes",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/linkvws",
-                "headers": {
-                    "Host": "nelly.homes"
-                }
             }
         },
         {
