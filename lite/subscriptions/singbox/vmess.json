@@ -108,8 +108,8 @@
                 "URL-TEST",
                 "🇫🇷FR | vmess | @v2ray_outlineir | 0",
                 "🇺🇸US | vmess | @mftizi | 18",
+                "🇺🇸US | vmess | @DeamNet_Proxy | 18",
                 "🇩🇪DE | vmess | @oneclickvpnkeys | 11",
-                "🇳🇱NL | vmess | @v2ray1_ng | 25",
                 "🇨🇳CN | vmess | @yaney_01 | 3",
                 "🇺🇸US | vmess | @Hope_Net | 3",
                 "🇨🇦CA | vmess | @v2Line | 4",
@@ -123,8 +123,8 @@
             "outbounds": [
                 "🇫🇷FR | vmess | @v2ray_outlineir | 0",
                 "🇺🇸US | vmess | @mftizi | 18",
+                "🇺🇸US | vmess | @DeamNet_Proxy | 18",
                 "🇩🇪DE | vmess | @oneclickvpnkeys | 11",
-                "🇳🇱NL | vmess | @v2ray1_ng | 25",
                 "🇨🇳CN | vmess | @yaney_01 | 3",
                 "🇺🇸US | vmess | @Hope_Net | 3",
                 "🇨🇦CA | vmess | @v2Line | 4",
@@ -186,6 +186,40 @@
             }
         },
         {
+            "tag": "🇺🇸US | vmess | @DeamNet_Proxy | 18",
+            "type": "vmess",
+            "server": "206.168.190.218",
+            "server_port": 8443,
+            "uuid": "7e348dc0-df7b-11ee-b235-205c6d5f5d78",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "ba24.ir",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/@V2RayyNGvpn",
+                "headers": {
+                    "Host": "ba24.ir"
+                }
+            }
+        },
+        {
             "tag": "🇩🇪DE | vmess | @oneclickvpnkeys | 11",
             "type": "vmess",
             "server": "91.107.169.215",
@@ -204,30 +238,6 @@
             "transport": {
                 "type": "ws",
                 "path": "\/",
-                "headers": {
-                    "Host": ""
-                }
-            }
-        },
-        {
-            "tag": "🇳🇱NL | vmess | @v2ray1_ng | 25",
-            "type": "vmess",
-            "server": "bemyfortunes.com",
-            "server_port": 2095,
-            "uuid": "@v2ray_every_12_hours",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/?@v2ray_every_12_hoursed=2048",
                 "headers": {
                     "Host": ""
                 }
