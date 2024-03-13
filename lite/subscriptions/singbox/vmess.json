@@ -113,7 +113,7 @@
                 "🏳️XX | vmess | @Hope_Net | 1",
                 "🇨🇦CA | vmess | @v2Line | 5",
                 "🇺🇸US | vmess | @nofiltering2 | 1",
-                "🇺🇸US | vmess | @eliya_chiter0 | 5"
+                "🇨🇦CA | vmess | @eliya_chiter0 | 5"
             ]
         },
         {
@@ -127,7 +127,7 @@
                 "🏳️XX | vmess | @Hope_Net | 1",
                 "🇨🇦CA | vmess | @v2Line | 5",
                 "🇺🇸US | vmess | @nofiltering2 | 1",
-                "🇺🇸US | vmess | @eliya_chiter0 | 5"
+                "🇨🇦CA | vmess | @eliya_chiter0 | 5"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -186,9 +186,9 @@
         {
             "tag": "🇨🇦CA | vmess | @oneclickvpnkeys | 9",
             "type": "vmess",
-            "server": "104.21.63.52",
+            "server": "104.21.230.52",
             "server_port": 80,
-            "uuid": "60f12435-bb55-4da2-cb7d-4fea34ecfa37",
+            "uuid": "7022982f-da4c-48c9-c660-b2315abdcf7e",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -201,7 +201,7 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/",
+                "path": "\/&Telegram🇨🇳",
                 "headers": {
                     "Host": ""
                 }
@@ -300,7 +300,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | vmess | @eliya_chiter0 | 5",
+            "tag": "🇨🇦CA | vmess | @eliya_chiter0 | 5",
             "type": "vmess",
             "server": "104.26.9.202",
             "server_port": 443,
