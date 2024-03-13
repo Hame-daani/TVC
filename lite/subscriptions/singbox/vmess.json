@@ -112,8 +112,7 @@
                 "🇫🇮FI | vmess | @proxyymeliii | 14",
                 "🇸🇬SG | vmess | @yaney_01 | 2",
                 "🏳️XX | vmess | @Hope_Net | 2",
-                "🇨🇦CA | vmess | @v2Line | 5",
-                "🇺🇦UA | vmess | @forwardv2ray | 11",
+                "🇭🇰HK | vmess | @v2Line | 6",
                 "🇺🇸US | vmess | @nofiltering2 | 1",
                 "🇨🇦CA | vmess | @eliya_chiter0 | 5"
             ]
@@ -128,8 +127,7 @@
                 "🇫🇮FI | vmess | @proxyymeliii | 14",
                 "🇸🇬SG | vmess | @yaney_01 | 2",
                 "🏳️XX | vmess | @Hope_Net | 2",
-                "🇨🇦CA | vmess | @v2Line | 5",
-                "🇺🇦UA | vmess | @forwardv2ray | 11",
+                "🇭🇰HK | vmess | @v2Line | 6",
                 "🇺🇸US | vmess | @nofiltering2 | 1",
                 "🇨🇦CA | vmess | @eliya_chiter0 | 5"
             ],
@@ -263,11 +261,11 @@
             }
         },
         {
-            "tag": "🇨🇦CA | vmess | @v2Line | 5",
+            "tag": "🇭🇰HK | vmess | @v2Line | 6",
             "type": "vmess",
-            "server": "104.21.225.38",
+            "server": "hk1.xv2ray.net",
             "server_port": 80,
-            "uuid": "7022982f-da4c-48c9-c660-b2315abdcf7e",
+            "uuid": "6f20c1ae-c712-4a26-a9f4-5e5b3c480b9d",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -280,36 +278,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/",
+                "path": "\/vmess",
                 "headers": {
-                    "Host": ""
-                }
-            }
-        },
-        {
-            "tag": "🇺🇦UA | vmess | @forwardv2ray | 11",
-            "type": "vmess",
-            "server": "45.137.155.195",
-            "server_port": 443,
-            "uuid": "49c76bcf-3a58-43df-b1d4-2bffe9ca03b5",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
+                    "Host": "hk1.xv2ray.net"
                 }
             }
         },
