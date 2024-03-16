@@ -107,14 +107,13 @@
             "outbounds": [
                 "URL-TEST",
                 "🇫🇷FR | vmess | @v2ray_outlineir | 0",
-                "🇺🇸US | vmess | @mftizi | 18",
-                "🇨🇿CZ | vmess | @oneclickvpnkeys | 8",
+                "🇨🇦CA | vmess | @mftizi | 18",
+                "🇨🇦CA | vmess | @oneclickvpnkeys | 8",
                 "🇨🇦CA | vmess | @ShadowProxy66 | 45",
                 "🇸🇬SG | vmess | @V2rayng_Fast | 0",
                 "🇸🇬SG | vmess | @yaney_01 | 2",
-                "🏳️XX | vmess | @Hope_Net | 7",
-                "🇨🇦CA | vmess | @v2Line | 6",
-                "🇺🇸US | vmess | @nofiltering2 | 1"
+                "🏳️XX | vmess | @Hope_Net | 6",
+                "🇨🇦CA | vmess | @v2Line | 7"
             ]
         },
         {
@@ -122,14 +121,13 @@
             "type": "urltest",
             "outbounds": [
                 "🇫🇷FR | vmess | @v2ray_outlineir | 0",
-                "🇺🇸US | vmess | @mftizi | 18",
-                "🇨🇿CZ | vmess | @oneclickvpnkeys | 8",
+                "🇨🇦CA | vmess | @mftizi | 18",
+                "🇨🇦CA | vmess | @oneclickvpnkeys | 8",
                 "🇨🇦CA | vmess | @ShadowProxy66 | 45",
                 "🇸🇬SG | vmess | @V2rayng_Fast | 0",
                 "🇸🇬SG | vmess | @yaney_01 | 2",
-                "🏳️XX | vmess | @Hope_Net | 7",
-                "🇨🇦CA | vmess | @v2Line | 6",
-                "🇺🇸US | vmess | @nofiltering2 | 1"
+                "🏳️XX | vmess | @Hope_Net | 6",
+                "🇨🇦CA | vmess | @v2Line | 7"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -169,7 +167,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | vmess | @mftizi | 18",
+            "tag": "🇨🇦CA | vmess | @mftizi | 18",
             "type": "vmess",
             "server": "www.coldstone.club",
             "server_port": 8080,
@@ -193,7 +191,7 @@
             }
         },
         {
-            "tag": "🇨🇿CZ | vmess | @oneclickvpnkeys | 8",
+            "tag": "🇨🇦CA | vmess | @oneclickvpnkeys | 8",
             "type": "vmess",
             "server": "cfcdn1.sanfencdn9.com",
             "server_port": 2086,
@@ -292,11 +290,11 @@
             }
         },
         {
-            "tag": "🏳️XX | vmess | @Hope_Net | 7",
+            "tag": "🏳️XX | vmess | @Hope_Net | 6",
             "type": "vmess",
             "server": "127.0.0.1",
             "server_port": 8080,
-            "uuid": "cbaabac-caba-baca-abcd-baabcaabcbcc",
+            "uuid": "ccababa-cbaa-baac-dacb-ccaabbbccbaa",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -309,7 +307,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | vmess | @v2Line | 6",
+            "tag": "🇨🇦CA | vmess | @v2Line | 7",
             "type": "vmess",
             "server": "104.21.75.244",
             "server_port": 443,
@@ -339,40 +337,6 @@
                 "path": "\/linkvws",
                 "headers": {
                     "Host": "janett.click"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | vmess | @nofiltering2 | 1",
-            "type": "vmess",
-            "server": "172.67.196.110",
-            "server_port": 443,
-            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "kellie.makeup",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/linkvws",
-                "headers": {
-                    "Host": "kellie.makeup"
                 }
             }
         }
