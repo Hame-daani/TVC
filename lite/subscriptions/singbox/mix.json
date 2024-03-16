@@ -107,11 +107,10 @@
             "outbounds": [
                 "URL-TEST",
                 "🇩🇪DE | vless | @VPNCUSTOMIZE | 24",
-                "🇸🇪SE | trojan | @PrivateVPNs | 17",
-                "🇸🇪SE | trojan | @DirectVPN | 17",
+                "🇩🇪DE | trojan | @PrivateVPNs | 17",
+                "🇸🇪SE | trojan | @DirectVPN | 16",
                 "🇹🇷TR | vless | @DailyV2RY | 152",
                 "🇪🇪EE | ss | @OutlineVpnOfficial | 17",
-                "🇦🇪AE | ss | @forwardv2ray | 18",
                 "🇨🇦CA | vless | @TVCminer | 5"
             ]
         },
@@ -120,11 +119,10 @@
             "type": "urltest",
             "outbounds": [
                 "🇩🇪DE | vless | @VPNCUSTOMIZE | 24",
-                "🇸🇪SE | trojan | @PrivateVPNs | 17",
-                "🇸🇪SE | trojan | @DirectVPN | 17",
+                "🇩🇪DE | trojan | @PrivateVPNs | 17",
+                "🇸🇪SE | trojan | @DirectVPN | 16",
                 "🇹🇷TR | vless | @DailyV2RY | 152",
                 "🇪🇪EE | ss | @OutlineVpnOfficial | 17",
-                "🇦🇪AE | ss | @forwardv2ray | 18",
                 "🇨🇦CA | vless | @TVCminer | 5"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -172,9 +170,9 @@
             }
         },
         {
-            "tag": "🇸🇪SE | trojan | @PrivateVPNs | 17",
+            "tag": "🇩🇪DE | trojan | @PrivateVPNs | 17",
             "type": "trojan",
-            "server": "13.50.183.153",
+            "server": "35.157.75.13",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -194,9 +192,9 @@
             }
         },
         {
-            "tag": "🇸🇪SE | trojan | @DirectVPN | 17",
+            "tag": "🇸🇪SE | trojan | @DirectVPN | 16",
             "type": "trojan",
-            "server": "16.171.103.25",
+            "server": "16.171.76.149",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -251,16 +249,6 @@
             "server_port": 27981,
             "method": "chacha20-ietf-poly1305",
             "password": "pg6G3tuVQllmcS7zCo5Fce",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "🇦🇪AE | ss | @forwardv2ray | 18",
-            "type": "shadowsocks",
-            "server": "series-a2.samanehha.co",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "mps3FwmDjLrWaOVg",
             "plugin": "",
             "plugin_opts": ""
         },
