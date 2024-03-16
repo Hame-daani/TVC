@@ -9,7 +9,7 @@ require "functions.php";
 
 // Fetch the JSON data from the API and decode it into an associative array
 $sourcesArray = json_decode(
-    file_get_contents("https://api.yebekhe.link/tvc-channels/channels.json"),
+    file_get_contents("../channels.json"),
     true
 );
 
@@ -89,8 +89,8 @@ foreach ($configsList as $source => $configs) {
         echo "] $percentage%";
         $tempCounter++;
 
-        // If the config is valid and the key is less than or equal to 15
-        if (is_valid($config) && $key >= $limitKey) {
+        // If the config is valid and the key is less than or equal to 1
+        if (is_valid($config) && isEncrypted($config) && $key >= $limitKey) {
             $type = detect_type($config);
             $configHash = $configsHash[$type];
             $configIp = $configsIp[$type];
