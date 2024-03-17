@@ -1,8 +1,7 @@
 vless://VPNCUSTOMIZE-TMCUSTOMIZE@54.37.76.9:443?security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cdn.kellekcollection.com#🇩🇪DE%20|%20vless%20|%20@V2rayNGn%20|%2023
-trojan://telegram-id-privatevpns@52.30.23.192:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇮🇪IE%20|%20trojan%20|%20@PrivateVPNs%20|%2017
-trojan://telegram-id-directvpn@52.43.123.104:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇺🇸US%20|%20trojan%20|%20@DirectVPN%20|%2017
+trojan://telegram-id-privatevpns@51.21.77.215:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE%20|%20trojan%20|%20@PrivateVPNs%20|%2017
+trojan://telegram-id-directvpn@51.20.177.90:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE%20|%20trojan%20|%20@DirectVPN%20|%2017
 ss://NWQ4NTY5YTktYThjYi00YzVlLTllYTktY2M0MGRlODczYTM1Og==@104.31.16.65:443#🇨🇦CA%20|%20ss%20|%20@DeamNet_Proxy%20|%2019
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@java.ct.arvancode.eu.org:443#🇦🇪AE%20|%20ss%20|%20@OutlineVpnOfficial%20|%2015
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTFZWRnh4SEpTQk1kR2Rs@series-a2-me.samanehha.co:443#🇧🇭BH%20|%20ss%20|%20@forwardv2ray%20|%2017
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2eDhvZ1RzUHpNbml6YkZrRm5kcUFR@95.164.11.94:1080#🇹🇷TR%20|%20ss%20|%20@ROMAX_VPN%20|%209
-vless://ec880e3c-2817-4b89-9887-ccc1fb7e3a52@steel.footballlovernews.com:443?security=tls&type=ws&sni=steel.footballlovernews.com&fp=chrome&path=%2Fsteel&encryption=none&headerType=none#🇺🇸US%20|%20vless%20|%20@TVCminer%20|%209
+vless://ec880e3c-2817-4b89-9887-ccc1fb7e3a52@steel.footballlovernews.com:443?security=tls&type=ws&sni=steel.footballlovernews.com&fp=chrome&path=%2Fsteel&encryption=none&headerType=none#🇨🇦CA%20|%20vless%20|%20@TVCminer%20|%209
