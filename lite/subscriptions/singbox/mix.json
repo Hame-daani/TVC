@@ -108,8 +108,7 @@
                 "URL-TEST",
                 "🇩🇪DE | trojan | @PrivateVPNs | 17",
                 "🇩🇪DE | trojan | @DirectVPN | 17",
-                "🇪🇪EE | ss | @OutlineVpnOfficial | 17",
-                "🇧🇭BH | ss | @forwardv2ray | 14",
+                "🇫🇮FI | ss | @OutlineVpnOfficial | 15",
                 "🇨🇦CA | vless | @TVCminer | 5"
             ]
         },
@@ -119,8 +118,7 @@
             "outbounds": [
                 "🇩🇪DE | trojan | @PrivateVPNs | 17",
                 "🇩🇪DE | trojan | @DirectVPN | 17",
-                "🇪🇪EE | ss | @OutlineVpnOfficial | 17",
-                "🇧🇭BH | ss | @forwardv2ray | 14",
+                "🇫🇮FI | ss | @OutlineVpnOfficial | 15",
                 "🇨🇦CA | vless | @TVCminer | 5"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -188,22 +186,12 @@
             }
         },
         {
-            "tag": "🇪🇪EE | ss | @OutlineVpnOfficial | 17",
+            "tag": "🇫🇮FI | ss | @OutlineVpnOfficial | 15",
             "type": "shadowsocks",
-            "server": "193.228.128.143",
-            "server_port": 27981,
+            "server": "78.153.139.25",
+            "server_port": 5636,
             "method": "chacha20-ietf-poly1305",
-            "password": "pg6G3tuVQllmcS7zCo5Fce",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "🇧🇭BH | ss | @forwardv2ray | 14",
-            "type": "shadowsocks",
-            "server": "series-a2-me.samanehha.co",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "Bog0ELmMM9DSxDdQ",
+            "password": "spLaujVWfuUms5xzcCbA6z",
             "plugin": "",
             "plugin_opts": ""
         },
