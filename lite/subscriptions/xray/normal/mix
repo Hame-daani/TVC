@@ -5,10 +5,10 @@
 #profile-web-page-url: https://github.com/yebekhe/TelegramV2rayCollector
 
 vless://VPNCUSTOMIZE-TMCUSTOMIZE@54.37.76.9:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cdn.kellekcollection.com#🇩🇪DE | vless | @V2rayNGn | 23
-trojan://telegram-id-privatevpns@54.73.62.169:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇮🇪IE | trojan | @PrivateVPNs | 17
+trojan://telegram-id-privatevpns@52.30.23.192:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇮🇪IE | trojan | @PrivateVPNs | 17
 trojan://telegram-id-directvpn@52.43.123.104:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇺🇸US | trojan | @DirectVPN | 17
 ss://NWQ4NTY5YTktYThjYi00YzVlLTllYTktY2M0MGRlODczYTM1Og==@104.31.16.65:443#🇨🇦CA | ss | @DeamNet_Proxy | 19
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.202.82.172:8881#🇫🇷FR | ss | @OutlineVpnOfficial | 15
-ss://bm9uZTpjYmNhYmFhLWFiYWMtYmNhYS1kYmNhLWJhYmNhY2NiYWFiYw==@127.0.0.1:1080#🏳️XX | ss | @forwardv2ray | 18
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@java.ct.arvancode.eu.org:443#🇦🇪AE | ss | @OutlineVpnOfficial | 15
+ss://WVdWekxUSTFOaTFqWm1JNlpqaG1OMkZEZW1OUVMySnpSamh3TXc6@77.72.5.150:989#🇬🇧GB | ss | @forwardv2ray | 18
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2eDhvZ1RzUHpNbml6YkZrRm5kcUFR@95.164.11.94:1080#🇹🇷TR | ss | @ROMAX_VPN | 9
-vless://ec880e3c-2817-4b89-9887-ccc1fb7e3a52@steel.footballlovernews.com:443?security=tls&type=ws&sni=steel.footballlovernews.com&fp=chrome&path=/steel&encryption=none&headerType=none#🇺🇸US | vless | @TVCminer | 9
+vless://ec880e3c-2817-4b89-9887-ccc1fb7e3a52@steel.footballlovernews.com:443?security=tls&type=ws&sni=steel.footballlovernews.com&fp=chrome&path=/steel&encryption=none&headerType=none#🇨🇦CA | vless | @TVCminer | 9
