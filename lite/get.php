@@ -90,7 +90,7 @@ foreach ($configsList as $source => $configs) {
         $tempCounter++;
 
         // If the config is valid and the key is less than or equal to 1
-        if (is_valid($config) && isEncrypted($config) && $key >= $limitKey) {
+        if (is_valid($config) && $key >= $limitKey) {
             $type = detect_type($config);
             $configHash = $configsHash[$type];
             $configIp = $configsIp[$type];
