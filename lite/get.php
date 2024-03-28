@@ -116,20 +116,12 @@ foreach ($configsList as $source => $configs) {
                     $replaceArray,
                     $encodedConfig
                 );
-                if (isEncrypted($config)){
-                $locationBased["safe"][] = str_replace(
+                $locationBased[$configLocation][] = str_replace(
                     $needleArray,
                     $replaceArray,
                     $encodedConfig
                 );
-                }
-                else {
-                    $locationBased["unsafe"][] = str_replace(
-                    $needleArray,
-                    $replaceArray,
-                    $encodedConfig
-                );
-                }
+                
             }
         }
     }
