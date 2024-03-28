@@ -90,7 +90,7 @@ foreach ($configsList as $source => $configs) {
         $tempCounter++;
 
         // If the config is valid and the key is less than or equal to 1
-        if (is_valid($config) && isEncrypted($config)) {
+        if (is_valid($config)) {
             $type = detect_type($config);
             $configHash = $configsHash[$type];
             $configIp = $configsIp[$type];
@@ -116,11 +116,20 @@ foreach ($configsList as $source => $configs) {
                     $replaceArray,
                     $encodedConfig
                 );
-                $locationBased[$configLocation][] = str_replace(
+                if (isEncrypted($config)){
+                $locationBased["safe"][] = str_replace(
                     $needleArray,
                     $replaceArray,
                     $encodedConfig
                 );
+                }
+                else {
+                    $locationBased["unsafe"][] = str_replace(
+                    $needleArray,
+                    $replaceArray,
+                    $encodedConfig
+                );
+                }
             }
         }
     }
