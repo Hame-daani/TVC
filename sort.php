@@ -19,6 +19,12 @@ foreach ($configsArray as $config) {
     $configType = detect_type($config);
     // Add the configuration to the corresponding array in sortArray
     $sortArray[$configType][] = $config;
+    if(isEncrypted($config)) {
+        $sortArray["safe"][] = $config;
+    }
+    else {
+        $sortArray["unsafe"][] = $config;
+    }
     // If the configuration is of type "vless" and is a reality, add it to the "reality" array
     if ($configType === "vless" && is_reality($config)) {
         $sortArray["reality"][] = $config;
