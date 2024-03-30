@@ -132,7 +132,7 @@ mkdir("subscriptions/location/normal");
 mkdir("subscriptions/location/base64");
 
 // Loop through each location in the location-based array
-foreach ($locationBased as $location => $configs) {
+/* foreach ($locationBased as $location => $configs) {
     $tempConfig = urldecode(implode("\n", $configs));
     $base64TempConfig = base64_encode($tempConfig);
     file_put_contents(
@@ -143,7 +143,7 @@ foreach ($locationBased as $location => $configs) {
         "subscriptions/location/base64/" . $location,
         $base64TempConfig
     );
-}
+} */
 
 // Write the final output to a file
 file_put_contents("config.txt", implode("\n", $finalOutput));
