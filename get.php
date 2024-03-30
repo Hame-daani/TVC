@@ -98,7 +98,7 @@ foreach ($configsList as $source => $configs) {
             $configLocation =
                 ip_info($decodedConfig[$configIp])->country ?? "XX";
             $configFlag =
-                $configLocation === "XX" ? "🏳️" : getFlags($configLocation);
+                $configLocation === "XX" ? "❔" : ($configLocation === "CF" ? "🚩" : getFlags($configLocation));
             $source = $source === "iP_CF" ? "FAKEOFTVC" : $source;
             $decodedConfig[$configHash] =
                 $configFlag .
