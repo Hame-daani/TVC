@@ -12,6 +12,13 @@ function is_ip($string)
 
 function ip_info($ip)
 {
+    // Check if the IP is from Cloudflare
+    if (is_cloudflare_ip($ip)) {
+        return (object) [
+            "country" => "CF",
+        ];
+    }
+
     if (is_ip($ip) === false) {
         $ip_address_array = dns_get_record($ip, DNS_A);
         if (empty($ip_address_array)) {
@@ -72,6 +79,33 @@ function ip_info($ip)
     }
 
     return $result;
+}
+
+function is_cloudflare_ip($ip)
+{
+    // Get the Cloudflare IP ranges
+    $cloudflare_ranges = file_get_contents('https://www.cloudflare.com/ips-v4');
+    $cloudflare_ranges = explode("\n", $cloudflare_ranges);
+
+    foreach ($cloudflare_ranges as $range) {
+        if (cidr_match($ip, $range)) {
+            return true;
+        }
+    }
+
+    return false;
+}
+
+function cidr_match($ip, $range) {
+    list($subnet, $bits) = explode('/', $range);
+    if ($bits === null) {
+        $bits = 32;
+    }
+    $ip = ip2long($ip);
+    $subnet = ip2long($subnet);
+    $mask = -1 << (32 - $bits);
+    $subnet &= $mask;
+    return ($ip & $mask) == $subnet;
 }
 
 function is_valid($input)
