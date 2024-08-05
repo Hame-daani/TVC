@@ -18,7 +18,7 @@ trojan://telegram-id-privatevpns@51.20.236.168:22222?security=tls&alpn=http%2F1.
 trojan://telegram-id-directvpn@35.157.99.233:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE%20|%20trojan%20|%20@DirectVPN%20|%2018
 trojan://telegram-id-directvpn@51.20.62.7:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE%20|%20trojan%20|%20@DirectVPN%20|%2019
 ss://ODIyOTlmYjktZjhiMC00M2JjLWFlNjMtMjkwODgxYTg5ZjcyOg==@188.114.97.3:443#🇨🇦CA%20|%20ss%20|%20@DeamNet_Proxy%20|%2017
-ss://ZDllYjBkZjMtMzE5MC00NDQ3LTg2YjYtNjU2ZmU1ZmYxMTE5Og==@104.18.30.227:443#🇺🇸US%20|%20ss%20|%20@DeamNet_Proxy%20|%2018
+ss://ZDllYjBkZjMtMzE5MC00NDQ3LTg2YjYtNjU2ZmU1ZmYxMTE5Og==@104.18.30.227:443#🇨🇦CA%20|%20ss%20|%20@DeamNet_Proxy%20|%2018
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.130.133:443?path=%2F&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#🇺🇸US%20|%20vless%20|%20@Outline_Vpn%20|%2016
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2F&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#🇺🇸US%20|%20vless%20|%20@Outline_Vpn%20|%2017
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.54:443?path=%2FzPqC3s01PAPdpQq7%3Fed%3D2560&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=AZADnet-Cvk.PAGes.dev&fp=randomized&type=ws&sni=AzaDNeT-CVk.PaGeS.dEv#🇺🇸US%20|%20vless%20|%20@customv2ray%20|%2013
