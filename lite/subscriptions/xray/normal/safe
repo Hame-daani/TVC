@@ -4,8 +4,8 @@
 #support-url: https://t.me/v2raycollector
 #profile-web-page-url: https://github.com/yebekhe/TelegramV2rayCollector
 
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.60.159.155:22222?path=%2Ftelegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🇸🇪SE%20|%20vless%20|%20@VlessConfig%20|%2018
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.246.88.53:22222?path=%2Ftelegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🇮🇪IE%20|%20vless%20|%20@VlessConfig%20|%2019
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.74.209.200:22222?path=%2Ftelegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🇩🇪DE%20|%20vless%20|%20@VlessConfig%20|%2018
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.21.101.100:22222?path=%2Ftelegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🇸🇪SE%20|%20vless%20|%20@VlessConfig%20|%2019
 vless://4100d055-5857-44fb-9b7b-9d699dd4f347@95.217.31.246:18929?security=reality&encryption=none&pbk=rFZOWxVcsZn5--1yLku3SGglZ0Y2Ban0buZIN3-vFwU&host=bmw.com&headerType=http&fp=firefox&spx=%2Ff2net&type=tcp&sni=testv6.tigervp.xyz&sid=cfef326c#🇫🇮FI%20|%20vless%20|%20@CUSTOMVPNSERVER%20|%2013
 vless://4a60a8e0-b51d-41ae-8500-1b0b6724c6e6@185.247.184.147:2060?mode=gun&security=reality&encryption=none&alpn=h2%2Chttp%2F1.1&authority=&pbk=1k5jM49Bx5DEAfS5Vpqz93t2XOXk-kwXl0V5Q9jn_WY&fp=chrome&type=grpc&serviceName=&sni=dash.cloudflare.com&sid=f77e5398#🇮🇹IT%20|%20vless%20|%20@proxy_kafee%20|%204
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2F&security=tls&encryption=none&host=fraud.chase&fp=chrome&type=ws&sni=www.Arizona.edu#🇺🇸US%20|%20vless%20|%20@proxy_kafee%20|%205
@@ -14,10 +14,10 @@ vless://telegram-id-ArV2ray@ArV2ray.mEhpow.IR.:443?mode=gun&security=tls&encrypt
 vless://3cf90a88-f207-4de9-917c-485b6548989e@3.126.221.11:8443?path=%2F&security=tls&encryption=none&alpn=h2&host=jnir.hpcode.ir&fp=firefox&type=httpupgrade&sni=jnir.hpcode.ir#🇩🇪DE%20|%20vless%20|%20@azadi_az_inja_migzare%20|%200
 vless://78dd3bc3-e435-44fc-926d-bf0c8c0ebdb7@www.speedtest.net:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h3&host=ellisweissellisweissellisweissellisweissellisweisselliswei.pages.dev&fp=randomized&type=ws&sni=ellisweissellisweissellisweissellisweissellisweisselliswei.pages.dev#🇨🇦CA%20|%20vless%20|%20@V2rayCollectorDonate%20|%2018
 vless://cc71b824-e60e-42a8-8bdd-76a059dbe880@sport.k6n.ir:443?path=%2F%3Fed%3D1024&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=torob.tr&fp=firefox&type=ws&sni=speedtest.net#🇺🇸US%20|%20vless%20|%20@ProxyForOpeta%20|%200
-trojan://telegram-id-privatevpns@13.49.121.252:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE%20|%20trojan%20|%20@PrivateVPNs%20|%2018
-trojan://telegram-id-privatevpns@54.77.127.83:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇮🇪IE%20|%20trojan%20|%20@PrivateVPNs%20|%2019
-trojan://telegram-id-directvpn@13.53.215.168:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE%20|%20trojan%20|%20@DirectVPN%20|%2018
-trojan://telegram-id-directvpn@13.51.30.53:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE%20|%20trojan%20|%20@DirectVPN%20|%2019
+trojan://telegram-id-privatevpns@18.199.207.238:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE%20|%20trojan%20|%20@PrivateVPNs%20|%2018
+trojan://telegram-id-privatevpns@13.50.216.167:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE%20|%20trojan%20|%20@PrivateVPNs%20|%2019
+trojan://telegram-id-directvpn@3.65.54.24:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE%20|%20trojan%20|%20@DirectVPN%20|%2018
+trojan://telegram-id-directvpn@3.74.177.111:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE%20|%20trojan%20|%20@DirectVPN%20|%2019
 ss://ODIyOTlmYjktZjhiMC00M2JjLWFlNjMtMjkwODgxYTg5ZjcyOg==@188.114.97.3:443#🇨🇦CA%20|%20ss%20|%20@DeamNet_Proxy%20|%2017
 ss://ZDllYjBkZjMtMzE5MC00NDQ3LTg2YjYtNjU2ZmU1ZmYxMTE5Og==@104.18.30.227:443#🇺🇸US%20|%20ss%20|%20@DeamNet_Proxy%20|%2018
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2F%3Fed&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#🇺🇸US%20|%20vless%20|%20@Outline_Vpn%20|%2017
