@@ -18,8 +18,8 @@ trojan://telegram-id-privatevpns@3.125.69.192:22222?security=tls&alpn=http%2F1.1
 trojan://telegram-id-privatevpns@3.123.112.89:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE%20|%20trojan%20|%20@PrivateVPNs%20|%2017
 trojan://telegram-id-directvpn@16.16.249.232:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE%20|%20trojan%20|%20@DirectVPN%20|%2015
 trojan://telegram-id-directvpn@13.49.8.245:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE%20|%20trojan%20|%20@DirectVPN%20|%2016
-ss://ZTZhZWRjZDItMjRhZC00YmRkLTgyYzUtMDA2ZDg0MTc5MTk3Og==@104.18.202.232:443#🇨🇦CA%20|%20ss%20|%20@DeamNet_Proxy%20|%2017
-ss://MjExODdiNDctZDNkYy00NGQwLTliNzItNWY1ZmVhYTQxZWNkOg==@172.67.147.79:8880#🇨🇦CA%20|%20ss%20|%20@DeamNet_Proxy%20|%2018
+ss://MTdhN2JmOTctZmVmNS00MTAxLWE1YzUtN2M3MzBmYWJlZWVlOg==@172.67.204.39:443#🇨🇦CA%20|%20ss%20|%20@DeamNet_Proxy%20|%2017
+ss://MjI4Y2Y0NjAtYmI1Mi00ODEwLWI1MjMtZTRjMGY1MWY3MWRkOg==@104.21.42.117:2087#🇨🇦CA%20|%20ss%20|%20@DeamNet_Proxy%20|%2018
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@198.41.202.5:443?path=%2FXV2ray%3Fed%3D2560&security=tls&encryption=none&host=mc0.pages.dev&type=ws&sni=pages.dev#🇨🇦CA%20|%20vless%20|%20@customv2ray%20|%2013
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.143.172:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#🇺🇸US%20|%20vless%20|%20@v2rayNG_Matsuri%20|%208
 vless://a8629b56-ea3f-41d9-8e42-e8ad84baaef6@all.vipxali.cfd:2083?mode=gun&security=tls&encryption=none&alpn=http%2F1.1%2Ch2&fp=safari&type=grpc&serviceName=%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray&sni=dm.XsV2ray.cfd#🇺🇸US%20|%20vless%20|%20@MTConfig%20|%208
