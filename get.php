@@ -96,17 +96,9 @@ foreach ($configsList as $source => $configs) {
             $configHash = $configsHash[$type];
             $configIp = $configsIp[$type];
             $decodedConfig = configParse(explode("<", $config)[0]);
-            if(isEncrypted($config)) {
-                $configLocation = "YY";
-            }
-            else {
-                $configLocation = "XX";
-            }
-            $configFlag =
-                $configLocation === "XX" ? "🚩" : "❔";
+            $configLocation = isEncrypted($config) ? "🟢" : "🔴";
             $source = $source === "iP_CF" ? "FAKEOFTVC" : $source;
             $decodedConfig[$configHash] =
-                $configFlag .
                 $configLocation .
                 " | " .
                 $type .
