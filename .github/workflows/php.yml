@@ -20,7 +20,6 @@ jobs:
       - name: Execute PHP script
         run: |
           php get.php
-          php channelsAssets.php
           php duplicate.php
           php sort.php
           git config --local user.email "actions@github.com"
