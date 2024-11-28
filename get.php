@@ -22,7 +22,7 @@ $configsList = [];
 echo "Fetching Configs\n";
 
 // Loop through each source in the sources array
-foreach ($sourcesArray as $source => $types) {
+foreach ($sourcesArray as $source) {
     // Calculate the percentage complete
     $percentage = ($tempCounter / $totalSources) * 100;
 
@@ -35,6 +35,7 @@ foreach ($sourcesArray as $source => $types) {
 
     // Fetch the data from the source
     $tempData = file_get_contents("https://t.me/s/" . $source);
+    types = ['vmess','vless','trojan'];
     $type = implode("|", $types);
     $tempExtract = extractLinksByType($tempData, $type);
     if (!is_null($tempExtract)) {
@@ -95,8 +96,7 @@ foreach ($configsList as $source => $configs) {
             $configHash = $configsHash[$type];
             $configIp = $configsIp[$type];
             $decodedConfig = configParse(explode("<", $config)[0]);
-            $configLocation =
-                ip_info($decodedConfig[$configIp])->country ?? "XX";
+            $configLocation = "XX";
             $configFlag =
                 $configLocation === "XX" ? "❔" : ($configLocation === "CF" ? "🚩" : getFlags($configLocation));
             $source = $source === "iP_CF" ? "FAKEOFTVC" : $source;
