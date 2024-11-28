@@ -20,8 +20,6 @@ $configsHash = [
 // Read the config file and split it into an array by newline
 $configsArray = explode("\n", file_get_contents("config.txt"));
 
-$channelsAssets = json_decode(file_get_contents("channelsData/channelsAssets.json"), true);
-
 // Initialize arrays to store deduplicated configs and their names
 $deduplicateArray = [];
 $namesArray = [];
@@ -71,8 +69,6 @@ foreach ($deduplicateArray as $key => $deduplicate) {
     $sourceUsername = str_replace(["%20", "@"], ["", ""], explode("|", $namesArray[$key])[2]);
 
     $configsFullData[$key]["channel"]["username"]  = $sourceUsername;
-    $configsFullData[$key]["channel"]["title"] = $channelsAssets[$sourceUsername]['title'];
-    $configsFullData[$key]["channel"]["logo"] = $channelsAssets[$sourceUsername]['logo'];
     $configsFullData[$key]['type'] = $configType === 'vless' && is_reality($encodedConfig) ? 'reality' : $configType;
     $configsFullData[$key]["config"] = $encodedConfig;
 
