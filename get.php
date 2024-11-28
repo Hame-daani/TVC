@@ -35,7 +35,7 @@ foreach ($sourcesArray as $source) {
 
     // Fetch the data from the source
     $tempData = file_get_contents("https://t.me/s/" . $source);
-    types = ['vmess','vless','trojan'];
+    $types = ['vmess','vless','trojan'];
     $type = implode("|", $types);
     $tempExtract = extractLinksByType($tempData, $type);
     if (!is_null($tempExtract)) {
