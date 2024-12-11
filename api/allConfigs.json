@@ -820,13 +820,6 @@
     },
     {
         "channel": {
-            "username": "proxy_kafee"
-        },
-        "type": "vless",
-        "config": "vless:\/\/fc8f9a2e-3cfa-4fd8-bc13-a1b1ef152860@hajlab.ucdavis.edu:443?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=tls&encryption=none&host=joinshhproxybedeeeee.ir&type=ws&sni=hajlab.ucdavis.edu#🔴%20|%20vless%20|%20@proxy_kafee%20|%205"
-    },
-    {
-        "channel": {
             "username": "v2logy"
         },
         "type": "vless",
@@ -2349,119 +2342,112 @@
             "username": "ConfigsHUB"
         },
         "type": "vless",
-        "config": "vless:\/\/47e9b63c-6a86-4ae6-acd0-4361f475f53a@65.109.176.108:2053?mode=auto&path=%2Ftest%3Fed%3D2560&security=none&encryption=none&type=xhttp#🔴%20|%20vless%20|%20@ConfigsHUB%20|%201"
+        "config": "vless:\/\/47e9b63c-6a86-4ae6-acd0-4361f475f53a@65.109.176.108:2053?mode=auto&path=%2Ftest%3Fed%3D2560&security=none&encryption=none&type=xhttp#🔴%20|%20vless%20|%20@ConfigsHUB%20|%202"
     },
     {
         "channel": {
             "username": "ConfigsHUB"
         },
         "type": "trojan",
-        "config": "trojan:\/\/blue2024@104.18.46.185:443?path=%2F%3Fed%3D2560&security=tls&host=ta.promote.icu&type=ws&sni=ta.promote.icu#🔴%20|%20trojan%20|%20@ConfigsHUB%20|%202"
+        "config": "trojan:\/\/blue2024@104.18.46.185:443?path=%2F%3Fed%3D2560&security=tls&host=ta.promote.icu&type=ws&sni=ta.promote.icu#🔴%20|%20trojan%20|%20@ConfigsHUB%20|%203"
     },
     {
         "channel": {
             "username": "ConfigsHUB"
         },
         "type": "trojan",
-        "config": "trojan:\/\/blue2024@162.159.135.218:443?path=%2F%3Fed%3D2560&security=tls&host=ta.promote.icu&type=ws&sni=ta.promote.icu#🔴%20|%20trojan%20|%20@ConfigsHUB%20|%203"
+        "config": "trojan:\/\/blue2024@162.159.135.218:443?path=%2F%3Fed%3D2560&security=tls&host=ta.promote.icu&type=ws&sni=ta.promote.icu#🔴%20|%20trojan%20|%20@ConfigsHUB%20|%204"
     },
     {
         "channel": {
             "username": "ConfigsHUB"
         },
         "type": "trojan",
-        "config": "trojan:\/\/blue2024@108.162.193.55:443?path=%2F%3Fed%3D2560&security=tls&host=td.promote.icu&type=ws&sni=td.promote.icu#🔴%20|%20trojan%20|%20@ConfigsHUB%20|%204"
+        "config": "trojan:\/\/blue2024@108.162.193.55:443?path=%2F%3Fed%3D2560&security=tls&host=td.promote.icu&type=ws&sni=td.promote.icu#🔴%20|%20trojan%20|%20@ConfigsHUB%20|%205"
     },
     {
         "channel": {
             "username": "ConfigsHUB"
         },
         "type": "trojan",
-        "config": "trojan:\/\/blue2024@188.244.122.205:443?path=%2F%3Fed%3D2560&security=tls&host=ta.promote.icu&type=ws&sni=ta.promote.icu#🔴%20|%20trojan%20|%20@ConfigsHUB%20|%205"
+        "config": "trojan:\/\/blue2024@188.244.122.205:443?path=%2F%3Fed%3D2560&security=tls&host=ta.promote.icu&type=ws&sni=ta.promote.icu#🔴%20|%20trojan%20|%20@ConfigsHUB%20|%206"
     },
     {
         "channel": {
             "username": "ConfigsHUB"
         },
         "type": "trojan",
-        "config": "trojan:\/\/blue2024@104.16.255.10:443?path=%2F%3Fed%3D2560&security=tls&host=ta.promote.icu&type=ws&sni=ta.promote.icu#🔴%20|%20trojan%20|%20@ConfigsHUB%20|%206"
+        "config": "trojan:\/\/blue2024@104.16.255.10:443?path=%2F%3Fed%3D2560&security=tls&host=ta.promote.icu&type=ws&sni=ta.promote.icu#🔴%20|%20trojan%20|%20@ConfigsHUB%20|%207"
     },
     {
         "channel": {
             "username": "ConfigsHUB"
         },
         "type": "trojan",
-        "config": "trojan:\/\/blue2024@104.18.79.171:443?path=%2F%3Fed%3D2560&security=tls&host=ta.promote.icu&type=ws&sni=ta.promote.icu#🔴%20|%20trojan%20|%20@ConfigsHUB%20|%207"
+        "config": "trojan:\/\/blue2024@104.18.79.171:443?path=%2F%3Fed%3D2560&security=tls&host=ta.promote.icu&type=ws&sni=ta.promote.icu#🔴%20|%20trojan%20|%20@ConfigsHUB%20|%208"
     },
     {
         "channel": {
             "username": "ConfigsHUB"
         },
         "type": "trojan",
-        "config": "trojan:\/\/blue2024@104.25.103.196:443?path=%2F%3Fed%3D2560&security=tls&host=td.promote.icu&type=ws&sni=td.promote.icu#🔴%20|%20trojan%20|%20@ConfigsHUB%20|%208"
+        "config": "trojan:\/\/blue2024@104.25.103.196:443?path=%2F%3Fed%3D2560&security=tls&host=td.promote.icu&type=ws&sni=td.promote.icu#🔴%20|%20trojan%20|%20@ConfigsHUB%20|%209"
     },
     {
         "channel": {
             "username": "ConfigsHUB"
         },
         "type": "trojan",
-        "config": "trojan:\/\/blue2024@104.16.104.65:443?path=%2F%3Fed%3D2560&security=tls&host=ta.promote.icu&type=ws&sni=ta.promote.icu#🔴%20|%20trojan%20|%20@ConfigsHUB%20|%209"
+        "config": "trojan:\/\/blue2024@104.16.104.65:443?path=%2F%3Fed%3D2560&security=tls&host=ta.promote.icu&type=ws&sni=ta.promote.icu#🔴%20|%20trojan%20|%20@ConfigsHUB%20|%2010"
     },
     {
         "channel": {
             "username": "ConfigsHUB"
         },
         "type": "vless",
-        "config": "vless:\/\/a409464b-a13a-4070-96fa-07d916d6bb2e@vmessorg.fastly80-3.hosting-ip.com:80?path=%40vmessorg----%40vmessorg-----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg%3Fed%3D2480&security=none&encryption=none&host=TEL.VMESSORG.http.www.speedtest.net.fast.com.vmessorgg.ir&type=ws#🔴%20|%20vless%20|%20@ConfigsHUB%20|%2010"
+        "config": "vless:\/\/a409464b-a13a-4070-96fa-07d916d6bb2e@vmessorg.fastly80-3.hosting-ip.com:80?path=%40vmessorg----%40vmessorg-----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg%3Fed%3D2480&security=none&encryption=none&host=TEL.VMESSORG.http.www.speedtest.net.fast.com.vmessorgg.ir&type=ws#🔴%20|%20vless%20|%20@ConfigsHUB%20|%2011"
     },
     {
         "channel": {
             "username": "ConfigsHUB"
         },
         "type": "trojan",
-        "config": "trojan:\/\/blue2024@104.19.174.207:443?path=%2F%3Fed%3D2560&security=tls&host=ta.promote.icu&type=ws&sni=ta.promote.icu#🔴%20|%20trojan%20|%20@ConfigsHUB%20|%2011"
+        "config": "trojan:\/\/blue2024@104.19.174.207:443?path=%2F%3Fed%3D2560&security=tls&host=ta.promote.icu&type=ws&sni=ta.promote.icu#🔴%20|%20trojan%20|%20@ConfigsHUB%20|%2012"
     },
     {
         "channel": {
             "username": "ConfigsHUB"
         },
         "type": "trojan",
-        "config": "trojan:\/\/blue2024@104.18.119.211:443?path=%2F%3Fed%3D2560&security=tls&host=ta.promote.icu&type=ws&sni=ta.promote.icu#🔴%20|%20trojan%20|%20@ConfigsHUB%20|%2012"
+        "config": "trojan:\/\/blue2024@104.18.119.211:443?path=%2F%3Fed%3D2560&security=tls&host=ta.promote.icu&type=ws&sni=ta.promote.icu#🔴%20|%20trojan%20|%20@ConfigsHUB%20|%2013"
     },
     {
         "channel": {
             "username": "ConfigsHUB"
         },
         "type": "vless",
-        "config": "vless:\/\/0d37beef-23c9-43d5-8274-9235a9d4f728@ipcloudflaretamiz.fastly80-2.hosting-ip.com:80?path=%2F%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%3Fed%3D1024&security=none&encryption=none&host=testfast7.v2fast7.com&type=ws#🔴%20|%20vless%20|%20@ConfigsHUB%20|%2013"
+        "config": "vless:\/\/0d37beef-23c9-43d5-8274-9235a9d4f728@ipcloudflaretamiz.fastly80-2.hosting-ip.com:80?path=%2F%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%3Fed%3D1024&security=none&encryption=none&host=testfast7.v2fast7.com&type=ws#🔴%20|%20vless%20|%20@ConfigsHUB%20|%2014"
     },
     {
         "channel": {
             "username": "ConfigsHUB"
         },
         "type": "trojan",
-        "config": "trojan:\/\/blue2024@172.64.157.183:443?path=%2F%3Fed%3D2560&security=tls&host=ta.promote.icu&type=ws&sni=ta.promote.icu#🔴%20|%20trojan%20|%20@ConfigsHUB%20|%2014"
+        "config": "trojan:\/\/blue2024@172.64.157.183:443?path=%2F%3Fed%3D2560&security=tls&host=ta.promote.icu&type=ws&sni=ta.promote.icu#🔴%20|%20trojan%20|%20@ConfigsHUB%20|%2015"
     },
     {
         "channel": {
             "username": "ConfigsHUB"
         },
         "type": "trojan",
-        "config": "trojan:\/\/blue2024@104.18.35.253:443?path=%2F%3Fed%3D2560&security=tls&host=ta.promote.icu&type=ws&sni=ta.promote.icu#🔴%20|%20trojan%20|%20@ConfigsHUB%20|%2015"
+        "config": "trojan:\/\/blue2024@104.18.35.253:443?path=%2F%3Fed%3D2560&security=tls&host=ta.promote.icu&type=ws&sni=ta.promote.icu#🔴%20|%20trojan%20|%20@ConfigsHUB%20|%2016"
     },
     {
         "channel": {
             "username": "ConfigsHUB"
         },
         "type": "trojan",
-        "config": "trojan:\/\/blue2024@104.17.165.253:443?path=%2F%3Fed%3D2560&security=tls&host=ta.promote.icu&type=ws&sni=ta.promote.icu#🔴%20|%20trojan%20|%20@ConfigsHUB%20|%2016"
-    },
-    {
-        "channel": {
-            "username": "ConfigsHUB"
-        },
-        "type": "trojan",
-        "config": "trojan:\/\/O7Iz39gyjV@35.179.220.39:1935?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&type=tcp&sni=x1uk-amazon.devefun.net#🟢%20|%20trojan%20|%20@ConfigsHUB%20|%2017"
+        "config": "trojan:\/\/blue2024@104.17.165.253:443?path=%2F%3Fed%3D2560&security=tls&host=ta.promote.icu&type=ws&sni=ta.promote.icu#🔴%20|%20trojan%20|%20@ConfigsHUB%20|%2017"
     },
     {
         "channel": {
