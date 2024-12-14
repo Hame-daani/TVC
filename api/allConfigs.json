@@ -1212,6 +1212,20 @@
     },
     {
         "channel": {
+            "username": "DirectVPN"
+        },
+        "type": "trojan",
+        "config": "trojan:\/\/telegram-id-directvpn@52.47.213.177:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@DirectVPN%20|%2014"
+    },
+    {
+        "channel": {
+            "username": "DirectVPN"
+        },
+        "type": "trojan",
+        "config": "trojan:\/\/telegram-id-directvpn@13.61.166.111:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@DirectVPN%20|%2015"
+    },
+    {
+        "channel": {
             "username": " mftizi "
         },
         "type": "vmess",
