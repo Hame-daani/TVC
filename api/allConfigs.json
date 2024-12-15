@@ -911,13 +911,6 @@
     },
     {
         "channel": {
-            "username": "proxy_kafee"
-        },
-        "type": "vless",
-        "config": "vless:\/\/479ef6c2-a849-4a78-8416-18abbd8ae20d@hajlab.ucdavis.edu:443?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=tls&encryption=none&host=joinshhproxybedeeeee.ir&type=ws&sni=hajlab.ucdavis.edu#🔴%20|%20vless%20|%20@proxy_kafee%20|%207"
-    },
-    {
-        "channel": {
             "username": "v2logy"
         },
         "type": "vless",
@@ -1194,140 +1187,140 @@
             "username": "DirectVPN"
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-directvpn@51.21.116.106:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@DirectVPN%20|%200"
+        "config": "trojan:\/\/telegram-id-directvpn@13.50.80.162:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@DirectVPN%20|%200"
     },
     {
         "channel": {
             "username": "DirectVPN"
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-directvpn@18.208.112.211:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@DirectVPN%20|%201"
+        "config": "trojan:\/\/telegram-id-directvpn@51.21.116.106:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@DirectVPN%20|%201"
     },
     {
         "channel": {
             "username": "DirectVPN"
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-directvpn@18.224.248.227:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@DirectVPN%20|%202"
+        "config": "trojan:\/\/telegram-id-directvpn@18.208.112.211:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@DirectVPN%20|%202"
     },
     {
         "channel": {
             "username": "DirectVPN"
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-directvpn@3.137.65.57:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@DirectVPN%20|%203"
+        "config": "trojan:\/\/telegram-id-directvpn@18.224.248.227:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@DirectVPN%20|%203"
     },
     {
         "channel": {
             "username": "DirectVPN"
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-directvpn@15.223.148.117:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@DirectVPN%20|%204"
+        "config": "trojan:\/\/telegram-id-directvpn@3.137.65.57:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@DirectVPN%20|%204"
     },
     {
         "channel": {
             "username": "DirectVPN"
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-directvpn@15.222.131.213:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@DirectVPN%20|%205"
+        "config": "trojan:\/\/telegram-id-directvpn@15.223.148.117:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@DirectVPN%20|%205"
     },
     {
         "channel": {
             "username": "DirectVPN"
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-directvpn@54.195.14.108:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@DirectVPN%20|%206"
+        "config": "trojan:\/\/telegram-id-directvpn@15.222.131.213:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@DirectVPN%20|%206"
     },
     {
         "channel": {
             "username": "DirectVPN"
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-directvpn@34.240.83.108:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@DirectVPN%20|%207"
+        "config": "trojan:\/\/telegram-id-directvpn@54.195.14.108:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@DirectVPN%20|%207"
     },
     {
         "channel": {
             "username": "DirectVPN"
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-directvpn@18.170.94.221:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@DirectVPN%20|%208"
+        "config": "trojan:\/\/telegram-id-directvpn@34.240.83.108:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@DirectVPN%20|%208"
     },
     {
         "channel": {
             "username": "DirectVPN"
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-directvpn@18.168.88.136:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@DirectVPN%20|%209"
+        "config": "trojan:\/\/telegram-id-directvpn@18.170.94.221:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@DirectVPN%20|%209"
     },
     {
         "channel": {
             "username": "DirectVPN"
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-directvpn@35.181.211.178:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@DirectVPN%20|%2010"
+        "config": "trojan:\/\/telegram-id-directvpn@18.168.88.136:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@DirectVPN%20|%2010"
     },
     {
         "channel": {
             "username": "DirectVPN"
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-directvpn@13.37.79.69:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@DirectVPN%20|%2011"
+        "config": "trojan:\/\/telegram-id-directvpn@35.181.211.178:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@DirectVPN%20|%2011"
     },
     {
         "channel": {
             "username": "DirectVPN"
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-directvpn@16.170.156.82:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@DirectVPN%20|%2012"
+        "config": "trojan:\/\/telegram-id-directvpn@13.37.79.69:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@DirectVPN%20|%2012"
     },
     {
         "channel": {
             "username": "DirectVPN"
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-directvpn@13.50.222.124:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@DirectVPN%20|%2013"
+        "config": "trojan:\/\/telegram-id-directvpn@16.170.156.82:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@DirectVPN%20|%2013"
     },
     {
         "channel": {
             "username": "DirectVPN"
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-directvpn@3.77.3.160:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@DirectVPN%20|%2014"
+        "config": "trojan:\/\/telegram-id-directvpn@13.50.222.124:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@DirectVPN%20|%2014"
     },
     {
         "channel": {
             "username": "DirectVPN"
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-directvpn@63.176.226.168:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@DirectVPN%20|%2015"
+        "config": "trojan:\/\/telegram-id-directvpn@3.77.3.160:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@DirectVPN%20|%2015"
     },
     {
         "channel": {
             "username": "DirectVPN"
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-directvpn@51.21.120.204:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@DirectVPN%20|%2016"
+        "config": "trojan:\/\/telegram-id-directvpn@63.176.226.168:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@DirectVPN%20|%2016"
     },
     {
         "channel": {
             "username": "DirectVPN"
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-directvpn@51.21.144.79:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@DirectVPN%20|%2017"
+        "config": "trojan:\/\/telegram-id-directvpn@51.21.120.204:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@DirectVPN%20|%2017"
     },
     {
         "channel": {
             "username": "DirectVPN"
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-directvpn@100.27.103.59:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@DirectVPN%20|%2018"
+        "config": "trojan:\/\/telegram-id-directvpn@51.21.144.79:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@DirectVPN%20|%2018"
     },
     {
         "channel": {
             "username": "DirectVPN"
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-directvpn@18.189.202.39:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@DirectVPN%20|%2019"
+        "config": "trojan:\/\/telegram-id-directvpn@100.27.103.59:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@DirectVPN%20|%2019"
     },
     {
         "channel": {
@@ -2545,140 +2538,140 @@
             "username": "Hope_Net"
         },
         "type": "vless",
-        "config": "vless:\/\/064f95d7-41d2-4135-8728-a896a3ff7983@151.101.2.165:80?security=none&type=ws&host=hostholadvipprimer1.com#🔴%20|%20vless%20|%20@Hope_Net%20|%200"
+        "config": "vless:\/\/abbcaac-caba-aabc-bcad-ccaacbbcaabb@127.0.0.1:8080?security=tls&type=tcp#🟢%20|%20vless%20|%20@Hope_Net%20|%200"
+    },
+    {
+        "channel": {
+            "username": "Hope_Net"
+        },
+        "type": "vless",
+        "config": "vless:\/\/813e1424-c68d-4e96-ac5f-e7b6dfe79605@151.101.194.133:443?security=tls&sni=www.nio.com&type=ws&host=vpngaming.ir&path=%2F%3Fed%3D8192&fp=chrome&alpn=h2%2Chttp%2F1.1#🟢%20|%20vless%20|%20@Hope_Net%20|%201"
+    },
+    {
+        "channel": {
+            "username": "Hope_Net"
+        },
+        "type": "vless",
+        "config": "vless:\/\/064f95d7-41d2-4135-8728-a896a3ff7983@151.101.2.165:80?security=none&type=ws&host=hostholadvipprimer1.com#🔴%20|%20vless%20|%20@Hope_Net%20|%202"
     },
     {
         "channel": {
             "username": " Hope_Net "
         },
         "type": "vmess",
-        "config": "vmess:\/\/eyJ2IjoiMiIsImFkZCI6IjEzLjIxMi4xODIuMTQxIiwicG9ydCI6IjQwMDAwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImlkIjoiMTMzNjQ3ODktYThiMi00YmNkLThkZjctYTc5NGZiNmY4N2U1Iiwic25pIjoiIiwiaG9zdCI6ImRvd24uZGluZ3RhbGsuY29tIiwicGF0aCI6IlwvYmJ5Iiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwicHMiOiJcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEBIb3BlX05ldCB8IDEifQ=="
+        "config": "vmess:\/\/eyJ2IjoiMiIsImFkZCI6IjEzLjIxMi4xODIuMTQxIiwicG9ydCI6IjQwMDAwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImlkIjoiMTMzNjQ3ODktYThiMi00YmNkLThkZjctYTc5NGZiNmY4N2U1Iiwic25pIjoiIiwiaG9zdCI6ImRvd24uZGluZ3RhbGsuY29tIiwicGF0aCI6IlwvYmJ5Iiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwicHMiOiJcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEBIb3BlX05ldCB8IDMifQ=="
     },
     {
         "channel": {
             "username": "Hope_Net"
         },
         "type": "trojan",
-        "config": "trojan:\/\/aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@18.162.96.102:45181?security=tls&sni=de1.bilibili.com#🟢%20|%20trojan%20|%20@Hope_Net%20|%202"
+        "config": "trojan:\/\/aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@18.162.96.102:45181?security=tls&sni=de1.bilibili.com#🟢%20|%20trojan%20|%20@Hope_Net%20|%204"
     },
     {
         "channel": {
             "username": "Hope_Net"
         },
         "type": "vless",
-        "config": "vless:\/\/d15a8968-954d-4315-9ea2-b8147908e688@51.77.40.81:18764?security=none&type=tcp&host=telewebion.com&headerType=http#🔴%20|%20vless%20|%20@Hope_Net%20|%203"
+        "config": "vless:\/\/d15a8968-954d-4315-9ea2-b8147908e688@51.77.40.81:18764?security=none&type=tcp&host=telewebion.com&headerType=http#🔴%20|%20vless%20|%20@Hope_Net%20|%205"
     },
     {
         "channel": {
             "username": "Hope_Net"
         },
         "type": "vless",
-        "config": "vless:\/\/ff072857-d08f-4fc9-a52e-30946d0926cd@162.159.153.106:2053?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🟢%20|%20vless%20|%20@Hope_Net%20|%204"
+        "config": "vless:\/\/ff072857-d08f-4fc9-a52e-30946d0926cd@162.159.153.106:2053?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🟢%20|%20vless%20|%20@Hope_Net%20|%206"
     },
     {
         "channel": {
             "username": " Hope_Net "
         },
         "type": "vmess",
-        "config": "vmess:\/\/eyJ2IjoiMiIsImFkZCI6Ijk0LjI0Mi4yMzEuMzUiLCJwb3J0IjoiODQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiI4MjQxZGRjOC1iNWM1LTQ3NzgtOTYzNS0zMzE3MDBjNmZmNDgiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJob3N0IjoiamsueWxrYS51cy5rZyIsInRscyI6InRscyIsInBzIjoiXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBASG9wZV9OZXQgfCA1In0="
+        "config": "vmess:\/\/eyJ2IjoiMiIsImFkZCI6Ijk0LjI0Mi4yMzEuMzUiLCJwb3J0IjoiODQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiI4MjQxZGRjOC1iNWM1LTQ3NzgtOTYzNS0zMzE3MDBjNmZmNDgiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJob3N0IjoiamsueWxrYS51cy5rZyIsInRscyI6InRscyIsInBzIjoiXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBASG9wZV9OZXQgfCA3In0="
     },
     {
         "channel": {
             "username": "Hope_Net"
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-privatevpns@63.176.202.223:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http%2F1.1#🟢%20|%20trojan%20|%20@Hope_Net%20|%206"
+        "config": "trojan:\/\/telegram-id-privatevpns@63.176.202.223:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http%2F1.1#🟢%20|%20trojan%20|%20@Hope_Net%20|%208"
     },
     {
         "channel": {
             "username": "Hope_Net"
         },
         "type": "trojan",
-        "config": "trojan:\/\/ccbabaa-baac-acab-acbd-bcbccaaabbac@127.0.0.1:1080?security=tls&type=tcp#🟢%20|%20trojan%20|%20@Hope_Net%20|%207"
+        "config": "trojan:\/\/ccbabaa-baac-acab-acbd-bcbccaaabbac@127.0.0.1:1080?security=tls&type=tcp#🟢%20|%20trojan%20|%20@Hope_Net%20|%209"
     },
     {
         "channel": {
             "username": "Hope_Net"
         },
         "type": "vless",
-        "config": "vless:\/\/0bf64a11-649e-49e8-8caa-6feb8e13773d@164.90.202.67:8081?security=none&type=tcp&host=fast.com&path=%2F&headerType=http#🔴%20|%20vless%20|%20@Hope_Net%20|%208"
+        "config": "vless:\/\/0bf64a11-649e-49e8-8caa-6feb8e13773d@164.90.202.67:8081?security=none&type=tcp&host=fast.com&path=%2F&headerType=http#🔴%20|%20vless%20|%20@Hope_Net%20|%2010"
     },
     {
         "channel": {
             "username": " Hope_Net "
         },
         "type": "vmess",
-        "config": "vmess:\/\/eyJ2IjoiMiIsImFkZCI6IjE1NC4xOTcuMTIxLjM1IiwicG9ydCI6Ijg0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiODI0MWRkYzgtYjVjNS00Nzc4LTk2MzUtMzMxNzAwYzZmZjQ4IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwiaG9zdCI6ImprLnlsa2EudXMua2ciLCJ0bHMiOiJ0bHMiLCJwcyI6Ilx1ZDgzZFx1ZGZlMiB8IHZtZXNzIHwgQEhvcGVfTmV0IHwgOSJ9"
+        "config": "vmess:\/\/eyJ2IjoiMiIsImFkZCI6IjE1NC4xOTcuMTIxLjM1IiwicG9ydCI6Ijg0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiODI0MWRkYzgtYjVjNS00Nzc4LTk2MzUtMzMxNzAwYzZmZjQ4IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwiaG9zdCI6ImprLnlsa2EudXMua2ciLCJ0bHMiOiJ0bHMiLCJwcyI6Ilx1ZDgzZFx1ZGZlMiB8IHZtZXNzIHwgQEhvcGVfTmV0IHwgMTEifQ=="
     },
     {
         "channel": {
             "username": "Hope_Net"
         },
         "type": "vless",
-        "config": "vless:\/\/93d3f074-55cd-4ece-a51e-46a0a0c9e3ff@159.69.30.53:443?security=none&type=tcp&path=%2F&headerType=http#🔴%20|%20vless%20|%20@Hope_Net%20|%2010"
+        "config": "vless:\/\/93d3f074-55cd-4ece-a51e-46a0a0c9e3ff@159.69.30.53:443?security=none&type=tcp&path=%2F&headerType=http#🔴%20|%20vless%20|%20@Hope_Net%20|%2012"
     },
     {
         "channel": {
             "username": "Hope_Net"
         },
         "type": "vless",
-        "config": "vless:\/\/71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.152.83:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🟢%20|%20vless%20|%20@Hope_Net%20|%2011"
+        "config": "vless:\/\/71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.152.83:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🟢%20|%20vless%20|%20@Hope_Net%20|%2013"
     },
     {
         "channel": {
             "username": "Hope_Net"
         },
         "type": "trojan",
-        "config": "trojan:\/\/aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@43.198.227.220:41143?security=tls&sni=ca1.bilibili.com#🟢%20|%20trojan%20|%20@Hope_Net%20|%2012"
+        "config": "trojan:\/\/aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@43.198.227.220:41143?security=tls&sni=ca1.bilibili.com#🟢%20|%20trojan%20|%20@Hope_Net%20|%2014"
     },
     {
         "channel": {
             "username": "Hope_Net"
         },
         "type": "vless",
-        "config": "vless:\/\/71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.85:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🟢%20|%20vless%20|%20@Hope_Net%20|%2013"
+        "config": "vless:\/\/71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.85:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🟢%20|%20vless%20|%20@Hope_Net%20|%2015"
     },
     {
         "channel": {
             "username": "Hope_Net"
         },
         "type": "vless",
-        "config": "vless:\/\/ebe4a75a-9b9b-467b-ab3d-fcd73232ba0c@151.101.130.133:443?security=tls&sni=ergwork.web.unc.edu&type=ws&host=snappir.ir&path=ws%2F%3Fed%3D2052#🟢%20|%20vless%20|%20@Hope_Net%20|%2014"
+        "config": "vless:\/\/ebe4a75a-9b9b-467b-ab3d-fcd73232ba0c@151.101.130.133:443?security=tls&sni=ergwork.web.unc.edu&type=ws&host=snappir.ir&path=ws%2F%3Fed%3D2052#🟢%20|%20vless%20|%20@Hope_Net%20|%2016"
     },
     {
         "channel": {
             "username": "Hope_Net"
         },
         "type": "trojan",
-        "config": "trojan:\/\/aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@16.163.30.148:45181?security=tls&sni=de1.bilibili.com#🟢%20|%20trojan%20|%20@Hope_Net%20|%2015"
+        "config": "trojan:\/\/aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@16.163.30.148:45181?security=tls&sni=de1.bilibili.com#🟢%20|%20trojan%20|%20@Hope_Net%20|%2017"
     },
     {
         "channel": {
             "username": "Hope_Net"
         },
         "type": "vless",
-        "config": "vless:\/\/71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.152.120:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🟢%20|%20vless%20|%20@Hope_Net%20|%2016"
+        "config": "vless:\/\/71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.152.120:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🟢%20|%20vless%20|%20@Hope_Net%20|%2018"
     },
     {
         "channel": {
             "username": "Hope_Net"
         },
         "type": "trojan",
-        "config": "trojan:\/\/caabacb-baca-caab-dcba-aacbbacbaccb@127.0.0.1:1080?security=tls&type=tcp#🟢%20|%20trojan%20|%20@Hope_Net%20|%2017"
-    },
-    {
-        "channel": {
-            "username": "Hope_Net"
-        },
-        "type": "vless",
-        "config": "vless:\/\/abbccaa-acab-cbaa-bcda-bcbacacacabb@127.0.0.1:8080?security=tls&type=tcp#🟢%20|%20vless%20|%20@Hope_Net%20|%2018"
-    },
-    {
-        "channel": {
-            "username": "Hope_Net"
-        },
-        "type": "vless",
-        "config": "vless:\/\/ff072857-d08f-4fc9-a52e-30946d0926cd@104.18.193.177:2083?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🟢%20|%20vless%20|%20@Hope_Net%20|%2019"
+        "config": "trojan:\/\/caabacb-baca-caab-dcba-aacbbacbaccb@127.0.0.1:1080?security=tls&type=tcp#🟢%20|%20trojan%20|%20@Hope_Net%20|%2019"
     },
     {
         "channel": {
