@@ -1877,13 +1877,6 @@
     },
     {
         "channel": {
-            "username": "V2rayng_Fast"
-        },
-        "type": "vless",
-        "config": "vless:\/\/fe5d79ad-5f32-4d8c-b798-71973fd84d3b@www.speedtest.net:2086?path=%2FVVVVVV&security=none&encryption=none&host=website.dnss-mobile.ir&type=httpupgrade#🔴%20|%20vless%20|%20@V2rayng_Fast%20|%206"
-    },
-    {
-        "channel": {
             "username": "v2ray_swhil"
         },
         "type": "vless",
@@ -2516,141 +2509,141 @@
         "channel": {
             "username": "Hope_Net"
         },
+        "type": "trojan",
+        "config": "trojan:\/\/aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@18.162.96.102:45181?security=tls&sni=de1.bilibili.com#🟢%20|%20trojan%20|%20@Hope_Net%20|%200"
+    },
+    {
+        "channel": {
+            "username": "Hope_Net"
+        },
         "type": "vless",
-        "config": "vless:\/\/ff072857-d08f-4fc9-a52e-30946d0926cd@162.159.153.106:2053?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🟢%20|%20vless%20|%20@Hope_Net%20|%200"
+        "config": "vless:\/\/d15a8968-954d-4315-9ea2-b8147908e688@51.77.40.81:18764?security=none&type=tcp&host=telewebion.com&headerType=http#🔴%20|%20vless%20|%20@Hope_Net%20|%201"
+    },
+    {
+        "channel": {
+            "username": "Hope_Net"
+        },
+        "type": "vless",
+        "config": "vless:\/\/ff072857-d08f-4fc9-a52e-30946d0926cd@162.159.153.106:2053?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🟢%20|%20vless%20|%20@Hope_Net%20|%202"
     },
     {
         "channel": {
             "username": " Hope_Net "
         },
         "type": "vmess",
-        "config": "vmess:\/\/eyJ2IjoiMiIsImFkZCI6Ijk0LjI0Mi4yMzEuMzUiLCJwb3J0IjoiODQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiI4MjQxZGRjOC1iNWM1LTQ3NzgtOTYzNS0zMzE3MDBjNmZmNDgiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJob3N0IjoiamsueWxrYS51cy5rZyIsInRscyI6InRscyIsInBzIjoiXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBASG9wZV9OZXQgfCAxIn0="
+        "config": "vmess:\/\/eyJ2IjoiMiIsImFkZCI6Ijk0LjI0Mi4yMzEuMzUiLCJwb3J0IjoiODQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiI4MjQxZGRjOC1iNWM1LTQ3NzgtOTYzNS0zMzE3MDBjNmZmNDgiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJob3N0IjoiamsueWxrYS51cy5rZyIsInRscyI6InRscyIsInBzIjoiXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBASG9wZV9OZXQgfCAzIn0="
     },
     {
         "channel": {
             "username": "Hope_Net"
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-privatevpns@63.176.202.223:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http%2F1.1#🟢%20|%20trojan%20|%20@Hope_Net%20|%202"
+        "config": "trojan:\/\/telegram-id-privatevpns@63.176.202.223:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http%2F1.1#🟢%20|%20trojan%20|%20@Hope_Net%20|%204"
     },
     {
         "channel": {
             "username": "Hope_Net"
         },
         "type": "trojan",
-        "config": "trojan:\/\/ccbabaa-baac-acab-acbd-bcbccaaabbac@127.0.0.1:1080?security=tls&type=tcp#🟢%20|%20trojan%20|%20@Hope_Net%20|%203"
+        "config": "trojan:\/\/ccbabaa-baac-acab-acbd-bcbccaaabbac@127.0.0.1:1080?security=tls&type=tcp#🟢%20|%20trojan%20|%20@Hope_Net%20|%205"
     },
     {
         "channel": {
             "username": "Hope_Net"
         },
         "type": "vless",
-        "config": "vless:\/\/0bf64a11-649e-49e8-8caa-6feb8e13773d@164.90.202.67:8081?security=none&type=tcp&host=fast.com&path=%2F&headerType=http#🔴%20|%20vless%20|%20@Hope_Net%20|%204"
+        "config": "vless:\/\/0bf64a11-649e-49e8-8caa-6feb8e13773d@164.90.202.67:8081?security=none&type=tcp&host=fast.com&path=%2F&headerType=http#🔴%20|%20vless%20|%20@Hope_Net%20|%206"
     },
     {
         "channel": {
             "username": " Hope_Net "
         },
         "type": "vmess",
-        "config": "vmess:\/\/eyJ2IjoiMiIsImFkZCI6IjE1NC4xOTcuMTIxLjM1IiwicG9ydCI6Ijg0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiODI0MWRkYzgtYjVjNS00Nzc4LTk2MzUtMzMxNzAwYzZmZjQ4IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwiaG9zdCI6ImprLnlsa2EudXMua2ciLCJ0bHMiOiJ0bHMiLCJwcyI6Ilx1ZDgzZFx1ZGZlMiB8IHZtZXNzIHwgQEhvcGVfTmV0IHwgNSJ9"
+        "config": "vmess:\/\/eyJ2IjoiMiIsImFkZCI6IjE1NC4xOTcuMTIxLjM1IiwicG9ydCI6Ijg0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiODI0MWRkYzgtYjVjNS00Nzc4LTk2MzUtMzMxNzAwYzZmZjQ4IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwiaG9zdCI6ImprLnlsa2EudXMua2ciLCJ0bHMiOiJ0bHMiLCJwcyI6Ilx1ZDgzZFx1ZGZlMiB8IHZtZXNzIHwgQEhvcGVfTmV0IHwgNyJ9"
     },
     {
         "channel": {
             "username": "Hope_Net"
         },
         "type": "vless",
-        "config": "vless:\/\/93d3f074-55cd-4ece-a51e-46a0a0c9e3ff@159.69.30.53:443?security=none&type=tcp&path=%2F&headerType=http#🔴%20|%20vless%20|%20@Hope_Net%20|%206"
+        "config": "vless:\/\/93d3f074-55cd-4ece-a51e-46a0a0c9e3ff@159.69.30.53:443?security=none&type=tcp&path=%2F&headerType=http#🔴%20|%20vless%20|%20@Hope_Net%20|%208"
     },
     {
         "channel": {
             "username": "Hope_Net"
         },
         "type": "vless",
-        "config": "vless:\/\/71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.152.83:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🟢%20|%20vless%20|%20@Hope_Net%20|%207"
+        "config": "vless:\/\/71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.152.83:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🟢%20|%20vless%20|%20@Hope_Net%20|%209"
     },
     {
         "channel": {
             "username": "Hope_Net"
         },
         "type": "trojan",
-        "config": "trojan:\/\/aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@43.198.227.220:41143?security=tls&sni=ca1.bilibili.com#🟢%20|%20trojan%20|%20@Hope_Net%20|%208"
+        "config": "trojan:\/\/aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@43.198.227.220:41143?security=tls&sni=ca1.bilibili.com#🟢%20|%20trojan%20|%20@Hope_Net%20|%2010"
     },
     {
         "channel": {
             "username": "Hope_Net"
         },
         "type": "vless",
-        "config": "vless:\/\/71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.85:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🟢%20|%20vless%20|%20@Hope_Net%20|%209"
+        "config": "vless:\/\/71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.85:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🟢%20|%20vless%20|%20@Hope_Net%20|%2011"
     },
     {
         "channel": {
             "username": "Hope_Net"
         },
         "type": "vless",
-        "config": "vless:\/\/ebe4a75a-9b9b-467b-ab3d-fcd73232ba0c@151.101.130.133:443?security=tls&sni=ergwork.web.unc.edu&type=ws&host=snappir.ir&path=ws%2F%3Fed%3D2052#🟢%20|%20vless%20|%20@Hope_Net%20|%2010"
+        "config": "vless:\/\/ebe4a75a-9b9b-467b-ab3d-fcd73232ba0c@151.101.130.133:443?security=tls&sni=ergwork.web.unc.edu&type=ws&host=snappir.ir&path=ws%2F%3Fed%3D2052#🟢%20|%20vless%20|%20@Hope_Net%20|%2012"
     },
     {
         "channel": {
             "username": "Hope_Net"
         },
         "type": "trojan",
-        "config": "trojan:\/\/aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@16.163.30.148:45181?security=tls&sni=de1.bilibili.com#🟢%20|%20trojan%20|%20@Hope_Net%20|%2011"
+        "config": "trojan:\/\/aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@16.163.30.148:45181?security=tls&sni=de1.bilibili.com#🟢%20|%20trojan%20|%20@Hope_Net%20|%2013"
     },
     {
         "channel": {
             "username": "Hope_Net"
         },
         "type": "vless",
-        "config": "vless:\/\/71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.152.120:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🟢%20|%20vless%20|%20@Hope_Net%20|%2012"
+        "config": "vless:\/\/71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.152.120:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🟢%20|%20vless%20|%20@Hope_Net%20|%2014"
     },
     {
         "channel": {
             "username": "Hope_Net"
         },
         "type": "trojan",
-        "config": "trojan:\/\/caabacb-baca-caab-dcba-aacbbacbaccb@127.0.0.1:1080?security=tls&type=tcp#🟢%20|%20trojan%20|%20@Hope_Net%20|%2013"
+        "config": "trojan:\/\/caabacb-baca-caab-dcba-aacbbacbaccb@127.0.0.1:1080?security=tls&type=tcp#🟢%20|%20trojan%20|%20@Hope_Net%20|%2015"
     },
     {
         "channel": {
             "username": "Hope_Net"
         },
         "type": "vless",
-        "config": "vless:\/\/abbccaa-acab-cbaa-bcda-bcbacacacabb@127.0.0.1:8080?security=tls&type=tcp#🟢%20|%20vless%20|%20@Hope_Net%20|%2014"
+        "config": "vless:\/\/abbccaa-acab-cbaa-bcda-bcbacacacabb@127.0.0.1:8080?security=tls&type=tcp#🟢%20|%20vless%20|%20@Hope_Net%20|%2016"
     },
     {
         "channel": {
             "username": "Hope_Net"
         },
         "type": "vless",
-        "config": "vless:\/\/ff072857-d08f-4fc9-a52e-30946d0926cd@104.18.193.177:2083?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🟢%20|%20vless%20|%20@Hope_Net%20|%2015"
+        "config": "vless:\/\/ff072857-d08f-4fc9-a52e-30946d0926cd@104.18.193.177:2083?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🟢%20|%20vless%20|%20@Hope_Net%20|%2017"
     },
     {
         "channel": {
             "username": "Hope_Net"
         },
         "type": "vless",
-        "config": "vless:\/\/ff072857-d08f-4fc9-a52e-30946d0926cd@104.19.199.240:443?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🟢%20|%20vless%20|%20@Hope_Net%20|%2016"
+        "config": "vless:\/\/ff072857-d08f-4fc9-a52e-30946d0926cd@104.19.199.240:443?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🟢%20|%20vless%20|%20@Hope_Net%20|%2018"
     },
     {
         "channel": {
             "username": "Hope_Net"
         },
         "type": "vless",
-        "config": "vless:\/\/ff072857-d08f-4fc9-a52e-30946d0926cd@198.41.215.12:443?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🟢%20|%20vless%20|%20@Hope_Net%20|%2017"
-    },
-    {
-        "channel": {
-            "username": "Hope_Net"
-        },
-        "type": "vless",
-        "config": "vless:\/\/ff072857-d08f-4fc9-a52e-30946d0926cd@198.41.215.6:443?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🟢%20|%20vless%20|%20@Hope_Net%20|%2018"
-    },
-    {
-        "channel": {
-            "username": "Hope_Net"
-        },
-        "type": "vless",
-        "config": "vless:\/\/ff072857-d08f-4fc9-a52e-30946d0926cd@162.159.153.203:2083?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🟢%20|%20vless%20|%20@Hope_Net%20|%2019"
+        "config": "vless:\/\/ff072857-d08f-4fc9-a52e-30946d0926cd@198.41.215.12:443?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🟢%20|%20vless%20|%20@Hope_Net%20|%2019"
     },
     {
         "channel": {
@@ -2735,13 +2728,6 @@
         },
         "type": "vless",
         "config": "vless:\/\/TELEGRAM-NUFiLTER@nufilter.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&security=none&encryption=none&host=kazemi1211zerofun.com&type=ws#🔴%20|%20vless%20|%20@Outlinev2rayNG%20|%208"
-    },
-    {
-        "channel": {
-            "username": "Outlinev2rayNG"
-        },
-        "type": "vless",
-        "config": "vless:\/\/f988794c-cdb2-4842-b604-06e65cf6d040@45.149.12.119:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=%40iMrV2ray&sni=societshaia7rysv.aminho3ien.ir#🔴%20|%20vless%20|%20@Outlinev2rayNG%20|%209"
     },
     {
         "channel": {
