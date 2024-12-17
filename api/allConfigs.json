@@ -1450,27 +1450,6 @@
     },
     {
         "channel": {
-            "username": "DeamNet_Proxy"
-        },
-        "type": "vless",
-        "config": "vless:\/\/636b1684-b26c-4a9c-bc6e-8e1197a36d74@104.21.40.164:8080?encryption=none&security=none&type=ws&host=workerr.hashdiler.workers.dev&path=%2F%3Fed%3D2048#🔴%20|%20vless%20|%20@DeamNet_Proxy%20|%2014"
-    },
-    {
-        "channel": {
-            "username": "DeamNet_Proxy"
-        },
-        "type": "vless",
-        "config": "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.150.29:443?encryption=none&security=tls&sni=PPal03.beCoWIT649.WoRKERS.dEv&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=pPaL03.bECowit649.WOrkERS.DEv&path=%2FouhumbUWQyFJede7%3Fed%3D2560#🔴%20|%20vless%20|%20@DeamNet_Proxy%20|%2015"
-    },
-    {
-        "channel": {
-            "username": "DeamNet_Proxy"
-        },
-        "type": "vless",
-        "config": "vless:\/\/25d0ee2d-4190-52be-b892-45811c6ba210@www.speedtest.net:2083?encryption=none&security=tls&sni=folani.iiipok.WoRkerS.Dev&alpn=h3%2Ch2&fp=random&type=ws&host=folani.iiipok.WoRkerS.Dev&path=%2Fvless-ws%2F%3Fed%3D2048#🔴%20|%20vless%20|%20@DeamNet_Proxy%20|%2016"
-    },
-    {
-        "channel": {
             "username": "prrofile_purple"
         },
         "type": "vless",
@@ -2077,13 +2056,6 @@
         },
         "type": "vless",
         "config": "vless:\/\/d23eb114-7097-4743-aa73-d4ebbee94eed@188.245.208.177:26745?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🔴%20|%20vless%20|%20@v2ray1_ng%20|%2011"
-    },
-    {
-        "channel": {
-            "username": "v2ray1_ng"
-        },
-        "type": "vless",
-        "config": "vless:\/\/d1c2d719-bf88-440e-a791-3e2776e65c5c@www.speedtest.net:8880?path=%2Fmelo%2F&security=none&encryption=none&host=ch.%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E4%BC%8A%E6%96%AF%E6%A2%85%E6%B4%9B.site.&type=ws#🔴%20|%20vless%20|%20@v2ray1_ng%20|%2013"
     },
     {
         "channel": {
@@ -3001,6 +2973,13 @@
         },
         "type": "reality",
         "config": "vless:\/\/7af0cefc-ab80-4701-a9fe-67dfddc2a0f7@ns6.esfahansiman.com:2030?mode=gun&security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&fp=chrome&type=grpc&serviceName=%40%40jet_config-%40jet_config-%40jet_config&sni=refersion.com&sid=7fe29733#🔴%20|%20vless%20|%20@kingofilter%20|%203"
+    },
+    {
+        "channel": {
+            "username": "kingofilter"
+        },
+        "type": "vless",
+        "config": "vless:\/\/d1c2d719-bf88-440e-a791-3e2776e65c5c@www.speedtest.net:8880?path=%2Fmelo%2F&security=none&encryption=none&host=ch.%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E4%BC%8A%E6%96%AF%E6%A2%85%E6%B4%9B.site.&type=ws#🔴%20|%20vless%20|%20@kingofilter%20|%204"
     },
     {
         "channel": {
