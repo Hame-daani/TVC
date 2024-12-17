@@ -1495,6 +1495,48 @@
             "username": "prrofile_purple"
         },
         "type": "vless",
+        "config": "vless:\/\/6842f2ae-8c18-4e30-8a42-d4632a849f98@en.linceedab.com:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp#🟢%20|%20vless%20|%20@prrofile_purple%20|%20116"
+    },
+    {
+        "channel": {
+            "username": "prrofile_purple"
+        },
+        "type": "vless",
+        "config": "vless:\/\/Parsashonam-125@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2Fws%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=Parsashonam0.com&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#🔴%20|%20vless%20|%20@prrofile_purple%20|%20117"
+    },
+    {
+        "channel": {
+            "username": "prrofile_purple"
+        },
+        "type": "vless",
+        "config": "vless:\/\/Parsashonam-125@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#🔴%20|%20vless%20|%20@prrofile_purple%20|%20118"
+    },
+    {
+        "channel": {
+            "username": " prrofile_purple "
+        },
+        "type": "vmess",
+        "config": "vmess:\/\/eyJhZGQiOiI3OS4xMjcuMjI5LjU0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImZhMTg5N2RiLTE5MjUtNGM4Ni1hNDk1LTkzOWE5NTlhZjkwMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTgwMDAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBAcHJyb2ZpbGVfcHVycGxlIHwgMTE5In0="
+    },
+    {
+        "channel": {
+            "username": "prrofile_purple"
+        },
+        "type": "reality",
+        "config": "vless:\/\/a2037482-090d-435b-b33c-7d597a022c57@koop.javadjuventus.com:19327?security=reality&encryption=none&pbk=qYZk10MzmnQC4PBOC6hm9kuQelvqwIJRH9a_b4VffgI&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=refersion.com#🟢%20|%20vless%20|%20@prrofile_purple%20|%20121"
+    },
+    {
+        "channel": {
+            "username": "prrofile_purple"
+        },
+        "type": "vless",
+        "config": "vless:\/\/telegram-id-ArV2ray@Ay.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D80&security=none&encryption=none&host=deinssw26.net&type=ws#🔴%20|%20vless%20|%20@prrofile_purple%20|%20122"
+    },
+    {
+        "channel": {
+            "username": "prrofile_purple"
+        },
+        "type": "vless",
         "config": "vless:\/\/06af0b85-602c-4a27-98d8-150f2bf5cb49@EXPRESSVPN_420.fast.hosting-ip.com:80?path=%2F%40EXPRESSVPN_420------%40EXPRESSVPN_420------%40EXPRESSVPN_420------%40EXPRESSVPN_420------%40EXPRESSVPN_420------%40EXPRESSVPN_420------%40EXPRESSVPN_420------%40EXPRESSVPN_420------%40EXPRESSVPN_420%3Fed%3D2048&security=none&encryption=none&host=Zibay.maN.toi.net&type=ws#🔴%20|%20vless%20|%20@prrofile_purple%20|%20124"
     },
     {
@@ -1566,62 +1608,6 @@
         },
         "type": "vless",
         "config": "vless:\/\/dfc1a9ab-6241-4b73-92f7-b299fc6b7751@104.26.13.101:80?path=%2Fxmlrpc.php%3Fed%3D1080%26id%3Ddfc1a9ab-6241-4b73-92f7-b299fc6b7751&security=none&encryption=none&host=csgo.mozilla.5.0.xn--2b5baaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.127.0.0.1.offlinespeedtest.netdown.user.xn--2b5baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.0.2.1.xn--j9h1028mqmaoytii00aha21hfjrd.xn--m39h.tor.rubika.cloudns.ch.&type=ws#🔴%20|%20vless%20|%20@prrofile_purple%20|%20134"
-    },
-    {
-        "channel": {
-            "username": "prrofile_purple"
-        },
-        "type": "vless",
-        "config": "vless:\/\/telegram-id-ArV2ray@live.skornorth.com:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=1.2.wuffhq8.ir&fp=chrome&type=ws&sni=live.skornorth.com#🔴%20|%20vless%20|%20@prrofile_purple%20|%20135"
-    },
-    {
-        "channel": {
-            "username": "prrofile_purple"
-        },
-        "type": "reality",
-        "config": "vless:\/\/3bfa9b24-6e07-4587-a1cd-5a228acbf124@85.235.205.248:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=blog.cloudflare.com#🟢%20|%20vless%20|%20@prrofile_purple%20|%20136"
-    },
-    {
-        "channel": {
-            "username": "prrofile_purple"
-        },
-        "type": "vless",
-        "config": "vless:\/\/telegram-id-ArV2ray@s14.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D80&security=none&encryption=none&host=1-2941.ir&type=ws#🔴%20|%20vless%20|%20@prrofile_purple%20|%20137"
-    },
-    {
-        "channel": {
-            "username": "prrofile_purple"
-        },
-        "type": "vless",
-        "config": "vless:\/\/telegram-id-ArV2ray@live.skornorth.com:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=cdiuw64.net&fp=chrome&type=ws&sni=live.skornorth.com#🔴%20|%20vless%20|%20@prrofile_purple%20|%20138"
-    },
-    {
-        "channel": {
-            "username": "prrofile_purple"
-        },
-        "type": "reality",
-        "config": "vless:\/\/9e4f9b77-e5f5-4fb0-a6cf-e57e66fd88ae@5.182.87.141:443?security=reality&alpn=http%2F1.1&encryption=none&pbk=LoNYZgZ6WvqA2qkrVwkz4RHWnjoFTzw4h59F0GeAqh0&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=a7c159#🟢%20|%20vless%20|%20@prrofile_purple%20|%20139"
-    },
-    {
-        "channel": {
-            "username": "prrofile_purple"
-        },
-        "type": "vless",
-        "config": "vless:\/\/TELEGRAM-NUFiLTER-join@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&security=none&encryption=none&host=Shashokhi40ee.net&type=ws#🔴%20|%20vless%20|%20@prrofile_purple%20|%20140"
-    },
-    {
-        "channel": {
-            "username": "prrofile_purple"
-        },
-        "type": "reality",
-        "config": "vless:\/\/3bfa9b24-6e07-4587-a1cd-5a228acbf124@194.49.53.125:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=blog.cloudflare.com#🟢%20|%20vless%20|%20@prrofile_purple%20|%20141"
-    },
-    {
-        "channel": {
-            "username": "prrofile_purple"
-        },
-        "type": "vless",
-        "config": "vless:\/\/SAVTEAM7@live.989bull.com:443?path=%2F%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam%3Fed%3D443&security=tls&alpn=http%2F1.1&encryption=none&host=Savteam.io&fp=chrome&type=ws&sni=live.989bull.com#🔴%20|%20vless%20|%20@prrofile_purple%20|%20142"
     },
     {
         "channel": {
@@ -2265,126 +2251,133 @@
             "username": "DailyV2RY"
         },
         "type": "vless",
-        "config": "vless:\/\/1de81780-e871-4c6b-b1f7-e1f120fd86f2@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v08.bEsTdRlImIt.NeT#🟢%20|%20vless%20|%20@DailyV2RY%20|%20273"
+        "config": "vless:\/\/1de81780-e871-4c6b-b1f7-e1f120fd86f2@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v06.bEsTdRlImIt.NeT#🟢%20|%20vless%20|%20@DailyV2RY%20|%20273"
     },
     {
         "channel": {
             "username": "DailyV2RY"
         },
         "type": "vless",
-        "config": "vless:\/\/1de81780-e871-4c6b-b1f7-e1f120fd86f2@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v24.bEsTdRlImIt.NeT#🔴%20|%20vless%20|%20@DailyV2RY%20|%20274"
+        "config": "vless:\/\/1de81780-e871-4c6b-b1f7-e1f120fd86f2@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v03.bEsTdRlImIt.NeT#🟢%20|%20vless%20|%20@DailyV2RY%20|%20274"
     },
     {
         "channel": {
             "username": "DailyV2RY"
         },
         "type": "vless",
-        "config": "vless:\/\/1de81780-e871-4c6b-b1f7-e1f120fd86f2@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v13.bEsTdRlImIt.NeT#🟢%20|%20vless%20|%20@DailyV2RY%20|%20275"
+        "config": "vless:\/\/1de81780-e871-4c6b-b1f7-e1f120fd86f2@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v14.bEsTdRlImIt.NeT#🔴%20|%20vless%20|%20@DailyV2RY%20|%20275"
     },
     {
         "channel": {
             "username": "DailyV2RY"
         },
         "type": "vless",
-        "config": "vless:\/\/1de81780-e871-4c6b-b1f7-e1f120fd86f2@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v03.bEsTdRlImIt.NeT#🔴%20|%20vless%20|%20@DailyV2RY%20|%20276"
+        "config": "vless:\/\/1de81780-e871-4c6b-b1f7-e1f120fd86f2@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v03.bEsTdRlImIt.NeT#🔴%20|%20vless%20|%20@DailyV2RY%20|%20277"
     },
     {
         "channel": {
             "username": "DailyV2RY"
         },
         "type": "vless",
-        "config": "vless:\/\/1de81780-e871-4c6b-b1f7-e1f120fd86f2@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v13.bEsTdRlImIt.NeT#🔴%20|%20vless%20|%20@DailyV2RY%20|%20277"
+        "config": "vless:\/\/1de81780-e871-4c6b-b1f7-e1f120fd86f2@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v07.bEsTdRlImIt.NeT#🟢%20|%20vless%20|%20@DailyV2RY%20|%20278"
     },
     {
         "channel": {
             "username": "DailyV2RY"
         },
         "type": "vless",
-        "config": "vless:\/\/1de81780-e871-4c6b-b1f7-e1f120fd86f2@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v02.bEsTdRlImIt.NeT#🟢%20|%20vless%20|%20@DailyV2RY%20|%20278"
+        "config": "vless:\/\/1de81780-e871-4c6b-b1f7-e1f120fd86f2@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v11.bEsTdRlImIt.NeT#🔴%20|%20vless%20|%20@DailyV2RY%20|%20279"
     },
     {
         "channel": {
             "username": "DailyV2RY"
         },
         "type": "vless",
-        "config": "vless:\/\/1de81780-e871-4c6b-b1f7-e1f120fd86f2@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v23.bEsTdRlImIt.NeT#🔴%20|%20vless%20|%20@DailyV2RY%20|%20279"
+        "config": "vless:\/\/1de81780-e871-4c6b-b1f7-e1f120fd86f2@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v22.bEsTdRlImIt.NeT#🔴%20|%20vless%20|%20@DailyV2RY%20|%20280"
     },
     {
         "channel": {
             "username": "DailyV2RY"
         },
         "type": "vless",
-        "config": "vless:\/\/1de81780-e871-4c6b-b1f7-e1f120fd86f2@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v01.bEsTdRlImIt.NeT#🟢%20|%20vless%20|%20@DailyV2RY%20|%20281"
+        "config": "vless:\/\/1de81780-e871-4c6b-b1f7-e1f120fd86f2@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v06.bEsTdRlImIt.NeT#🔴%20|%20vless%20|%20@DailyV2RY%20|%20281"
     },
     {
         "channel": {
             "username": "DailyV2RY"
         },
         "type": "vless",
-        "config": "vless:\/\/1de81780-e871-4c6b-b1f7-e1f120fd86f2@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v12.bEsTdRlImIt.NeT#🔴%20|%20vless%20|%20@DailyV2RY%20|%20282"
+        "config": "vless:\/\/1de81780-e871-4c6b-b1f7-e1f120fd86f2@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v01.bEsTdRlImIt.NeT#🔴%20|%20vless%20|%20@DailyV2RY%20|%20282"
     },
     {
         "channel": {
             "username": "DailyV2RY"
         },
         "type": "vless",
-        "config": "vless:\/\/1de81780-e871-4c6b-b1f7-e1f120fd86f2@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v05.bEsTdRlImIt.NeT#🔴%20|%20vless%20|%20@DailyV2RY%20|%20283"
+        "config": "vless:\/\/1de81780-e871-4c6b-b1f7-e1f120fd86f2@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v09.bEsTdRlImIt.NeT#🟢%20|%20vless%20|%20@DailyV2RY%20|%20283"
     },
     {
         "channel": {
             "username": "DailyV2RY"
         },
         "type": "vless",
-        "config": "vless:\/\/1de81780-e871-4c6b-b1f7-e1f120fd86f2@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v18.bEsTdRlImIt.NeT#🔴%20|%20vless%20|%20@DailyV2RY%20|%20284"
+        "config": "vless:\/\/1de81780-e871-4c6b-b1f7-e1f120fd86f2@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v04.bEsTdRlImIt.NeT#🟢%20|%20vless%20|%20@DailyV2RY%20|%20284"
     },
     {
         "channel": {
             "username": "DailyV2RY"
         },
         "type": "vless",
-        "config": "vless:\/\/1de81780-e871-4c6b-b1f7-e1f120fd86f2@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v17.bEsTdRlImIt.NeT#🟢%20|%20vless%20|%20@DailyV2RY%20|%20285"
+        "config": "vless:\/\/1de81780-e871-4c6b-b1f7-e1f120fd86f2@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v24.bEsTdRlImIt.NeT#🟢%20|%20vless%20|%20@DailyV2RY%20|%20285"
     },
     {
         "channel": {
             "username": "DailyV2RY"
         },
         "type": "vless",
-        "config": "vless:\/\/1de81780-e871-4c6b-b1f7-e1f120fd86f2@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v15.bEsTdRlImIt.NeT#🟢%20|%20vless%20|%20@DailyV2RY%20|%20286"
+        "config": "vless:\/\/1de81780-e871-4c6b-b1f7-e1f120fd86f2@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v08.bEsTdRlImIt.NeT#🔴%20|%20vless%20|%20@DailyV2RY%20|%20286"
     },
     {
         "channel": {
             "username": "DailyV2RY"
         },
         "type": "vless",
-        "config": "vless:\/\/1de81780-e871-4c6b-b1f7-e1f120fd86f2@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v07.bEsTdRlImIt.NeT#🔴%20|%20vless%20|%20@DailyV2RY%20|%20287"
+        "config": "vless:\/\/1de81780-e871-4c6b-b1f7-e1f120fd86f2@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v25.bEsTdRlImIt.NeT#🟢%20|%20vless%20|%20@DailyV2RY%20|%20287"
     },
     {
         "channel": {
             "username": "DailyV2RY"
         },
         "type": "vless",
-        "config": "vless:\/\/1de81780-e871-4c6b-b1f7-e1f120fd86f2@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v12.bEsTdRlImIt.NeT#🟢%20|%20vless%20|%20@DailyV2RY%20|%20288"
+        "config": "vless:\/\/1de81780-e871-4c6b-b1f7-e1f120fd86f2@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v02.bEsTdRlImIt.NeT#🟢%20|%20vless%20|%20@DailyV2RY%20|%20288"
     },
     {
         "channel": {
             "username": "DailyV2RY"
         },
         "type": "vless",
-        "config": "vless:\/\/1de81780-e871-4c6b-b1f7-e1f120fd86f2@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v14.bEsTdRlImIt.NeT#🟢%20|%20vless%20|%20@DailyV2RY%20|%20290"
+        "config": "vless:\/\/1de81780-e871-4c6b-b1f7-e1f120fd86f2@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v21.bEsTdRlImIt.NeT#🟢%20|%20vless%20|%20@DailyV2RY%20|%20289"
     },
     {
         "channel": {
             "username": "DailyV2RY"
         },
         "type": "vless",
-        "config": "vless:\/\/1de81780-e871-4c6b-b1f7-e1f120fd86f2@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v16.bEsTdRlImIt.NeT#🔴%20|%20vless%20|%20@DailyV2RY%20|%20291"
+        "config": "vless:\/\/1de81780-e871-4c6b-b1f7-e1f120fd86f2@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v08.bEsTdRlImIt.NeT#🟢%20|%20vless%20|%20@DailyV2RY%20|%20290"
     },
     {
         "channel": {
             "username": "DailyV2RY"
         },
         "type": "vless",
-        "config": "vless:\/\/1de81780-e871-4c6b-b1f7-e1f120fd86f2@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v24.bEsTdRlImIt.NeT#🟢%20|%20vless%20|%20@DailyV2RY%20|%20292"
+        "config": "vless:\/\/1de81780-e871-4c6b-b1f7-e1f120fd86f2@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v24.bEsTdRlImIt.NeT#🔴%20|%20vless%20|%20@DailyV2RY%20|%20291"
+    },
+    {
+        "channel": {
+            "username": "DailyV2RY"
+        },
+        "type": "vless",
+        "config": "vless:\/\/1de81780-e871-4c6b-b1f7-e1f120fd86f2@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v13.bEsTdRlImIt.NeT#🟢%20|%20vless%20|%20@DailyV2RY%20|%20292"
     },
     {
         "channel": {
