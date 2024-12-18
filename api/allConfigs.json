@@ -683,21 +683,21 @@
             "username": "free_v2rayyy"
         },
         "type": "vless",
-        "config": "vless:\/\/b5dd207e-fe02-44fc-8b5d-6e7b3c6d8801@iranserver.com:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=telegramchannel-%40free_v2rayyy-%40free_v2rayyy-%40free_v2rayyy-%40free_v2rayyy-%40free_v2rayyy&sni=mah.ailreza.org.tr#🔴%20|%20vless%20|%20@free_v2rayyy%20|%201"
-    },
-    {
-        "channel": {
-            "username": "free_v2rayyy"
-        },
-        "type": "trojan",
-        "config": "trojan:\/\/auto@104.25.254.4:2087?path=%2Ftrojanfree-76s.pages.dev&security=tls&host=trojanfree-76s.pages.dev&fp=randomized&type=ws&sni=trojanfree-76s.pages.dev#🔴%20|%20trojan%20|%20@free_v2rayyy%20|%202"
+        "config": "vless:\/\/99d24ea2-b25b-4813-b8f0-284a01724e2f@iranserver.com:2083?security=tls&type=grpc&headerType=&serviceName=telegramchannel-%40free_v2rayyy-%40free_v2rayyy-%40free_v2rayyy-%40free_v2rayyy-%40free_v2rayyy&authority=&mode=gun&sni=mah.ailreza.org.tr&fp=#🟢%20|%20vless%20|%20@free_v2rayyy%20|%201"
     },
     {
         "channel": {
             "username": "free_v2rayyy"
         },
         "type": "vless",
-        "config": "vless:\/\/5f676d84-c151-48c2-bc09-63017f4a822a@104.21.48.53:8443?path=Telegram%40V2ray_Alpha%2F%3Fed%3D2087&security=tls&encryption=none&alpn=http%2F1.1&host=yEchIv2raY-x-CGyGFXdDeWaW345556.PageS.deV&fp=chrome&type=ws&sni=pAgES.DEV#🔴%20|%20vless%20|%20@free_v2rayyy%20|%206"
+        "config": "vless:\/\/b5dd207e-fe02-44fc-8b5d-6e7b3c6d8801@iranserver.com:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=telegramchannel-%40free_v2rayyy-%40free_v2rayyy-%40free_v2rayyy-%40free_v2rayyy-%40free_v2rayyy&sni=mah.ailreza.org.tr#🔴%20|%20vless%20|%20@free_v2rayyy%20|%203"
+    },
+    {
+        "channel": {
+            "username": "free_v2rayyy"
+        },
+        "type": "trojan",
+        "config": "trojan:\/\/auto@104.25.254.4:2087?path=%2Ftrojanfree-76s.pages.dev&security=tls&host=trojanfree-76s.pages.dev&fp=randomized&type=ws&sni=trojanfree-76s.pages.dev#🔴%20|%20trojan%20|%20@free_v2rayyy%20|%204"
     },
     {
         "channel": {
@@ -998,140 +998,140 @@
             "username": "PrivateVPNs"
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-privatevpns@35.179.198.137:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@PrivateVPNs%20|%200"
+        "config": "trojan:\/\/telegram-id-privatevpns@35.179.248.16:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@PrivateVPNs%20|%200"
     },
     {
         "channel": {
             "username": "PrivateVPNs"
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-privatevpns@15.237.131.185:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@PrivateVPNs%20|%201"
+        "config": "trojan:\/\/telegram-id-privatevpns@35.179.198.137:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@PrivateVPNs%20|%201"
     },
     {
         "channel": {
             "username": "PrivateVPNs"
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-privatevpns@51.44.49.128:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@PrivateVPNs%20|%202"
+        "config": "trojan:\/\/telegram-id-privatevpns@15.237.131.185:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@PrivateVPNs%20|%202"
     },
     {
         "channel": {
             "username": "PrivateVPNs"
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-privatevpns@3.74.49.26:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@PrivateVPNs%20|%203"
+        "config": "trojan:\/\/telegram-id-privatevpns@51.44.49.128:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@PrivateVPNs%20|%203"
     },
     {
         "channel": {
             "username": "PrivateVPNs"
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-privatevpns@3.73.110.196:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@PrivateVPNs%20|%204"
+        "config": "trojan:\/\/telegram-id-privatevpns@3.74.49.26:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@PrivateVPNs%20|%204"
     },
     {
         "channel": {
             "username": "PrivateVPNs"
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-privatevpns@51.21.73.169:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@PrivateVPNs%20|%205"
+        "config": "trojan:\/\/telegram-id-privatevpns@3.73.110.196:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@PrivateVPNs%20|%205"
     },
     {
         "channel": {
             "username": "PrivateVPNs"
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-privatevpns@13.48.251.198:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@PrivateVPNs%20|%206"
+        "config": "trojan:\/\/telegram-id-privatevpns@51.21.73.169:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@PrivateVPNs%20|%206"
     },
     {
         "channel": {
             "username": "PrivateVPNs"
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-privatevpns@18.203.37.86:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@PrivateVPNs%20|%207"
+        "config": "trojan:\/\/telegram-id-privatevpns@13.48.251.198:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@PrivateVPNs%20|%207"
     },
     {
         "channel": {
             "username": "PrivateVPNs"
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-privatevpns@3.253.125.90:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@PrivateVPNs%20|%208"
+        "config": "trojan:\/\/telegram-id-privatevpns@18.203.37.86:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@PrivateVPNs%20|%208"
     },
     {
         "channel": {
             "username": "PrivateVPNs"
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-privatevpns@3.11.163.160:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@PrivateVPNs%20|%209"
+        "config": "trojan:\/\/telegram-id-privatevpns@3.253.125.90:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@PrivateVPNs%20|%209"
     },
     {
         "channel": {
             "username": "PrivateVPNs"
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-privatevpns@18.168.25.133:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@PrivateVPNs%20|%2010"
+        "config": "trojan:\/\/telegram-id-privatevpns@3.11.163.160:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@PrivateVPNs%20|%2010"
     },
     {
         "channel": {
             "username": "PrivateVPNs"
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-privatevpns@13.39.36.222:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@PrivateVPNs%20|%2011"
+        "config": "trojan:\/\/telegram-id-privatevpns@18.168.25.133:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@PrivateVPNs%20|%2011"
     },
     {
         "channel": {
             "username": "PrivateVPNs"
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-privatevpns@13.37.199.214:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@PrivateVPNs%20|%2012"
+        "config": "trojan:\/\/telegram-id-privatevpns@13.39.36.222:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@PrivateVPNs%20|%2012"
     },
     {
         "channel": {
             "username": "PrivateVPNs"
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-privatevpns@3.124.227.186:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@PrivateVPNs%20|%2013"
+        "config": "trojan:\/\/telegram-id-privatevpns@13.37.199.214:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@PrivateVPNs%20|%2013"
     },
     {
         "channel": {
             "username": "PrivateVPNs"
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-privatevpns@18.193.231.209:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@PrivateVPNs%20|%2014"
+        "config": "trojan:\/\/telegram-id-privatevpns@3.124.227.186:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@PrivateVPNs%20|%2014"
     },
     {
         "channel": {
             "username": "PrivateVPNs"
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-privatevpns@13.53.88.167:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@PrivateVPNs%20|%2015"
+        "config": "trojan:\/\/telegram-id-privatevpns@18.193.231.209:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@PrivateVPNs%20|%2015"
     },
     {
         "channel": {
             "username": "PrivateVPNs"
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-privatevpns@13.50.54.181:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@PrivateVPNs%20|%2016"
+        "config": "trojan:\/\/telegram-id-privatevpns@13.53.88.167:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@PrivateVPNs%20|%2016"
     },
     {
         "channel": {
             "username": "PrivateVPNs"
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-privatevpns@34.247.63.134:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@PrivateVPNs%20|%2017"
+        "config": "trojan:\/\/telegram-id-privatevpns@13.50.54.181:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@PrivateVPNs%20|%2017"
     },
     {
         "channel": {
             "username": "PrivateVPNs"
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-privatevpns@54.154.104.50:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@PrivateVPNs%20|%2018"
+        "config": "trojan:\/\/telegram-id-privatevpns@34.247.63.134:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@PrivateVPNs%20|%2018"
     },
     {
         "channel": {
             "username": "PrivateVPNs"
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-privatevpns@35.176.47.42:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@PrivateVPNs%20|%2019"
+        "config": "trojan:\/\/telegram-id-privatevpns@54.154.104.50:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@PrivateVPNs%20|%2019"
     },
     {
         "channel": {
