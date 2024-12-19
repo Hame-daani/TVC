@@ -701,6 +701,13 @@
     },
     {
         "channel": {
+            "username": "free_v2rayyy"
+        },
+        "type": "trojan",
+        "config": "trojan:\/\/auto@104.25.254.4:2087?path=%2Ftrojanfree-76s.pages.dev&security=tls&host=trojanfree-76s.pages.dev&fp=randomized&type=ws&sni=trojanfree-76s.pages.dev#🔴%20|%20trojan%20|%20@free_v2rayyy%20|%205"
+    },
+    {
+        "channel": {
             "username": "CUSTOMVPNSERVER"
         },
         "type": "vless",
@@ -2472,52 +2479,59 @@
     },
     {
         "channel": {
-            "username": "VmessProtocol"
+            "username": " VmessProtocol "
         },
-        "type": "trojan",
-        "config": "trojan:\/\/QwwHvrnN@223.113.54.145:36442?security=tls&headerType=none&type=tcp#🟢%20|%20trojan%20|%20@VmessProtocol%20|%200"
+        "type": "vmess",
+        "config": "vmess:\/\/eyJhZGQiOiJvdmVyc2VhczAxLmFhYWEtY2xvdWQtY2RuYS1hcGlhLWd3c2QtYWFhYS1hYWJiLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5OTZlZTljYS1mNzIxLTMzZjYtOGEyNi1lZDI3ZGY0OTc1ZjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ5MTg1Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJwcyI6Ilx1ZDgzZFx1ZGZlMiB8IHZtZXNzIHwgQFZtZXNzUHJvdG9jb2wgfCAwIn0="
     },
     {
         "channel": {
             "username": "VmessProtocol"
         },
         "type": "trojan",
-        "config": "trojan:\/\/3648425794742788096@polished-ox.treefrog761.one:443?security=tls&headerType=none&type=tcp&sni=polished-ox.treefrog761.one#🟢%20|%20trojan%20|%20@VmessProtocol%20|%201"
+        "config": "trojan:\/\/QwwHvrnN@223.113.54.145:36442?security=tls&headerType=none&type=tcp#🟢%20|%20trojan%20|%20@VmessProtocol%20|%201"
+    },
+    {
+        "channel": {
+            "username": "VmessProtocol"
+        },
+        "type": "trojan",
+        "config": "trojan:\/\/3648425794742788096@polished-ox.treefrog761.one:443?security=tls&headerType=none&type=tcp&sni=polished-ox.treefrog761.one#🟢%20|%20trojan%20|%20@VmessProtocol%20|%202"
     },
     {
         "channel": {
             "username": "VmessProtocol"
         },
         "type": "reality",
-        "config": "vless:\/\/8363e5e4-b97f-4ddf-bbcd-4e8f8d826a35@213.176.66.228:37021?security=reality&encryption=none&pbk=Gk3eR3mV55k5P3tg-MzqMpNolmML8q9zBOf6A102e1Y&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=bc721eb6#🟢%20|%20vless%20|%20@VmessProtocol%20|%202"
+        "config": "vless:\/\/8363e5e4-b97f-4ddf-bbcd-4e8f8d826a35@213.176.66.228:37021?security=reality&encryption=none&pbk=Gk3eR3mV55k5P3tg-MzqMpNolmML8q9zBOf6A102e1Y&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=bc721eb6#🟢%20|%20vless%20|%20@VmessProtocol%20|%203"
     },
     {
         "channel": {
             "username": " VmessProtocol "
         },
         "type": "vmess",
-        "config": "vmess:\/\/eyJhZGQiOiIxNzIuNjcuMjA0Ljg0IiwiYWlkIjoiMCIsImFscG4iOiJodHRwXC8xLjEiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJkb3dubG9hZC5nYW1lLW9uZS5pciIsImlkIjoiMjlkYzIxYjQtNmQ5YS00NzE0LTgwODctZDNlYmRjYmMyOGNiIiwibmV0Ijoid3MiLCJwYXRoIjoiXC82bUh3cUkxSFNTVjVGT1plT1VWMUJZdnVRIiwicG9ydCI6IjQ0MyIsInNjeSI6ImF1dG8iLCJzbmkiOiJkb3dubG9hZC5nYW1lLW9uZS5pciIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBAVm1lc3NQcm90b2NvbCB8IDMifQ=="
+        "config": "vmess:\/\/eyJhZGQiOiIxNzIuNjcuMjA0Ljg0IiwiYWlkIjoiMCIsImFscG4iOiJodHRwXC8xLjEiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJkb3dubG9hZC5nYW1lLW9uZS5pciIsImlkIjoiMjlkYzIxYjQtNmQ5YS00NzE0LTgwODctZDNlYmRjYmMyOGNiIiwibmV0Ijoid3MiLCJwYXRoIjoiXC82bUh3cUkxSFNTVjVGT1plT1VWMUJZdnVRIiwicG9ydCI6IjQ0MyIsInNjeSI6ImF1dG8iLCJzbmkiOiJkb3dubG9hZC5nYW1lLW9uZS5pciIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBAVm1lc3NQcm90b2NvbCB8IDQifQ=="
     },
     {
         "channel": {
             "username": " VmessProtocol "
         },
         "type": "vmess",
-        "config": "vmess:\/\/eyJhZGQiOiIxMDQuMjYuMC4xMzgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im0xLjEwNjc3OC54eXoiLCJpZCI6IjkwZjhmNGRjLTgwOTItNDM1NS05MDQ3LTA1ZjUwNmY1ZTlhYiIsIm5ldCI6IndzIiwicGF0aCI6IlwvZ2l0aHViLmNvbVwvQWx2aW45OTk5IiwicG9ydCI6Ijg4ODAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIiwicHMiOiJcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEBWbWVzc1Byb3RvY29sIHwgNSJ9"
+        "config": "vmess:\/\/eyJhZGQiOiIxMDQuMjYuMC4xMzgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im0xLjEwNjc3OC54eXoiLCJpZCI6IjkwZjhmNGRjLTgwOTItNDM1NS05MDQ3LTA1ZjUwNmY1ZTlhYiIsIm5ldCI6IndzIiwicGF0aCI6IlwvZ2l0aHViLmNvbVwvQWx2aW45OTk5IiwicG9ydCI6Ijg4ODAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIiwicHMiOiJcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEBWbWVzc1Byb3RvY29sIHwgNiJ9"
     },
     {
         "channel": {
             "username": " VmessProtocol "
         },
         "type": "vmess",
-        "config": "vmess:\/\/eyJhZGQiOiIxNjIuMTU5LjQ1LjIzMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibTEuMTA2Nzc4Lnh5eiIsImlkIjoiOTBmOGY0ZGMtODA5Mi00MzU1LTkwNDctMDVmNTA2ZjVlOWFiIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9naXRodWIuY29tXC9BbHZpbjk5OTkiLCJwb3J0IjoiODg4MCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIiLCJwcyI6Ilx1ZDgzZFx1ZGZlMiB8IHZtZXNzIHwgQFZtZXNzUHJvdG9jb2wgfCA2In0="
+        "config": "vmess:\/\/eyJhZGQiOiIxNjIuMTU5LjQ1LjIzMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibTEuMTA2Nzc4Lnh5eiIsImlkIjoiOTBmOGY0ZGMtODA5Mi00MzU1LTkwNDctMDVmNTA2ZjVlOWFiIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9naXRodWIuY29tXC9BbHZpbjk5OTkiLCJwb3J0IjoiODg4MCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIiLCJwcyI6Ilx1ZDgzZFx1ZGZlMiB8IHZtZXNzIHwgQFZtZXNzUHJvdG9jb2wgfCA3In0="
     },
     {
         "channel": {
             "username": "VmessProtocol"
         },
         "type": "reality",
-        "config": "vless:\/\/1960c7f5-2131-4e32-90b5-25e306e1b8d4@130.61.234.225:50005?security=reality&encryption=none&pbk=qCaV2kI9Oxts987YzeFkyyQHMnJnd5YA1GJuAkRVImg&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=www.python.org&sid=19e5124d#🟢%20|%20vless%20|%20@VmessProtocol%20|%207"
+        "config": "vless:\/\/1960c7f5-2131-4e32-90b5-25e306e1b8d4@130.61.234.225:50005?security=reality&encryption=none&pbk=qCaV2kI9Oxts987YzeFkyyQHMnJnd5YA1GJuAkRVImg&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=www.python.org&sid=19e5124d#🟢%20|%20vless%20|%20@VmessProtocol%20|%208"
     },
     {
         "channel": {
