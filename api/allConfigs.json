@@ -764,6 +764,13 @@
     },
     {
         "channel": {
+            "username": " CUSTOMVPNSERVER "
+        },
+        "type": "vmess",
+        "config": "vmess:\/\/eyJhZGQiOiI4OC4xOTguOTMuMTc1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU4NTMxMDA5LWI2NjQtNDQ1Yi1iODk2LTdiYjkwMjZiNzQ0ZCIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsInBvcnQiOiI4ODgwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIiLCJwcyI6Ilx1ZDgzZFx1ZGZlMiB8IHZtZXNzIHwgQENVU1RPTVZQTlNFUlZFUiB8IDE1In0="
+    },
+    {
+        "channel": {
             "username": "DigiV2ray"
         },
         "type": "vless",
