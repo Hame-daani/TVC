@@ -2299,99 +2299,78 @@
         "channel": {
             "username": "ConfigsHUB"
         },
-        "type": "trojan",
-        "config": "trojan:\/\/SSorg@206.238.237.146:2083?allowInsecure=1&sni=ssjj.esslh.filegear-sg.me#🔴%20|%20trojan%20|%20@ConfigsHUB%20|%201"
+        "type": "vless",
+        "config": "vless:\/\/1c520a04-fb7c-47cd-a5fd-3d35c089fce2@62.60.213.114:53221?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🔴%20|%20vless%20|%20@ConfigsHUB%20|%201"
     },
     {
         "channel": {
             "username": "ConfigsHUB"
         },
         "type": "vless",
-        "config": "vless:\/\/d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.86.235:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=c.lkzb-0t0.workers.dev&type=ws#🔴%20|%20vless%20|%20@ConfigsHUB%20|%202"
+        "config": "vless:\/\/b1f58d90-e65f-4566-91f3-1b96e9a68610@151.101.2.219:80?path=%2F%40Digiv2ray--%40Digiv2ray--%40Digiv2ray--%40Digiv2ray--%40Digiv2ray--%40Digiv2ray--%40Digiv2ray--%40Digiv2ray--%40Digiv2ray--%3Fed%3D2048&security=none&encryption=none&host=JoiIInNn--DIgiv2Ray.Ir.&type=ws#🔴%20|%20vless%20|%20@ConfigsHUB%20|%202"
     },
     {
         "channel": {
             "username": "ConfigsHUB"
         },
         "type": "vless",
-        "config": "vless:\/\/99b78eb6-9284-4163-849a-52f822f0b585@TLS.zeoaeriedo-saioesrio.ir:2000?type=grpc&serviceName=%2F%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray&authority=&security=none#🔴%20|%20vless%20|%20@ConfigsHUB%20|%203"
+        "config": "vless:\/\/eafc111d-4a4b-4dc8-a26e-3ec97899db00@5.75.202.97:19211?security=none&encryption=none&headerType=none&type=tcp#🔴%20|%20vless%20|%20@ConfigsHUB%20|%203"
     },
     {
         "channel": {
             "username": "ConfigsHUB"
         },
         "type": "vless",
-        "config": "vless:\/\/0c3c2752-4b66-42c5-8886-2b0dafe9e4f3@151.101.130.133:443?security=tls&type=ws&headerType=&path=%2F---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net%3Fed%3D2048&host=externalch.org&sni=www.sunshinecity.co.jp&fp=firefox#🟢%20|%20vless%20|%20@ConfigsHUB%20|%204"
+        "config": "vless:\/\/b6b685f3-0115-425f-a26f-c0d4421cc528@3.96.177.85:52837?mode=gun&security=none&encryption=none&type=grpc#🔴%20|%20vless%20|%20@ConfigsHUB%20|%204"
     },
     {
         "channel": {
             "username": "ConfigsHUB"
         },
         "type": "vless",
-        "config": "vless:\/\/0c3c2752-4b66-42c5-8886-2b0dafe9e4f3@151.101.3.8:80?security=none&type=ws&headerType=&path=%3F%3D9090&host=External_Net.org#🔴%20|%20vless%20|%20@ConfigsHUB%20|%205"
+        "config": "vless:\/\/99b78eb6-9284-4163-849a-52f822f0b585@TLS.zeoaeriedo-saioesrio.ir:2000?type=grpc&serviceName=%2F%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray&authority=&security=none#🔴%20|%20vless%20|%20@ConfigsHUB%20|%205"
     },
     {
         "channel": {
             "username": "ConfigsHUB"
         },
         "type": "vless",
-        "config": "vless:\/\/d396e106-920d-4330-87f8-29171f4aa4dd@hajlab.ucdavis.edu:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&host=joinshhproxybedeeeee.ir&encryption=none#🟢%20|%20vless%20|%20@ConfigsHUB%20|%206"
+        "config": "vless:\/\/42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.1.103:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=edge.validbv3528.ir&type=ws#🔴%20|%20vless%20|%20@ConfigsHUB%20|%206"
+    },
+    {
+        "channel": {
+            "username": "ConfigsHUB"
+        },
+        "type": "reality",
+        "config": "vless:\/\/Telegram%40v2rayng_vpnn@49.12.106.37:55822?security=reality&encryption=none&pbk=swrGFiH1GGLp80EgD_iDAuyb701VeVirfXCbI_5cinw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mmd.10.isovpn.shop#🟢%20|%20vless%20|%20@ConfigsHUB%20|%207"
     },
     {
         "channel": {
             "username": "ConfigsHUB"
         },
         "type": "vless",
-        "config": "vless:\/\/3e418fbf-3675-419c-876a-46750d1c543a@hajlab.ucdavis.edu:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&host=joinshhproxybedeeeeeee.ir&encryption=none#🟢%20|%20vless%20|%20@ConfigsHUB%20|%207"
+        "config": "vless:\/\/99b78eb6-9284-4163-849a-52f822f0b585@TLS.zeoaeriedo-saioesrio.ir:2000?mode=gun&security=none&encryption=none&type=grpc&serviceName=%2F%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray#🔴%20|%20vless%20|%20@ConfigsHUB%20|%208"
+    },
+    {
+        "channel": {
+            "username": " ConfigsHUB "
+        },
+        "type": "vmess",
+        "config": "vmess:\/\/eyJhZGQiOiIxNTEuMTAxLjIuMjE2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ0ZWxlZ3JhbS1JU1Z2cG4uaXIiLCJpZCI6ImM2OWYzMDI5LWFlMWUtNDVjYS1hYTA4LTcwOTcwZjE0ZGZkMiIsIm5ldCI6IndzIiwicGF0aCI6IlwvcmFjZXZwbj90ZWxlZ3JhbUBJU1Z2cG4tdGVsZWdyYW1ASVNWdnBuLXRlbGVncmFtQElTVnZwbiIsInBvcnQiOiI4MCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIiLCJwcyI6Ilx1ZDgzZFx1ZGZlMiB8IHZtZXNzIHwgQENvbmZpZ3NIVUIgfCAxMCJ9"
+    },
+    {
+        "channel": {
+            "username": " ConfigsHUB "
+        },
+        "type": "vmess",
+        "config": "vmess:\/\/eyJhZGQiOiIxNTEuMTAxLjE5NC4xMzMiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHBcLzEuMSIsImZwIjoiY2hyb21lIiwiaG9zdCI6InRlbGVncmFtLWlzdnZwbi5pciIsImlkIjoiYzY5ZjMwMjktYWUxZS00NWNhLWFhMDgtNzA5NzBmMTRkZmQyIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9yYWNldnBuP3RlbGVncmFtQElTVnZwbi10ZWxlZ3JhbUBJU1Z2cG4tdGVsZWdyYW1ASVNWdnBuIiwicG9ydCI6IjQ0MyIsInNjeSI6ImF1dG8iLCJzbmkiOiJtaW8uc3BsYXNodGhhdC5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIiLCJwcyI6Ilx1ZDgzZFx1ZGZlMiB8IHZtZXNzIHwgQENvbmZpZ3NIVUIgfCAxMSJ9"
     },
     {
         "channel": {
             "username": "ConfigsHUB"
         },
         "type": "vless",
-        "config": "vless:\/\/V2RAXX@EXPRESSVPN_420.fastly80-3.hosting-ip.com:80?path=%2FTelegram%2CV2RAXX%2CTelegram%2C%3Fed%3D2048&security=none&encryption=none&host=V2RAXX.ir&type=ws#🔴%20|%20vless%20|%20@ConfigsHUB%20|%208"
-    },
-    {
-        "channel": {
-            "username": "ConfigsHUB"
-        },
-        "type": "trojan",
-        "config": "trojan:\/\/SSorg@160.79.105.80:2087?allowInsecure=1&sni=ssjj.esslh.filegear-sg.me#🔴%20|%20trojan%20|%20@ConfigsHUB%20|%2011"
-    },
-    {
-        "channel": {
-            "username": "ConfigsHUB"
-        },
-        "type": "trojan",
-        "config": "trojan:\/\/SSorg@65.109.199.131:443?allowInsecure=1&sni=ssjj.esslh.filegear-sg.me#🔴%20|%20trojan%20|%20@ConfigsHUB%20|%2012"
-    },
-    {
-        "channel": {
-            "username": "ConfigsHUB"
-        },
-        "type": "vless",
-        "config": "vless:\/\/53e6a323-3639-4261-9f61-d8c54159e4ac@104.26.14.16:2096?security=tls&sni=bEAt.MIRaclETaxbiTS.Top.&type=ws&host=bEAt.MIRaclETaxbiTS.Top.&path=%2F2096%2F%40VRayyNGvpn&fp=random&alpn=h2%2Chttp%2F1.1#🟢%20|%20vless%20|%20@ConfigsHUB%20|%2013"
-    },
-    {
-        "channel": {
-            "username": "ConfigsHUB"
-        },
-        "type": "vless",
-        "config": "vless:\/\/881c2728-f294-539e-adec-7d4b7201c751@151.101.1.6:80?security=none&type=ws&host=PABLO-MOSTAFAA.COM&path=%2F#🔴%20|%20vless%20|%20@ConfigsHUB%20|%2014"
-    },
-    {
-        "channel": {
-            "username": "ConfigsHUB"
-        },
-        "type": "trojan",
-        "config": "trojan:\/\/SSorg@45.150.115.195:2087?allowInsecure=1&sni=ssjj.esslh.filegear-sg.me#🔴%20|%20trojan%20|%20@ConfigsHUB%20|%2015"
-    },
-    {
-        "channel": {
-            "username": "ConfigsHUB"
-        },
-        "type": "trojan",
-        "config": "trojan:\/\/SSorg@108.165.152.131:443?allowInsecure=1&sni=ssjj.esslh.filegear-sg.me#🔴%20|%20trojan%20|%20@ConfigsHUB%20|%2017"
+        "config": "vless:\/\/a560a275-f488-441f-874e-ee72a59a8dff@iri.ginuerzht.ir:2053?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🔴%20|%20vless%20|%20@ConfigsHUB%20|%2015"
     },
     {
         "channel": {
@@ -2490,6 +2469,20 @@
         },
         "type": "vless",
         "config": "vless:\/\/SVNTEAM@wWw.SpeedTeSt.Net:8880?path=%2FSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%3Fed%3D8080&security=none&encryption=none&host=JOIN.SVNTEAM.FreeConfigs.SVNTEAMsec.ip-ddns.com&type=httpupgrade#🔴%20|%20vless%20|%20@free1_vpn%20|%2010"
+    },
+    {
+        "channel": {
+            "username": "Hope_Net"
+        },
+        "type": "trojan",
+        "config": "trojan:\/\/SSorg@206.238.237.146:2083?allowInsecure=1&sni=ssjj.esslh.filegear-sg.me#🔴%20|%20trojan%20|%20@Hope_Net%20|%200"
+    },
+    {
+        "channel": {
+            "username": "Hope_Net"
+        },
+        "type": "trojan",
+        "config": "trojan:\/\/SSorg@108.165.152.131:443?allowInsecure=1&sni=ssjj.esslh.filegear-sg.me#🔴%20|%20trojan%20|%20@Hope_Net%20|%201"
     },
     {
         "channel": {
@@ -2650,13 +2643,6 @@
             "username": "Outlinev2rayNG"
         },
         "type": "vless",
-        "config": "vless:\/\/42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.1.103:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=edge.validbv3528.ir&type=ws#🔴%20|%20vless%20|%20@Outlinev2rayNG%20|%200"
-    },
-    {
-        "channel": {
-            "username": "Outlinev2rayNG"
-        },
-        "type": "vless",
         "config": "vless:\/\/fcc65a17-2587-4af5-98ad-f1ea0471ac0f@hajlab.ucdavis.edu:80?path=%2Fseyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmtxmplus%3Fed%3D1024&security=none&encryption=none&host=SeyyedMTtelegramChannel.net&type=ws#🔴%20|%20vless%20|%20@Outlinev2rayNG%20|%202"
     },
     {
@@ -2776,56 +2762,56 @@
             "username": "mehrosaboran"
         },
         "type": "vless",
-        "config": "vless:\/\/ce3ed049-0534-4d7e-8ca6-bdeca954442b@fishlab.ucdavis.edu:443?path=%2F%40UnlimitedDev----%40UnlimitedDev-----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev%3Fed%3D2480&security=tls&encryption=none%3D%2F%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran&host=JOIN.unlimiteddev.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.unlimiteddev.DDNS1-IP.nEt&fp=randomized&type=ws&sni=fishlab.ucdavis.edu#🔴%20|%20vless%20|%20@mehrosaboran%20|%200"
+        "config": "vless:\/\/telegram-id-%41rV2ray@151.101.194.133:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none%3D%2F%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran&host=12.irfrn13sn.net&fp=chrome&type=ws&sni=mio.splashthat.com#🔴%20|%20vless%20|%20@mehrosaboran%20|%200"
     },
     {
         "channel": {
             "username": "mehrosaboran"
         },
         "type": "vless",
-        "config": "vless:\/\/942754d7-9ea5-4cec-8a43-253561df34bc@fishlab.ucdavis.edu:443?path=%2F%40vmessorg----%40vmessorg-----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg%3Fed%3D2480&security=tls&encryption=none%3D%2F%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran&host=JOIN.vmessorg.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.vmessorg.DDNS1-IP.nEt&type=ws&sni=fishlab.ucdavis.edu#🔴%20|%20vless%20|%20@mehrosaboran%20|%201"
+        "config": "vless:\/\/ce3ed049-0534-4d7e-8ca6-bdeca954442b@fishlab.ucdavis.edu:443?path=%2F%40UnlimitedDev----%40UnlimitedDev-----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev%3Fed%3D2480&security=tls&encryption=none%3D%2F%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran&host=JOIN.unlimiteddev.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.unlimiteddev.DDNS1-IP.nEt&fp=randomized&type=ws&sni=fishlab.ucdavis.edu#🔴%20|%20vless%20|%20@mehrosaboran%20|%201"
     },
     {
         "channel": {
             "username": "mehrosaboran"
         },
         "type": "vless",
-        "config": "vless:\/\/telegram-id-%41rV2ray@151.101.194.133:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none%3D%2F%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran&host=cdiuw108.net&fp=chrome&type=ws&sni=mio.splashthat.com#🔴%20|%20vless%20|%20@mehrosaboran%20|%202"
+        "config": "vless:\/\/942754d7-9ea5-4cec-8a43-253561df34bc@fishlab.ucdavis.edu:443?path=%2F%40vmessorg----%40vmessorg-----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg%3Fed%3D2480&security=tls&encryption=none%3D%2F%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran&host=JOIN.vmessorg.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.vmessorg.DDNS1-IP.nEt&type=ws&sni=fishlab.ucdavis.edu#🔴%20|%20vless%20|%20@mehrosaboran%20|%202"
     },
     {
         "channel": {
             "username": "mehrosaboran"
         },
         "type": "vless",
-        "config": "vless:\/\/1f8468d1-7b36-4001-b385-34318f4a602a@151.101.1.6:80?path=%2F%40UnlimitedDev----%40UnlimitedDev-----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev%3Fed%3D2480&security=none&encryption=none%3D%2F%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran&host=JOIN.unlimiteddev.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.unlimiteddev.DDNS1-IP.nEt&type=ws#🔴%20|%20vless%20|%20@mehrosaboran%20|%203"
+        "config": "vless:\/\/telegram-id-%41rV2ray@151.101.194.133:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none%3D%2F%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran&host=cdiuw108.net&fp=chrome&type=ws&sni=mio.splashthat.com#🔴%20|%20vless%20|%20@mehrosaboran%20|%203"
     },
     {
         "channel": {
             "username": "mehrosaboran"
         },
         "type": "vless",
-        "config": "vless:\/\/1054f668-7171-492d-f87a-065b08c773f6@speedtest.net:80?path=%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%3Fed%3D2048&security=&encryption=none%3D%2F%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn&host=WHALEV2R.IR&type=ws#🔴%20|%20vless%20|%20@mehrosaboran%20|%205"
+        "config": "vless:\/\/1f8468d1-7b36-4001-b385-34318f4a602a@151.101.1.6:80?path=%2F%40UnlimitedDev----%40UnlimitedDev-----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev%3Fed%3D2480&security=none&encryption=none%3D%2F%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran&host=JOIN.unlimiteddev.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.unlimiteddev.DDNS1-IP.nEt&type=ws#🔴%20|%20vless%20|%20@mehrosaboran%20|%204"
     },
     {
         "channel": {
             "username": "mehrosaboran"
         },
         "type": "vless",
-        "config": "vless:\/\/42df2fa3-a548-4ed0-8e05-6449b89e7199@fishlab.ucdavis.edu:443?path=%2F%40UnlimitedDev----%40UnlimitedDev-----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev%3Fed%3D2480&security=tls&encryption=none%3D%2F%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran&host=JOIN.unlimiteddev.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.unlimiteddev.DDNS1-IP.nEt&fp=randomized&type=ws&sni=fishlab.ucdavis.edu#🔴%20|%20vless%20|%20@mehrosaboran%20|%206"
+        "config": "vless:\/\/1054f668-7171-492d-f87a-065b08c773f6@speedtest.net:80?path=%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%3Fed%3D2048&security=&encryption=none%3D%2F%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn&host=WHALEV2R.IR&type=ws#🔴%20|%20vless%20|%20@mehrosaboran%20|%206"
     },
     {
         "channel": {
             "username": "mehrosaboran"
         },
         "type": "vless",
-        "config": "vless:\/\/ea3644c0-e810-47c8-999d-a1d6875b9095@151.101.1.6:80?path=%2F%40UnlimitedDev----%40UnlimitedDev-----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev%3Fed%3D2480&security=none%3D%2F%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran&encryption=none&host=JOIN.unlimiteddev.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.unlimiteddev.DDNS1-IP.nEt&type=ws#🔴%20|%20vless%20|%20@mehrosaboran%20|%208"
+        "config": "vless:\/\/42df2fa3-a548-4ed0-8e05-6449b89e7199@fishlab.ucdavis.edu:443?path=%2F%40UnlimitedDev----%40UnlimitedDev-----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev%3Fed%3D2480&security=tls&encryption=none%3D%2F%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran&host=JOIN.unlimiteddev.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.unlimiteddev.DDNS1-IP.nEt&fp=randomized&type=ws&sni=fishlab.ucdavis.edu#🔴%20|%20vless%20|%20@mehrosaboran%20|%207"
     },
     {
         "channel": {
             "username": "mehrosaboran"
         },
         "type": "vless",
-        "config": "vless:\/\/6edb03ea-d546-45a2-92f4-785697420fb2@Gn.fastly80-3.hosting-ip.com:80?path=%2FTelegram-Channel%3A%40Hqv2RayNG-----%40Hqv2RayNG-----%40Hqv2RayNG-----%40Hqv2RayNG-----%40Hqv2RayNG-----%40Hqv2RayNG-----%40Hqv2RayNG-----%40Hqv2RayNG-----%40Hqv2RayNG-----%40Hqv2RayNG%3Fed%3D2560&security=none&encryption=none%3D%2F%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran&host=Pofak.com&type=ws#🔴%20|%20vless%20|%20@mehrosaboran%20|%209"
+        "config": "vless:\/\/ea3644c0-e810-47c8-999d-a1d6875b9095@151.101.1.6:80?path=%2F%40UnlimitedDev----%40UnlimitedDev-----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev%3Fed%3D2480&security=none%3D%2F%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran&encryption=none&host=JOIN.unlimiteddev.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.unlimiteddev.DDNS1-IP.nEt&type=ws#🔴%20|%20vless%20|%20@mehrosaboran%20|%209"
     },
     {
         "channel": {
@@ -3029,6 +3015,13 @@
         },
         "type": "reality",
         "config": "vless:\/\/eaacb5e0-9fd8-40f7-baa7-8b5e8523646e@ssl-marz.tan3.ir:8443?mode=gun&security=reality&encryption=none&pbk=WCAji7nj8Sc6APjC3TXYDPNK5GLfo5mhxbzCVyHz2zw&fp=chrome&type=grpc&serviceName=xyz&sni=www.speedtest.net#🔴%20|%20vless%20|%20@kingofilter%20|%200"
+    },
+    {
+        "channel": {
+            "username": "kingofilter"
+        },
+        "type": "vless",
+        "config": "vless:\/\/V2RAXX@EXPRESSVPN_420.fastly80-3.hosting-ip.com:80?path=%2FTelegram%2CV2RAXX%2CTelegram%2C%3Fed%3D2048&security=none&encryption=none&host=V2RAXX.ir&type=ws#🔴%20|%20vless%20|%20@kingofilter%20|%201"
     },
     {
         "channel": {
