@@ -2299,8 +2299,8 @@
         "channel": {
             "username": "ConfigsHUB"
         },
-        "type": "vless",
-        "config": "vless:\/\/c92856da-9532-49ec-bb71-d981a623f5c9@104.21.11.28:443?security=tls&sni=freedom6.mamav81785.workers.dev&type=ws&host=freedom6.mamav81785.workers.dev&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048#🟢%20|%20vless%20|%20@ConfigsHUB%20|%200"
+        "type": "reality",
+        "config": "vless:\/\/7de0385b-8c3b-46fd-8574-1db0c061eb9a@91.134.100.48:55235?mode=gun&security=reality&encryption=none&pbk=P-dMTeNvUezXYK97e_5bCXKNOZfbTDjQepoTbRFzuDw&fp=chrome&spx=%2F&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=sourceforge.net&sid=29b94609#🔴%20|%20vless%20|%20@ConfigsHUB%20|%200"
     },
     {
         "channel": {
@@ -2313,99 +2313,71 @@
         "channel": {
             "username": "ConfigsHUB"
         },
+        "type": "reality",
+        "config": "vless:\/\/0d30dbbd-442b-4522-a098-7e3b9117d83f@141.227.136.32:38818?mode=gun&security=reality&encryption=none&pbk=3uG4qqXt1YcoCdfVxisTqXFhVF4HwBhpVKEoFz8jsz4&fp=chrome&spx=%2F&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=sourceforge.net&sid=ae4ab95b#🔴%20|%20vless%20|%20@ConfigsHUB%20|%202"
+    },
+    {
+        "channel": {
+            "username": "ConfigsHUB"
+        },
         "type": "vless",
-        "config": "vless:\/\/TELEGRAM-NUFiLTER@DailyConfigs.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=Germany2.vip-nufilter.coM&type=ws#🔴%20|%20vless%20|%20@ConfigsHUB%20|%203"
+        "config": "vless:\/\/4334573e-15b8-4376-94cf-a8aa0ce722b3@178.239.144.176:2015?type=tcp&headerType=http&host=fast.com&path=%2F%3Fed%3D1024%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn&security=none#🔴%20|%20vless%20|%20@ConfigsHUB%20|%203"
+    },
+    {
+        "channel": {
+            "username": "ConfigsHUB"
+        },
+        "type": "vless",
+        "config": "vless:\/\/8b43abce-8170-432c-9d85-cc93807aa098@TLS.zeoaeriedo-saioesrio.ir:2000?type=grpc&serviceName=%2F%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray&authority=&security=none#🔴%20|%20vless%20|%20@ConfigsHUB%20|%204"
+    },
+    {
+        "channel": {
+            "username": "ConfigsHUB"
+        },
+        "type": "vless",
+        "config": "vless:\/\/42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.1.103:80?path=%2F%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=none&encryption=none&host=edge.validbv3528.ir&type=ws#🔴%20|%20vless%20|%20@ConfigsHUB%20|%205"
+    },
+    {
+        "channel": {
+            "username": "ConfigsHUB"
+        },
+        "type": "vless",
+        "config": "vless:\/\/42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.0:80?path=%2F%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=none&encryption=none&host=edge.validbv3528.ir&type=ws#🔴%20|%20vless%20|%20@ConfigsHUB%20|%206"
     },
     {
         "channel": {
             "username": "ConfigsHUB"
         },
         "type": "reality",
-        "config": "vless:\/\/7de0385b-8c3b-46fd-8574-1db0c061eb9a@91.134.100.48:55235?mode=gun&security=reality&encryption=none&pbk=P-dMTeNvUezXYK97e_5bCXKNOZfbTDjQepoTbRFzuDw&fp=chrome&spx=%2F&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=sourceforge.net&sid=29b94609#🔴%20|%20vless%20|%20@ConfigsHUB%20|%204"
+        "config": "vless:\/\/1051bfbb-90db-4261-b5e4-8b91f62b436f@156.67.30.77:443?security=reality&alpn=http%2F1.1&encryption=none&pbk=SDUAmbkyV3wQEEXwV9wpwTqS2qi7gOekiZNpS1jfcXc&headerType=none&fp=chrome&spx=%2F%40MARAMBASHI&type=tcp&flow=xtls-rprx-vision&sni=spotify.com&sid=d59cd3#🟢%20|%20vless%20|%20@ConfigsHUB%20|%207"
     },
     {
         "channel": {
             "username": "ConfigsHUB"
         },
         "type": "vless",
-        "config": "vless:\/\/0e392377-0c08-45c8-a6ab-820e8ae7c65e@151.101.120.121:80?path=%40vmessorg----%40vmessorg-----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg%3Fed%3D2480&security=none&encryption=none&host=JOIN.vmessorg.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.vmessorg.DDNS1-IP.nEt&type=ws#🔴%20|%20vless%20|%20@ConfigsHUB%20|%205"
+        "config": "vless:\/\/4fe2025a-29f1-5c7e-ac64-c9b777de11e6@speedtest.net:80?path=%2Fvless%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=&encryption=none&host=speedtest.net.ftp.debian.org.1.2.3.a.b.c.netspeedtest.net.caw2.baldh.ir&type=ws#🔴%20|%20vless%20|%20@ConfigsHUB%20|%208"
     },
     {
         "channel": {
             "username": "ConfigsHUB"
         },
         "type": "vless",
-        "config": "vless:\/\/TELEGRAM-NUFiLTER@DailyConfigs.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=6.fidsxss7x.ir&type=ws#🔴%20|%20vless%20|%20@ConfigsHUB%20|%207"
+        "config": "vless:\/\/4d8426b2-0af1-4eb5-a231-b62152d7b9b9@cloud.xmsvx.com:443?path=%2FTorVipxyy%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=aft.vc&fp=chrome&type=ws&sni=live.989bull.com#🔴%20|%20vless%20|%20@ConfigsHUB%20|%209"
     },
     {
         "channel": {
             "username": "ConfigsHUB"
         },
         "type": "reality",
-        "config": "vless:\/\/0d30dbbd-442b-4522-a098-7e3b9117d83f@141.227.136.32:38818?mode=gun&security=reality&encryption=none&pbk=3uG4qqXt1YcoCdfVxisTqXFhVF4HwBhpVKEoFz8jsz4&fp=chrome&spx=%2F&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=sourceforge.net&sid=ae4ab95b#🔴%20|%20vless%20|%20@ConfigsHUB%20|%208"
+        "config": "vless:\/\/ItsLegendaryking@www.zooboming.com:443?type=xhttp&path=telegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers&host=&mode=auto&security=reality&pbk=oQXqXPs9tn_BwNCiG0cE62WnG3EeWcz5-7E7U9V4LF4&fp=chrome&sni=docker.com&spx=%2F#🔴%20|%20vless%20|%20@ConfigsHUB%20|%2010"
     },
     {
         "channel": {
             "username": "ConfigsHUB"
         },
         "type": "vless",
-        "config": "vless:\/\/4334573e-15b8-4376-94cf-a8aa0ce722b3@178.239.144.176:2015?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🔴%20|%20vless%20|%20@ConfigsHUB%20|%209"
-    },
-    {
-        "channel": {
-            "username": "ConfigsHUB"
-        },
-        "type": "vless",
-        "config": "vless:\/\/8b43abce-8170-432c-9d85-cc93807aa098@TLS.zeoaeriedo-saioesrio.ir:2000?type=grpc&serviceName=%2F%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray&authority=&security=none#🔴%20|%20vless%20|%20@ConfigsHUB%20|%2010"
-    },
-    {
-        "channel": {
-            "username": "ConfigsHUB"
-        },
-        "type": "reality",
-        "config": "vless:\/\/648b969a-4046-4f3b-b456-345fe1c1c9ea@ns6.esfahansiman.com:2030?mode=gun&security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&fp=chrome&type=grpc&serviceName=%40%40jet_config-%40jet_config-%40jet_config&sni=refersion.com&sid=7fe29733#🔴%20|%20vless%20|%20@ConfigsHUB%20|%2011"
-    },
-    {
-        "channel": {
-            "username": "ConfigsHUB"
-        },
-        "type": "vless",
-        "config": "vless:\/\/42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.1.103:80?path=%2F%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=none&encryption=none&host=edge.validbv3528.ir&type=ws#🔴%20|%20vless%20|%20@ConfigsHUB%20|%2012"
-    },
-    {
-        "channel": {
-            "username": "ConfigsHUB"
-        },
-        "type": "vless",
-        "config": "vless:\/\/42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.0:80?path=%2F%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=none&encryption=none&host=edge.validbv3528.ir&type=ws#🔴%20|%20vless%20|%20@ConfigsHUB%20|%2013"
-    },
-    {
-        "channel": {
-            "username": "ConfigsHUB"
-        },
-        "type": "reality",
-        "config": "vless:\/\/1051bfbb-90db-4261-b5e4-8b91f62b436f@156.67.30.77:443?security=reality&alpn=http%2F1.1&encryption=none&pbk=SDUAmbkyV3wQEEXwV9wpwTqS2qi7gOekiZNpS1jfcXc&headerType=none&fp=chrome&spx=%2F%40MARAMBASHI&type=tcp&flow=xtls-rprx-vision&sni=spotify.com&sid=d59cd3#🟢%20|%20vless%20|%20@ConfigsHUB%20|%2014"
-    },
-    {
-        "channel": {
-            "username": "ConfigsHUB"
-        },
-        "type": "vless",
-        "config": "vless:\/\/4fe2025a-29f1-5c7e-ac64-c9b777de11e6@speedtest.net:80?path=%2Fvless%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=&encryption=none&host=speedtest.net.ftp.debian.org.1.2.3.a.b.c.netspeedtest.net.caw2.baldh.ir&type=ws#🔴%20|%20vless%20|%20@ConfigsHUB%20|%2015"
-    },
-    {
-        "channel": {
-            "username": "ConfigsHUB"
-        },
-        "type": "vless",
-        "config": "vless:\/\/4d8426b2-0af1-4eb5-a231-b62152d7b9b9@cloud.xmsvx.com:443?path=%2FTorVipxyy%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=aft.vc&fp=chrome&type=ws&sni=live.989bull.com#🔴%20|%20vless%20|%20@ConfigsHUB%20|%2016"
-    },
-    {
-        "channel": {
-            "username": "ConfigsHUB"
-        },
-        "type": "reality",
-        "config": "vless:\/\/c39d34d1-8723-42fd-a63d-1c857c76249a@80.240.112.94:443?encryption=none&security=reality&sni=www.google.com&fp=chrome&pbk=mD8V76JrLVJQrQXtyNVgcqwptE9PzcF8nEJe3MyhTDY&sid=f0db85b11110c6&spx=%2Fsearch%3Fq%3Dnews&allowInsecure=1&type=tcp&headerType=none&host=v2line.t.me#🔴%20|%20vless%20|%20@ConfigsHUB%20|%2017"
+        "config": "vless:\/\/telegram-id-ArV2ray@151.101.194.133:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=12.irfrn15sn.net&fp=chrome&type=ws&sni=mio.splashthat.com#🔴%20|%20vless%20|%20@ConfigsHUB%20|%2015"
     },
     {
         "channel": {
@@ -2490,6 +2462,13 @@
         },
         "type": "vless",
         "config": "vless:\/\/04c924c7-551e-4c67-b3fa-9cca9e8cdc78@pscresearch.faculty.ucdavis.edu:443?path=ws%2F%3Fed%3D2048&security=tls&encryption=none&host=ihrcxextyuj.com&type=ws&sni=pscresearch.faculty.ucdavis.edu#🔴%20|%20vless%20|%20@free1_vpn%20|%209"
+    },
+    {
+        "channel": {
+            "username": "Hope_Net"
+        },
+        "type": "vless",
+        "config": "vless:\/\/c92856da-9532-49ec-bb71-d981a623f5c9@104.21.11.28:443?security=tls&sni=freedom6.mamav81785.workers.dev&type=ws&host=freedom6.mamav81785.workers.dev&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048#🟢%20|%20vless%20|%20@Hope_Net%20|%200"
     },
     {
         "channel": {
@@ -3008,6 +2987,20 @@
         },
         "type": "reality",
         "config": "vless:\/\/4c6451ba-6594-4d67-a8ae-4df79815a4e3@public.alpanel.top:1403?mode=gun&security=reality&encryption=none&pbk=rCdor1DLbQcXbNBD9aiLIoCYHwqTMh8ao9MIPMXo0yA&fp=chrome&spx=%2F&type=grpc&serviceName=%40vmesskhodam%2C%40vmesskhodam%2C%40vmesskhodam%2C%40vmesskhodam%2C%40vmesskhodam&sni=tuyacn.com&sid=99#🔴%20|%20vless%20|%20@vpn_go67%20|%2021"
+    },
+    {
+        "channel": {
+            "username": "kingofilter"
+        },
+        "type": "vless",
+        "config": "vless:\/\/4334573e-15b8-4376-94cf-a8aa0ce722b3@178.239.144.176:2015?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🔴%20|%20vless%20|%20@kingofilter%20|%200"
+    },
+    {
+        "channel": {
+            "username": "kingofilter"
+        },
+        "type": "reality",
+        "config": "vless:\/\/648b969a-4046-4f3b-b456-345fe1c1c9ea@ns6.esfahansiman.com:2030?mode=gun&security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&fp=chrome&type=grpc&serviceName=%40%40jet_config-%40jet_config-%40jet_config&sni=refersion.com&sid=7fe29733#🔴%20|%20vless%20|%20@kingofilter%20|%201"
     },
     {
         "channel": {
