@@ -2251,105 +2251,112 @@
             "username": "ConfigsHUB"
         },
         "type": "reality",
-        "config": "vless:\/\/83312918-9077-4ab5-95df-2974ff77e7aa@91.134.61.145:2087?security=reality&sni=sourceforge.net&type=tcp&fp=chrome&pbk=p7D1-djJiLWoHcOpkhwz1BqAxoN6OwTwfFFDAzp9nBs&sid=d1d37795627fd805#🟢%20|%20vless%20|%20@ConfigsHUB%20|%200"
+        "config": "vless:\/\/ffe06cc2-2d2e-d5b2-4d34-fc6e8fb334ba@188.245.220.62:5052?type=grpc&mode=gun&serviceName=666vless&authority=%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn&security=reality&fp=chrome&sni=stackoverflow.com&pbk=FLIrozF9a1skg-PFqlw1iZ4lJZHA46uu7dBPNxYiUgc&sid=12a9d573ec6d2978#🔴%20|%20vless%20|%20@ConfigsHUB%20|%200"
     },
     {
         "channel": {
             "username": "ConfigsHUB"
         },
         "type": "vless",
-        "config": "vless:\/\/aa4f5b15-cc52-4ff7-988e-69da1d3c3f31@188.245.215.91:443?type=ws&host=4h3.ghalikermaniz.info&path=%2F#🔴%20|%20vless%20|%20@ConfigsHUB%20|%201"
+        "config": "vless:\/\/8b43abce-8170-432c-9d85-cc93807aa098@TLS.zeoaeriedo-saioesrio.ir:2000?type=grpc&serviceName=%2F%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray&authority=&security=none#🔴%20|%20vless%20|%20@ConfigsHUB%20|%201"
     },
     {
         "channel": {
             "username": "ConfigsHUB"
         },
         "type": "vless",
-        "config": "vless:\/\/4c21cfa8-eace-4223-9b91-71660b0678bd@151.101.66.219:80?security=none&type=ws&host=WHALEV2R.IR&path=%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%3Fed%3D2048#🔴%20|%20vless%20|%20@ConfigsHUB%20|%202"
-    },
-    {
-        "channel": {
-            "username": "ConfigsHUB"
-        },
-        "type": "trojan",
-        "config": "trojan:\/\/telegram-id-privatevpns@51.21.72.189:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#🔴%20|%20trojan%20|%20@ConfigsHUB%20|%203"
+        "config": "vless:\/\/aa4f5b15-cc52-4ff7-988e-69da1d3c3f31@4h5.ghalikermaniz.info:443?path=%2F&security=none&encryption=none&host=4h5.ghalikermaniz.info&type=ws#🔴%20|%20vless%20|%20@ConfigsHUB%20|%203"
     },
     {
         "channel": {
             "username": "ConfigsHUB"
         },
         "type": "vless",
-        "config": "vless:\/\/0dd0eb4d-3e36-44e5-aafe-4b819ae6f3f9@151.101.2.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v03.feadlenetworkv2sa.net&path=%2F#🔴%20|%20vless%20|%20@ConfigsHUB%20|%204"
+        "config": "vless:\/\/07ba7aaf-f180-413d-9e62-fded2788e9ce@95.216.137.32:443?path=%2F&security=none&encryption=none&host=95.216.137.32&type=ws#🔴%20|%20vless%20|%20@ConfigsHUB%20|%204"
     },
     {
         "channel": {
             "username": "ConfigsHUB"
         },
         "type": "vless",
-        "config": "vless:\/\/def1ac39-8ede-4646-a2af-abf29a6d2bf2@212.80.29.231:33585?security=none&type=tcp&host=chess.com&path=%2F&headerType=http#🔴%20|%20vless%20|%20@ConfigsHUB%20|%205"
-    },
-    {
-        "channel": {
-            "username": "ConfigsHUB"
-        },
-        "type": "vless",
-        "config": "vless:\/\/aa4f5b15-cc52-4ff7-988e-69da1d3c3f31@188.245.242.126:443?type=ws&host=4h5.ghalikermaniz.info&path=%2F#🔴%20|%20vless%20|%20@ConfigsHUB%20|%206"
-    },
-    {
-        "channel": {
-            "username": "ConfigsHUB"
-        },
-        "type": "vless",
-        "config": "vless:\/\/b7247204-ff9b-4f1e-ab60-e5a554f5e1ba@151.101.66.228:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&host=joinshhproxybedeeeee.ir&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048#🟢%20|%20vless%20|%20@ConfigsHUB%20|%207"
-    },
-    {
-        "channel": {
-            "username": "ConfigsHUB"
-        },
-        "type": "vless",
-        "config": "vless:\/\/8b43abce-8170-432c-9d85-cc93807aa098@TLS.zeoaeriedo-saioesrio.ir:2000?type=grpc&serviceName=%2F%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray&authority=&security=none#🔴%20|%20vless%20|%20@ConfigsHUB%20|%208"
+        "config": "vless:\/\/95089f63-c732-4594-bfcb-c8180bd09a1c@5h4.golabkashaniz.info:443?path=%2F&security=none&encryption=none&host=5h4.golabkashaniz.info&type=ws#🔴%20|%20vless%20|%20@ConfigsHUB%20|%205"
     },
     {
         "channel": {
             "username": "ConfigsHUB"
         },
         "type": "reality",
-        "config": "vless:\/\/ffe06cc2-2d2e-d5b2-4d34-fc6e8fb334ba@188.245.220.62:5052?type=grpc&mode=gun&serviceName=666vless&authority=%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn&security=reality&fp=chrome&sni=stackoverflow.com&pbk=FLIrozF9a1skg-PFqlw1iZ4lJZHA46uu7dBPNxYiUgc&sid=12a9d573ec6d2978#🔴%20|%20vless%20|%20@ConfigsHUB%20|%209"
-    },
-    {
-        "channel": {
-            "username": "ConfigsHUB"
-        },
-        "type": "reality",
-        "config": "vless:\/\/8bca284c-d2f2-4367-999c-5f490a872c2d@37.27.15.167:2052?security=reality&sni=sourceforge.net&type=grpc&serviceName=t.me%2FentryNET&fp=chrome&pbk=BamXEb50W1rXENIC96WfSvMiFGE7hnbu_GcXkBv-8H8&sid=4156caa9#🟢%20|%20vless%20|%20@ConfigsHUB%20|%2015"
-    },
-    {
-        "channel": {
-            "username": "ConfigsHUB"
-        },
-        "type": "reality",
-        "config": "vless:\/\/8bca284c-d2f2-4367-999c-5f490a872c2d@37.27.3.97:2052?security=reality&sni=wordpress.org&type=grpc&serviceName=2052vless&fp=chrome&pbk=BamXEb50W1rXENIC96WfSvMiFGE7hnbu_GcXkBv-8H8&sid=4156caa9#🟢%20|%20vless%20|%20@ConfigsHUB%20|%2016"
-    },
-    {
-        "channel": {
-            "username": "ConfigsHUB"
-        },
-        "type": "reality",
-        "config": "vless:\/\/8ebec509-70af-49e8-a668-0944563b112d@65.109.183.7:443?security=reality&flow=xtls-rprx-vision&sni=dl.google.com&type=tcp&fp=chrome&pbk=hNnsC90sJIWdsw6SZ_iYYXRfOBaQCCYo-b_tTdHtsGY&sid=8a08c105#🟢%20|%20vless%20|%20@ConfigsHUB%20|%2017"
-    },
-    {
-        "channel": {
-            "username": "ConfigsHUB"
-        },
-        "type": "trojan",
-        "config": "trojan:\/\/SSorg@104.19.107.190:2096?allowInsecure=0&sni=sstjj.esslh.filegear-sg.me#🔴%20|%20trojan%20|%20@ConfigsHUB%20|%2018"
+        "config": "vless:\/\/Telegram%40v2rayng_vpnn@49.12.106.37:55822?security=reality&encryption=none&pbk=swrGFiH1GGLp80EgD_iDAuyb701VeVirfXCbI_5cinw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mmd.10.isovpn.shop#🟢%20|%20vless%20|%20@ConfigsHUB%20|%206"
     },
     {
         "channel": {
             "username": "ConfigsHUB"
         },
         "type": "vless",
-        "config": "vless:\/\/4d8426b2-0af1-4eb5-a231-b62152d7b9b9@151.101.192.155:80?sni=afc.fi&type=ws&host=afc.fi&allowInsecure=0#🔴%20|%20vless%20|%20@ConfigsHUB%20|%2019"
+        "config": "vless:\/\/aa4f5b15-cc52-4ff7-988e-69da1d3c3f31@4h3.ghalikermaniz.info:443?path=%2F&security=none&encryption=none&host=4h3.ghalikermaniz.info&type=ws#🔴%20|%20vless%20|%20@ConfigsHUB%20|%207"
+    },
+    {
+        "channel": {
+            "username": "ConfigsHUB"
+        },
+        "type": "vless",
+        "config": "vless:\/\/07ba7aaf-f180-413d-9e62-fded2788e9ce@65.108.87.97:443?path=%2F&security=none&encryption=none&host=65.108.87.97&type=ws#🔴%20|%20vless%20|%20@ConfigsHUB%20|%208"
+    },
+    {
+        "channel": {
+            "username": "ConfigsHUB"
+        },
+        "type": "vless",
+        "config": "vless:\/\/TELEGRAM-NUFiLTER@NUFiLTER.fastly80.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=Pizza-nufilter.com&type=ws#🔴%20|%20vless%20|%20@ConfigsHUB%20|%209"
+    },
+    {
+        "channel": {
+            "username": "ConfigsHUB"
+        },
+        "type": "vless",
+        "config": "vless:\/\/95089f63-c732-4594-bfcb-c8180bd09a1c@65.109.238.202:443?path=%2F&security=none&encryption=none&host=65.109.238.202&type=ws#🔴%20|%20vless%20|%20@ConfigsHUB%20|%2010"
+    },
+    {
+        "channel": {
+            "username": "ConfigsHUB"
+        },
+        "type": "vless",
+        "config": "vless:\/\/aa4f5b15-cc52-4ff7-988e-69da1d3c3f31@4h2.ghalikermaniz.info:443?path=%2F&security=none&encryption=none&host=4h2.ghalikermaniz.info&type=ws#🔴%20|%20vless%20|%20@ConfigsHUB%20|%2011"
+    },
+    {
+        "channel": {
+            "username": "ConfigsHUB"
+        },
+        "type": "vless",
+        "config": "vless:\/\/8185cea6-0540-4f23-9182-b608d22dc620@185.146.173.185:2052?path=Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-&security=none&encryption=none&host=drctfgvgvgctv.bbdbd-mahdi-irancel-ir-ir-ir-ir.BLOG&type=httpupgrade#🔴%20|%20vless%20|%20@ConfigsHUB%20|%2013"
+    },
+    {
+        "channel": {
+            "username": "ConfigsHUB"
+        },
+        "type": "vless",
+        "config": "vless:\/\/TELEGRAM-NUFiLTER@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=Pizza-nufilter.com&type=ws#🔴%20|%20vless%20|%20@ConfigsHUB%20|%2014"
+    },
+    {
+        "channel": {
+            "username": "ConfigsHUB"
+        },
+        "type": "vless",
+        "config": "vless:\/\/aa4f5b15-cc52-4ff7-988e-69da1d3c3f31@4h4.ghalikermaniz.info:443?path=%2F&security=none&encryption=none&host=4h4.ghalikermaniz.info&type=ws#🔴%20|%20vless%20|%20@ConfigsHUB%20|%2015"
+    },
+    {
+        "channel": {
+            "username": "ConfigsHUB"
+        },
+        "type": "vless",
+        "config": "vless:\/\/07ba7aaf-f180-413d-9e62-fded2788e9ce@168.119.101.219:443?path=%2F&security=none&encryption=none&host=168.119.101.219&type=ws#🔴%20|%20vless%20|%20@ConfigsHUB%20|%2016"
+    },
+    {
+        "channel": {
+            "username": "ConfigsHUB"
+        },
+        "type": "vless",
+        "config": "vless:\/\/tell--ZEDMODEON@141.227.132.158:10056?security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON#🔴%20|%20vless%20|%20@ConfigsHUB%20|%2017"
     },
     {
         "channel": {
@@ -2448,6 +2455,20 @@
         },
         "type": "vless",
         "config": "vless:\/\/04c924c7-551e-4c67-b3fa-9cca9e8cdc78@pscresearch.faculty.ucdavis.edu:443?path=ws%2F%3Fed%3D2048&security=tls&encryption=none&host=ihrcxextyuj.com&type=ws&sni=pscresearch.faculty.ucdavis.edu#🔴%20|%20vless%20|%20@free1_vpn%20|%209"
+    },
+    {
+        "channel": {
+            "username": "Hope_Net"
+        },
+        "type": "vless",
+        "config": "vless:\/\/aa4f5b15-cc52-4ff7-988e-69da1d3c3f31@188.245.242.126:443?type=ws&host=4h5.ghalikermaniz.info&path=%2F#🔴%20|%20vless%20|%20@Hope_Net%20|%200"
+    },
+    {
+        "channel": {
+            "username": "Hope_Net"
+        },
+        "type": "vless",
+        "config": "vless:\/\/b7247204-ff9b-4f1e-ab60-e5a554f5e1ba@151.101.66.228:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&host=joinshhproxybedeeeee.ir&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048#🟢%20|%20vless%20|%20@Hope_Net%20|%201"
     },
     {
         "channel": {
@@ -2595,13 +2616,6 @@
         },
         "type": "vless",
         "config": "vless:\/\/47dad2b2-00c5-4263-a9d8-911c0739d0cd@162.159.138.178:8080?type=httpupgrade&path=%2F%3Fed%3D8080&host=2sedkfjeuixijd0ew9d3.2sedkfjeuixijd0ew9dvkcxoisiek11.blog&security=none#🔴%20|%20vless%20|%20@fnet00%20|%204"
-    },
-    {
-        "channel": {
-            "username": "Outlinev2rayNG"
-        },
-        "type": "vless",
-        "config": "vless:\/\/07ba7aaf-f180-413d-9e62-fded2788e9ce@168.119.101.219:443?path=%2F&security=none&encryption=none&host=168.119.101.219&type=ws#🔴%20|%20vless%20|%20@Outlinev2rayNG%20|%200"
     },
     {
         "channel": {
