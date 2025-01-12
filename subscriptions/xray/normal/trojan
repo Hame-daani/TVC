@@ -45,8 +45,9 @@ trojan://telegram-id-directvpn@54.77.137.127:22222?security=tls&alpn=http%2F1.1&
 trojan://telegram-id-directvpn@34.253.153.48:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@DirectVPN%20|%2018
 trojan://bpb-trojan@www.vpslook.com:443?path=%2Ftr%3Fed%3D2560&security=tls&alpn=h3&host=bpb-hd.aaronchin.xyz&fp=randomized&type=ws&sni=bpb-hd.aaronchin.xyz#🔴%20|%20trojan%20|%20@vless_vmess%20|%205
 trojan://bpb-trojan@141.101.113.119:443?path=%2Ftr%3Fed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#🔴%20|%20trojan%20|%20@vless_vmess%20|%2015
+trojan://17adf500-d0a0-11ef-9dfb-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp&sni=www.google.com#🟢%20|%20trojan%20|%20@ConfigsHUB%20|%2014
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#🔴%20|%20trojan%20|%20@yaney_01%20|%200
-trojan://SSorg@47.238.136.235:443?allowInsecure=1&sni=sstjj.esslh.filegear-sg.me#🔴%20|%20trojan%20|%20@Hope_Net%20|%205
-trojan://243eab52-9ac1-405c-887c-eb112c0985b8@sg02.trojanyyds.xyz:443?allowInsecure=1#🔴%20|%20trojan%20|%20@Hope_Net%20|%207
-trojan://243eab52-9ac1-405c-887c-eb112c0985b8@us01.trojanyyds.xyz:443?allowInsecure=0&sni=us01.trojanyyds.xyz#🔴%20|%20trojan%20|%20@Hope_Net%20|%2012
-trojan://SSorg@206.238.236.134:443?allowInsecure=0&sni=sstjj.esslh.filegear-sg.me&ws=1&wspath=%2F#🔴%20|%20trojan%20|%20@Hope_Net%20|%2014
+trojan://SSorg@47.238.136.235:443?allowInsecure=1&sni=sstjj.esslh.filegear-sg.me#🔴%20|%20trojan%20|%20@Hope_Net%20|%207
+trojan://243eab52-9ac1-405c-887c-eb112c0985b8@sg02.trojanyyds.xyz:443?allowInsecure=1#🔴%20|%20trojan%20|%20@Hope_Net%20|%209
+trojan://243eab52-9ac1-405c-887c-eb112c0985b8@us01.trojanyyds.xyz:443?allowInsecure=0&sni=us01.trojanyyds.xyz#🔴%20|%20trojan%20|%20@Hope_Net%20|%2014
+trojan://SSorg@206.238.236.134:443?allowInsecure=0&sni=sstjj.esslh.filegear-sg.me&ws=1&wspath=%2F#🔴%20|%20trojan%20|%20@Hope_Net%20|%2016
