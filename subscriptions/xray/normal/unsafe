@@ -129,9 +129,8 @@ vless://95089f63-c732-4594-bfcb-c8180bd09a1c@65.108.55.177:443?path=%2F&security
 vless://07ba7aaf-f180-413d-9e62-fded2788e9ce@95.216.137.32:443?path=%2F&security=none&encryption=none&host=95.216.137.32&type=ws#🔴%20|%20vless%20|%20@VmessProtocol%20|%206
 vless://07ba7aaf-f180-413d-9e62-fded2788e9ce@65.108.87.97:443?path=%2F&security=none&encryption=none&host=65.108.87.97&type=ws#🔴%20|%20vless%20|%20@VmessProtocol%20|%207
 vless://07ba7aaf-f180-413d-9e62-fded2788e9ce@168.119.101.219:443?path=%2F&security=none&encryption=none&host=168.119.101.219&type=ws#🔴%20|%20vless%20|%20@VmessProtocol%20|%208
-vless://aabd99de-5040-4930-b7bb-96c49a7e0937@209.250.233.161:8080?type=ws&security=none&path=%2F#🔴%20|%20vless%20|%20@DailyV2RY%20|%20280
-vless://8ab8a755-97db-4687-a5c1-93bf004004c2@v01.kermanloop.ir:2053?security=none&type=tcp&headerType=http&path=%2F&host=fast.com#🔴%20|%20vless%20|%20@DailyV2RY%20|%20292
-vless://61fb4517-5141-493a-e392-66eb07a7cc1d@70.34.244.241:8080?type=ws&security=none&path=%2F#🔴%20|%20vless%20|%20@DailyV2RY%20|%20293
+vless://617d5079-9fae-494a-98ca-90da9e10cd70@68.183.159.22:80?encryption=none&security=none&sni=&type=ws&alpn=&host=arvancloud.com&path=%2F%3Fed%3D2048#🔴%20|%20vless%20|%20@DailyV2RY%20|%20290
+vless://61560ad9-d553-4bb6-c169-dd1755abab01@199.247.29.45:8080?type=ws&security=none&path=%2F#🔴%20|%20vless%20|%20@DailyV2RY%20|%20291
 vmess://eyJhZGQiOiJoYW5pLm1ncGluZ21nLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNDRhY2M4MDYtNjcxZi00YWRiLWJiZjgtMjM0Yjc1YTg1MTFlIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0IjoiNTQ3OTYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIiwicHMiOiJcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEBwcm94eXN0b3JlMTEgfCAwIn0=
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#🔴%20|%20trojan%20|%20@yaney_01%20|%200
 vmess://eyJhZGQiOiJhZG1pbi5hcnpvbmhvc3QuaXIiLCJ2IjoyLCJwb3J0IjoiMjA4NiIsImlkIjoiN2Q5M2U5OTItNDhjZi00MmQ0LTg0ZjgtNzU3NjhlODE1YTRjIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiYWRtaW4uYXJ6b25ob3N0LmlyIiwidGxzIjoiIiwicGF0aCI6IlwvIiwicHMiOiJcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEB5YW5leV8wMSB8IDMifQ==
