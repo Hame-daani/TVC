@@ -1989,13 +1989,6 @@
     },
     {
         "channel": {
-            "username": "v2ray1_ng"
-        },
-        "type": "reality",
-        "config": "vless:\/\/dda6dc2f-fba7-424b-8413-adfe056c1de1@188.245.240.68:2083?security=reality&encryption=none&pbk=hwKuMbkMN0NuBzsoBMDh6VRlWDv7UBXyw6-1MUlFAms&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=e0f1ce196ee5#🟢%20|%20vless%20|%20@v2ray1_ng%20|%2013"
-    },
-    {
-        "channel": {
             "username": "vless_vmess"
         },
         "type": "vless",
