@@ -2251,7 +2251,7 @@
             "username": ""
         },
         "type": "vless",
-        "config": "vless:\/\/#TVCjnsdgebwhi"
+        "config": "vless:\/\/#TVCxsjpipoxxe"
     },
     {
         "channel": {
@@ -3090,7 +3090,14 @@
         "channel": {
             "username": "OpenSSTPVpn"
         },
+        "type": "reality",
+        "config": "vless:\/\/c9703128-32c6-42bc-b5c4-0f3648677092@uk.ukrageshark.shop:443?mode=auto&path=%2F%40OpenSSTPVpn+%40OpenSSTPVpn%40OpenSSTPVpn%40OpenSSTPVpn&security=reality&encryption=none&pbk=XmSWsVgjF1VqwgOa0BUfo3dMK5TFDgr_pm5LsX142hM&fp=chrome&spx=%2F&type=xhttp&sni=docker.com&sid=3a6d309636636a#🔴%20|%20vless%20|%20@OpenSSTPVpn%20|%200"
+    },
+    {
+        "channel": {
+            "username": "OpenSSTPVpn"
+        },
         "type": "vless",
-        "config": "vless:\/\/225a19c0-2f15-4de7-9658-5ffcff656aac@uk.ukrageshark.shop:16383?type=tcp&path=%2F%40OpenSSTPVpn%40OpenSSTPVpn%40OpenSSTPVpn%40OpenSSTPVpn%40OpenSSTPVpn%40OpenSSTPVpn&headerType=http&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=speedtest.net#🔴%20|%20vless%20|%20@OpenSSTPVpn%20|%200"
+        "config": "vless:\/\/225a19c0-2f15-4de7-9658-5ffcff656aac@uk.ukrageshark.shop:16383?type=tcp&path=%2F%40OpenSSTPVpn%40OpenSSTPVpn%40OpenSSTPVpn%40OpenSSTPVpn%40OpenSSTPVpn%40OpenSSTPVpn&headerType=http&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=speedtest.net#🔴%20|%20vless%20|%20@OpenSSTPVpn%20|%201"
     }
 ]
