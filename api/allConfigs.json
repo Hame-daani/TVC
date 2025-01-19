@@ -1940,13 +1940,6 @@
     },
     {
         "channel": {
-            "username": "v2ray1_ng"
-        },
-        "type": "vless",
-        "config": "vless:\/\/f57fd500-ed58-43c9-984c-685fc25a369d@108.61.99.185:8080?path=%2F&security=none&encryption=none&type=ws#🔴%20|%20vless%20|%20@v2ray1_ng%20|%2014"
-    },
-    {
-        "channel": {
             "username": "vless_vmess"
         },
         "type": "vless",
@@ -2462,6 +2455,13 @@
         },
         "type": "vless",
         "config": "vless:\/\/SVNTEAM@151.101.194.133:80?path=%2FSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%3Fed%3D8880&security=none&encryption=none&host=SvnTeam.ir&type=ws#🔴%20|%20vless%20|%20@free1_vpn%20|%2013"
+    },
+    {
+        "channel": {
+            "username": "free1_vpn"
+        },
+        "type": "vless",
+        "config": "vless:\/\/f57fd500-ed58-43c9-984c-685fc25a369d@108.61.99.185:8080?path=%2F&security=none&encryption=none&type=ws#🔴%20|%20vless%20|%20@free1_vpn%20|%2016"
     },
     {
         "channel": {
