@@ -2864,13 +2864,6 @@
     },
     {
         "channel": {
-            "username": "nofiltering2"
-        },
-        "type": "reality",
-        "config": "vless:\/\/219ee52a-0e91-4f36-93a5-3e28a4830a7a@45.95.233.11:8443?security=reality&encryption=none&pbk=os2QbCQyqdqE4vr-vVWTQMBiqxFXEDSLhMncRy5RIwg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=bunny.net&sid=f8d8d12585198cb5#🟢%20|%20vless%20|%20@nofiltering2%20|%2010"
-    },
-    {
-        "channel": {
             "username": "proxy_mtm"
         },
         "type": "reality",
@@ -3147,7 +3140,7 @@
             "username": ""
         },
         "type": "vless",
-        "config": "vless:\/\/#TVCnbotuuyofd"
+        "config": "vless:\/\/#TVCyxgzvieduz"
     },
     {
         "channel": {
