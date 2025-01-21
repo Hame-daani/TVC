@@ -1835,13 +1835,6 @@
     },
     {
         "channel": {
-            "username": "V2rayng_Fast"
-        },
-        "type": "vless",
-        "config": "vless:\/\/Parsashonam-149@[2a01:4f8:1c1b:26eb::1]:8888?security=none&encryption=none&headerType=none&type=tcp#🔴%20|%20vless%20|%20@V2rayng_Fast%20|%2011"
-    },
-    {
-        "channel": {
             "username": "v2ray_swhil"
         },
         "type": "vless",
@@ -3021,7 +3014,14 @@
             "username": "proxy_mtm"
         },
         "type": "reality",
-        "config": "vless:\/\/Telegram-proxy_mtm@mehdi.vact.ir:2083?mode=gun&security=reality&encryption=none&pbk=CWXxQcl33vnJNew9-YGs21-uKGs5oWdLn_R705IVoiE&fp=randomized&spx=%2F&type=grpc&serviceName=Proxy_mtm-Channel-Proxy_mtm-Channel-Proxy_mtm-Channel-Proxy_mtm-Channel-Proxy_mtm-Channel-Proxy_mtm&sni=refersion.com&sid=e946a4502f73d6f2#🔴%20|%20vless%20|%20@proxy_mtm%20|%200"
+        "config": "vless:\/\/Telegram-proxy_mtm@mehdi.vact.ir:2083?mode=gun&security=reality&encryption=none&pbk=CWXxQcl33vnJNew9-YGs21-uKGs5oWdLn_R705IVoiE&fp=randomized&spx=%2F&type=grpc&serviceName=ID-PROXY_MTM-ID-PROXY_MTM-ID-PROXY_MTM-ID-PROXY_MTM-ID-PROXY_MTM-ID-PROXY_MTM-ID-PROXY_MTM&sni=refersion.com&sid=e946a4502f73d6f2#🔴%20|%20vless%20|%20@proxy_mtm%20|%200"
+    },
+    {
+        "channel": {
+            "username": "proxy_mtm"
+        },
+        "type": "reality",
+        "config": "vless:\/\/Telegram-proxy_mtm@mehdi.vact.ir:2083?mode=gun&security=reality&encryption=none&pbk=CWXxQcl33vnJNew9-YGs21-uKGs5oWdLn_R705IVoiE&fp=randomized&spx=%2F&type=grpc&serviceName=Proxy_mtm-Channel-Proxy_mtm-Channel-Proxy_mtm-Channel-Proxy_mtm-Channel-Proxy_mtm-Channel-Proxy_mtm&sni=refersion.com&sid=e946a4502f73d6f2#🔴%20|%20vless%20|%20@proxy_mtm%20|%201"
     },
     {
         "channel": {
@@ -3322,7 +3322,7 @@
             "username": ""
         },
         "type": "vless",
-        "config": "vless:\/\/#TVCzgivmentpf"
+        "config": "vless:\/\/#TVCnbkmjnbglu"
     },
     {
         "channel": {
