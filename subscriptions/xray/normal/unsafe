@@ -109,11 +109,11 @@ vless://72996cf0-59da-4c97-8acd-4fdaf0c49407@95.142.37.48:23393?security=none&en
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:24188?security=none&encryption=none&headerType=none&type=tcp#🔴%20|%20vless%20|%20@ServerNett%20|%200
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:43085?security=none&encryption=none&headerType=none&type=tcp#🔴%20|%20vless%20|%20@ServerNett%20|%204
 vless://ccf66150-dccc-42d0-8bba-513391a09f40@[2a01:4f8:c010:5aa8::1]:55242?security=none&encryption=none&headerType=none&type=tcp#🔴%20|%20vless%20|%20@ServerNett%20|%2011
-vless://b93d7dac-1430-4eef-ad55-967592b68e02@45.12.145.67:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🔴%20|%20vless%20|%20@V2rayng_Fast%20|%200
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638723765344751666.amsterdam-blk-dra.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🔴%20|%20vless%20|%20@V2rayng_Fast%20|%201
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638723765344752898.amsterdam-blk-dra.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🔴%20|%20vless%20|%20@V2rayng_Fast%20|%204
-vless://Parsashonam-149@[2a01:4f8:1c1b:26eb::1]:8888?security=none&encryption=none&headerType=none&type=tcp#🔴%20|%20vless%20|%20@V2rayng_Fast%20|%207
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638723765344747230.amsterdam-blk-dra.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🔴%20|%20vless%20|%20@V2rayng_Fast%20|%2010
+vless://b93d7dac-1430-4eef-ad55-967592b68e02@45.12.145.67:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🔴%20|%20vless%20|%20@V2rayng_Fast%20|%201
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638723765344751666.amsterdam-blk-dra.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🔴%20|%20vless%20|%20@V2rayng_Fast%20|%202
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638723765344752898.amsterdam-blk-dra.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🔴%20|%20vless%20|%20@V2rayng_Fast%20|%205
+vless://Parsashonam-149@[2a01:4f8:1c1b:26eb::1]:8888?security=none&encryption=none&headerType=none&type=tcp#🔴%20|%20vless%20|%20@V2rayng_Fast%20|%208
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638723765344747230.amsterdam-blk-dra.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🔴%20|%20vless%20|%20@V2rayng_Fast%20|%2011
 vless://telegram-id-ArV2ray@www.speedtest.net:2052?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D2052&security=none&encryption=none&host=www.speedtest.net.5.J.mehpow.iR.&type=ws#🔴%20|%20vless%20|%20@v2ray_swhil%20|%2034
 vless://telegram-id-ArV2ray@www.speedtest.net:8880?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D8880&security=none&encryption=none&host=www.speedtest.net.4.H.bahrane.iR.&type=ws#🔴%20|%20vless%20|%20@v2ray_swhil%20|%2039
 vless://telegram-id-ArV2ray@www.speedtest.net:2052?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D2052&security=none&encryption=none&host=www.speedtest.net.5.G.mehpow.iR.&type=ws#🔴%20|%20vless%20|%20@v2ray_swhil%20|%2040
@@ -191,8 +191,9 @@ vless://34dac174-e3f4-5d6e-987f-0942559c3404@94.131.98.90:2052?mode=gun&security
 vless://c9d8fc41-ddc6-49c8-ba2c-268ffd52ed0a@198.244.140.163:22671?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🔴%20|%20vless%20|%20@kingofilter%20|%202
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638723765344752898.amsterdam-blk-dra.info:8880?mode=gun&security=none&encryption=none&type=grpc#🔴%20|%20vless%20|%20@kingofilter%20|%204
 vless://4334573e-15b8-4376-94cf-a8aa0ce722b3@178.239.144.176:2015?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🔴%20|%20vless%20|%20@kingofilter%20|%2011
+vless://V2RAXX@EXPRESSVPN_420.fastly80-3.hosting-ip.com:80?path=%2FTelegram%2CV2RAXX%2CTelegram%2C%3Fed%3D2048&security=none&encryption=none&host=V2RAXX.ir&type=ws#🔴%20|%20vless%20|%20@kingofilter%20|%2017
 vless://SVNTEAM@151.101.194.133:80?type=ws&path=%2FSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%3Fed%3D8880&host=SVNTEAM.IR&security=none#🔴%20|%20vless%20|%20@SvnTeam%20|%203
 vless://e3eec9d9-ab70-4617-9e19-60860112c634@client.bluwave.ir:80?type=ws&host=Bluewave.ai&path=%2F%3Fed%3D1861&security=none#🔴%20|%20vless%20|%20@V2FETCH%20|%200
 vless://Telegram%3A%20%40OpenSSTPVpn@uk.ukrageshark.shop:56450?security=none&seed=Telegram%3A#🔴%20|%20vless%20|%20@OpenSSTPVpn%20|%200
 vless://Telegram%3A%40OpenSSTPVpn@uk.ukrageshark.shop:443?mode=auto&path=Telegram%3A#🔴%20|%20vless%20|%20@OpenSSTPVpn%20|%201
-vless://#TVCfoqopcmvtb
+vless://#TVCztffujfxar
