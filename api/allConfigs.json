@@ -2804,70 +2804,77 @@
             "username": "Outlinev2rayNG"
         },
         "type": "vless",
-        "config": "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.22:8880?mode=gun&security=none&encryption=none&type=grpc#🔴%20|%20vless%20|%20@Outlinev2rayNG%20|%200"
+        "config": "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.21:8880?mode=gun&security=none&encryption=none&type=grpc#🔴%20|%20vless%20|%20@Outlinev2rayNG%20|%200"
     },
     {
         "channel": {
             "username": "Outlinev2rayNG"
         },
         "type": "vless",
-        "config": "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@65.109.193.42:8880?mode=gun&security=none&encryption=none&type=grpc#🔴%20|%20vless%20|%20@Outlinev2rayNG%20|%201"
+        "config": "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.22:8880?mode=gun&security=none&encryption=none&type=grpc#🔴%20|%20vless%20|%20@Outlinev2rayNG%20|%201"
+    },
+    {
+        "channel": {
+            "username": "Outlinev2rayNG"
+        },
+        "type": "vless",
+        "config": "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@65.109.193.42:8880?mode=gun&security=none&encryption=none&type=grpc#🔴%20|%20vless%20|%20@Outlinev2rayNG%20|%202"
     },
     {
         "channel": {
             "username": "Outlinev2rayNG"
         },
         "type": "reality",
-        "config": "vless:\/\/9d0a75d2-f747-4afa-b43f-d208af9e8f9a@us01.ssr.ee:443?security=reality&encryption=none&pbk=Fz8HhyDXOLkw3NU59cbyvLvyZEiaMhjmHZ8P-R5RxF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=itunes.apple.com&sid=6ba85179e30d4fc2#🟢%20|%20vless%20|%20@Outlinev2rayNG%20|%202"
+        "config": "vless:\/\/9d0a75d2-f747-4afa-b43f-d208af9e8f9a@us01.ssr.ee:443?security=reality&encryption=none&pbk=Fz8HhyDXOLkw3NU59cbyvLvyZEiaMhjmHZ8P-R5RxF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=itunes.apple.com&sid=6ba85179e30d4fc2#🟢%20|%20vless%20|%20@Outlinev2rayNG%20|%203"
     },
     {
         "channel": {
             "username": "Outlinev2rayNG"
         },
         "type": "vless",
-        "config": "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.13:8880?mode=gun&security=none&encryption=none&type=grpc#🔴%20|%20vless%20|%20@Outlinev2rayNG%20|%203"
+        "config": "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.13:8880?mode=gun&security=none&encryption=none&type=grpc#🔴%20|%20vless%20|%20@Outlinev2rayNG%20|%204"
     },
     {
         "channel": {
             "username": "Outlinev2rayNG"
         },
         "type": "vless",
-        "config": "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@638721216101614817.amsterdam-blk-dra.info:8880?mode=gun&security=none&encryption=none&type=grpc#🔴%20|%20vless%20|%20@Outlinev2rayNG%20|%204"
+        "config": "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@638721216101614817.amsterdam-blk-dra.info:8880?mode=gun&security=none&encryption=none&type=grpc#🔴%20|%20vless%20|%20@Outlinev2rayNG%20|%205"
     },
     {
         "channel": {
             "username": "Outlinev2rayNG"
         },
         "type": "reality",
-        "config": "vless:\/\/9d0a75d2-f747-4afa-b43f-d208af9e8f9a@sg04.ssr.ee:55560?security=reality&encryption=none&pbk=Dvv84goWLMnFoZWWLI8xtEErCIao_XnzXUVz9ryVSAU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=itunes.apple.com&sid=6ba85179e30d4fc2#🟢%20|%20vless%20|%20@Outlinev2rayNG%20|%206"
+        "config": "vless:\/\/9d0a75d2-f747-4afa-b43f-d208af9e8f9a@sg04.ssr.ee:55560?security=reality&encryption=none&pbk=Dvv84goWLMnFoZWWLI8xtEErCIao_XnzXUVz9ryVSAU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=itunes.apple.com&sid=6ba85179e30d4fc2#🟢%20|%20vless%20|%20@Outlinev2rayNG%20|%207"
     },
     {
         "channel": {
             "username": "Outlinev2rayNG"
         },
         "type": "reality",
-        "config": "vless:\/\/9d0a75d2-f747-4afa-b43f-d208af9e8f9a@us02.ssr.ee:443?security=reality&encryption=none&pbk=AeJ40fWPYK3WSDtY_AGv3ewG_kwQvAoDtf3KIgk1DRU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=itunes.apple.com&sid=6ba85179e30d4fc2#🟢%20|%20vless%20|%20@Outlinev2rayNG%20|%207"
+        "config": "vless:\/\/9d0a75d2-f747-4afa-b43f-d208af9e8f9a@us02.ssr.ee:443?security=reality&encryption=none&pbk=AeJ40fWPYK3WSDtY_AGv3ewG_kwQvAoDtf3KIgk1DRU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=itunes.apple.com&sid=6ba85179e30d4fc2#🟢%20|%20vless%20|%20@Outlinev2rayNG%20|%208"
     },
     {
         "channel": {
             "username": "Outlinev2rayNG"
         },
         "type": "vless",
-        "config": "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@638723765344747230.amsterdam-blk-dra.info:8880?mode=gun&security=none&encryption=none&type=grpc#🔴%20|%20vless%20|%20@Outlinev2rayNG%20|%209"
+        "config": "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@638723765344747230.amsterdam-blk-dra.info:8880?mode=gun&security=none&encryption=none&type=grpc#🔴%20|%20vless%20|%20@Outlinev2rayNG%20|%2010"
     },
     {
         "channel": {
             "username": "Outlinev2rayNG"
         },
         "type": "reality",
-        "config": "vless:\/\/5badf258-0313-418d-b9e6-95a52eefcf00@45.196.233.58:443?security=reality&encryption=none&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=5badf258.com#🟢%20|%20vless%20|%20@Outlinev2rayNG%20|%2011"
+        "config": "vless:\/\/5badf258-0313-418d-b9e6-95a52eefcf00@45.196.233.58:443?security=reality&encryption=none&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=5badf258.com#🟢%20|%20vless%20|%20@Outlinev2rayNG%20|%2012"
     },
     {
         "channel": {
             "username": "Outlinev2rayNG"
         },
         "type": "vless",
-        "config": "vless:\/\/617d5079-9fae-494a-98ca-90da9e10cd70@159.89.45.81:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=arvancloud.com&type=ws#🔴%20|%20vless%20|%20@Outlinev2rayNG%20|%2012"
+        "config": "vless:\/\/617d5079-9fae-494a-98ca-90da9e10cd70@159.89.45.81:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=arvancloud.com&type=ws#🔴%20|%20vless%20|%20@Outlinev2rayNG%20|%2013"
     },
     {
         "channel": {
@@ -2881,28 +2888,35 @@
             "username": "FreakConfig"
         },
         "type": "reality",
-        "config": "vless:\/\/ec8a65ad-aafc-4095-9b8c-ea10890ca629@45.90.96.250:44441?security=reality&encryption=none&pbk=h-tx4d8yBKf5Cevu1bPJZwrSxT3kCkaMESHBIofaalo&headerType=none&fp=chrome&type=tcp&sni=tile.openstreetmap.org&sid=be4243#🟢%20|%20vless%20|%20@FreakConfig%20|%200"
+        "config": "vless:\/\/13626d29-6ccf-4d7f-93e8-19d21eb7578e@mehdi.vact.ir:2083?mode=gun&security=reality&encryption=none&pbk=AGJqBirLnXNaPZafTvgKKSRR14V83keXoXWUBDCqyGg&fp=randomized&spx=%2F&type=grpc&serviceName=ID-TELEGRAM-PROXY_MTM-ID-TELEGRAM-PROXY_MTM-ID-TELEGRAM-PROXY_MTM-ID-TELEGRAM-PROXY_MTM-ID-TELEGRAM-PROXY_MTM-ID-TELEGRAM-PROXY_MTM-ID-TELEGRAM-PROXY_MTM-ID-TELEGRAM-PROXY_MTM-PROXY_MTM&sni=refersion.com&sid=caa6ba10e8654f5d#🔴%20|%20vless%20|%20@FreakConfig%20|%200"
+    },
+    {
+        "channel": {
+            "username": "FreakConfig"
+        },
+        "type": "reality",
+        "config": "vless:\/\/ec8a65ad-aafc-4095-9b8c-ea10890ca629@45.90.96.250:44441?security=reality&encryption=none&pbk=h-tx4d8yBKf5Cevu1bPJZwrSxT3kCkaMESHBIofaalo&headerType=none&fp=chrome&type=tcp&sni=tile.openstreetmap.org&sid=be4243#🟢%20|%20vless%20|%20@FreakConfig%20|%201"
     },
     {
         "channel": {
             "username": "FreakConfig"
         },
         "type": "vless",
-        "config": "vless:\/\/1d86846c-5a27-43c8-8981-57bb75c82195@185.153.183.101:3237?security=none&encryption=none&headerType=none&type=tcp#🔴%20|%20vless%20|%20@FreakConfig%20|%201"
+        "config": "vless:\/\/1d86846c-5a27-43c8-8981-57bb75c82195@185.153.183.101:3237?security=none&encryption=none&headerType=none&type=tcp#🔴%20|%20vless%20|%20@FreakConfig%20|%202"
     },
     {
         "channel": {
             "username": "FreakConfig"
         },
         "type": "vless",
-        "config": "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.158:8880?mode=gun&security=none&encryption=none&type=grpc#🔴%20|%20vless%20|%20@FreakConfig%20|%203"
+        "config": "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.158:8880?mode=gun&security=none&encryption=none&type=grpc#🔴%20|%20vless%20|%20@FreakConfig%20|%204"
     },
     {
         "channel": {
             "username": "FreakConfig"
         },
         "type": "vless",
-        "config": "vless:\/\/61d27db4-7011-5cf4-b84e-abb721420ecb@94.131.104.66:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#🔴%20|%20vless%20|%20@FreakConfig%20|%204"
+        "config": "vless:\/\/61d27db4-7011-5cf4-b84e-abb721420ecb@94.131.104.66:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#🔴%20|%20vless%20|%20@FreakConfig%20|%205"
     },
     {
         "channel": {
