@@ -745,29 +745,36 @@
         "channel": {
             "username": "proxy_kafee"
         },
+        "type": "vless",
+        "config": "vless:\/\/4a7ff0e0-ff5d-4f89-a8e5-c3b078c63365@151.101.3.8:80?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=none&encryption=none&host=joinshhproxybedeeeee.ir&type=ws#🔴%20|%20vless%20|%20@proxy_kafee%20|%200"
+    },
+    {
+        "channel": {
+            "username": "proxy_kafee"
+        },
         "type": "reality",
-        "config": "vless:\/\/d45deab2-5e28-4ca9-b594-20b2fe775cfa@swedeeen.mehrdadsadaf.com:30756?mode=gun&security=reality&encryption=none&pbk=AZSptdvlWvvmKWEDTY56UsIcnTP8nGCafvPEQOozrxw&fp=chrome&type=grpc&serviceName=1300vless&sni=rosbalt.ru&sid=765e8e700426816c#🔴%20|%20vless%20|%20@proxy_kafee%20|%200"
+        "config": "vless:\/\/d45deab2-5e28-4ca9-b594-20b2fe775cfa@swedeeen.mehrdadsadaf.com:30756?mode=gun&security=reality&encryption=none&pbk=AZSptdvlWvvmKWEDTY56UsIcnTP8nGCafvPEQOozrxw&fp=chrome&type=grpc&serviceName=1300vless&sni=rosbalt.ru&sid=765e8e700426816c#🔴%20|%20vless%20|%20@proxy_kafee%20|%201"
     },
     {
         "channel": {
             "username": "proxy_kafee"
         },
         "type": "vless",
-        "config": "vless:\/\/Parsashonam-152@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2Fws%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#🔴%20|%20vless%20|%20@proxy_kafee%20|%201"
+        "config": "vless:\/\/Parsashonam-152@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2Fws%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#🔴%20|%20vless%20|%20@proxy_kafee%20|%202"
     },
     {
         "channel": {
             "username": " proxy_kafee "
         },
         "type": "vmess",
-        "config": "vmess:\/\/eyJhZGQiOiI0OS4xMi4xODguMjIyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjdkMTM5NDRmLWM2ZWMtNGMyZS04M2Q4LTM3MWM5Mzg2MGU4YiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjA1OTYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBAcHJveHlfa2FmZWUgfCAzIn0="
+        "config": "vmess:\/\/eyJhZGQiOiI0OS4xMi4xODguMjIyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjdkMTM5NDRmLWM2ZWMtNGMyZS04M2Q4LTM3MWM5Mzg2MGU4YiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjA1OTYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBAcHJveHlfa2FmZWUgfCA0In0="
     },
     {
         "channel": {
             "username": "proxy_kafee"
         },
         "type": "reality",
-        "config": "vless:\/\/06aa1d12-d67d-4579-b623-ae6c671c7796@Wedbaz-Sweden.zpowerio.ir:443?security=reality&encryption=none&pbk=fYduc27KzmdrSI1S_LCBUxk3zDSe69dA5uKieS2oUEE&headerType=none&fp=chrome&type=tcp&sni=refersion.com#🟢%20|%20vless%20|%20@proxy_kafee%20|%204"
+        "config": "vless:\/\/06aa1d12-d67d-4579-b623-ae6c671c7796@Wedbaz-Sweden.zpowerio.ir:443?security=reality&encryption=none&pbk=fYduc27KzmdrSI1S_LCBUxk3zDSe69dA5uKieS2oUEE&headerType=none&fp=chrome&type=tcp&sni=refersion.com#🟢%20|%20vless%20|%20@proxy_kafee%20|%205"
     },
     {
         "channel": {
@@ -2885,13 +2892,6 @@
     },
     {
         "channel": {
-            "username": "Outlinev2rayNG"
-        },
-        "type": "vless",
-        "config": "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.13:8880?mode=gun&security=none&encryption=none&type=grpc#🔴%20|%20vless%20|%20@Outlinev2rayNG%20|%2012"
-    },
-    {
-        "channel": {
             "username": "v2rayng_vpnrog"
         },
         "type": "vless",
@@ -3316,6 +3316,13 @@
         },
         "type": "vless",
         "config": "vless:\/\/v2rayng__76@upgrade.bia2bax.shop:80?path=%2F%3Fed%3D2053&security=none&encryption=none&host=upgrade.bia2bax.shop&type=ws#🔴%20|%20vless%20|%20@kingofilter%20|%202"
+    },
+    {
+        "channel": {
+            "username": "kingofilter"
+        },
+        "type": "vless",
+        "config": "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.13:8880?mode=gun&security=none&encryption=none&type=grpc#🔴%20|%20vless%20|%20@kingofilter%20|%203"
     },
     {
         "channel": {
