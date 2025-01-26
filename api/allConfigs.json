@@ -1793,6 +1793,13 @@
     },
     {
         "channel": {
+            "username": "ServerNett"
+        },
+        "type": "vless",
+        "config": "vless:\/\/TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:25658?security=none&encryption=none&headerType=none&type=tcp#🔴%20|%20vless%20|%20@ServerNett%20|%2013"
+    },
+    {
+        "channel": {
             "username": "V2rayng_Fast"
         },
         "type": "vless",
@@ -3050,13 +3057,6 @@
         },
         "type": "reality",
         "config": "vless:\/\/5b67072c-e76c-45d7-b38b-e39e332ecad0@c2.vact.ir:2083?mode=gun&security=reality&encryption=none&authority=Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray&pbk=IXXrQcqXgzopBeSGpCO_u53keeKZaN1AoOzdyLA-Mzo&fp=randomized&spx=%2F&type=grpc&sni=refersion.com&sid=11a4b6bca8#🔴%20|%20vless%20|%20@nofiltering2%20|%205"
-    },
-    {
-        "channel": {
-            "username": "nofiltering2"
-        },
-        "type": "vless",
-        "config": "vless:\/\/%40v2rayng_vpnn@mmd.fast.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mmd3.ir&type=ws#🔴%20|%20vless%20|%20@nofiltering2%20|%207"
     },
     {
         "channel": {
