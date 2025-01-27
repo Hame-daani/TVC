@@ -3214,6 +3214,20 @@
     },
     {
         "channel": {
+            "username": "kingofilter"
+        },
+        "type": "reality",
+        "config": "vless:\/\/8bca284c-d2f2-4367-999c-5f490a872c2d@37.27.3.97:2052?mode=gun&security=reality&encryption=none&authority=Telegram+%3A&pbk=BamXEb50W1rXENIC96WfSvMiFGE7hnbu_GcXkBv-8H8&fp=chrome&type=grpc&serviceName=2052vless&sni=wordpress.org&sid=4156caa9#🔴%20|%20vless%20|%20@kingofilter%20|%2015"
+    },
+    {
+        "channel": {
+            "username": "kingofilter"
+        },
+        "type": "vless",
+        "config": "vless:\/\/4334573e-15b8-4376-94cf-a8aa0ce722b3@178.239.144.176:2015?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🔴%20|%20vless%20|%20@kingofilter%20|%2016"
+    },
+    {
+        "channel": {
             "username": "SvnTeam"
         },
         "type": "vless",
