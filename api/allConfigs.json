@@ -771,13 +771,6 @@
     },
     {
         "channel": {
-            "username": "proxy_kafee"
-        },
-        "type": "reality",
-        "config": "vless:\/\/9d0a75d2-f747-4afa-b43f-d208af9e8f9a@193.123.90.77:443?security=reality&encryption=none&pbk=3tyvN86mGzMnYhAMX06SJMYSWhG02rqzTr7GjS-OaWI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=itunes.apple.com&sid=6ba85179e30d4fc2#🟢%20|%20vless%20|%20@proxy_kafee%20|%204"
-    },
-    {
-        "channel": {
             "username": "v2logy"
         },
         "type": "vless",
@@ -2140,6 +2133,13 @@
         },
         "type": "vless",
         "config": "vless:\/\/0295517a-ad9f-4b35-a811-2adec4133482@hajlab.ucdavis.edu:443?path=%2F&security=tls&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v01.feadlenetworkv2sa.net&type=ws&sni=hajlab.ucdavis.edu#🔴%20|%20vless%20|%20@vmess_vless_v2rayng%20|%203"
+    },
+    {
+        "channel": {
+            "username": "VmessProtocol"
+        },
+        "type": "reality",
+        "config": "vless:\/\/9d0a75d2-f747-4afa-b43f-d208af9e8f9a@193.123.90.77:443?security=reality&encryption=none&pbk=3tyvN86mGzMnYhAMX06SJMYSWhG02rqzTr7GjS-OaWI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=itunes.apple.com&sid=6ba85179e30d4fc2#🟢%20|%20vless%20|%20@VmessProtocol%20|%200"
     },
     {
         "channel": {
