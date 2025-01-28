@@ -41,6 +41,8 @@ trojan://telegram-id-directvpn@13.50.123.124:22222?security=tls&alpn=http%2F1.1&
 trojan://telegram-id-directvpn@16.170.72.244:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@DirectVPN%20|%2015
 trojan://telegram-id-directvpn@3.75.105.166:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@DirectVPN%20|%2016
 trojan://telegram-id-directvpn@52.57.54.204:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🟢%20|%20trojan%20|%20@DirectVPN%20|%2017
+trojan://telegram-id-privatevpns@18.157.143.130:22222?encryption=none&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=raw&headertype=none#🔴%20|%20trojan%20|%20@DeamNet_Proxy%20|%207
+trojan://2cba4104747d49d18319e5ade1b93ab5@161.35.34.48:443?security=tls&headerType=none&type=tcp&sni=yourjobnavigator.online#🟢%20|%20trojan%20|%20@ShadowProxy66%20|%2012
 trojan://bpb-trojan@www.vpslook.com:443?path=%2Ftr%3Fed%3D2560&security=tls&alpn=h3&host=bpb-hd.aaronchin.xyz&fp=randomized&type=ws&sni=bpb-hd.aaronchin.xyz#🔴%20|%20trojan%20|%20@vless_vmess%20|%205
 trojan://bpb-trojan@141.101.113.119:443?path=%2Ftr%3Fed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#🔴%20|%20trojan%20|%20@vless_vmess%20|%2015
 trojan://3723507166611775488@sensible-ocelot.boa152.lol:443?type=tcp&security=tls&sni=sensible-ocelot.boa152.lol&allowInsecure=1#🔴%20|%20trojan%20|%20@VmessProtocol%20|%2010
