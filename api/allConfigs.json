@@ -1852,56 +1852,63 @@
             "username": "v2ray1_ng"
         },
         "type": "vless",
-        "config": "vless:\/\/c935aba0-8835-426a-a585-225baee13f70@188.34.201.88:16072?mode=gun&security=none&encryption=none&type=grpc#🔴%20|%20vless%20|%20@v2ray1_ng%20|%200"
+        "config": "vless:\/\/a79f88dc-17e0-4438-92e7-f64e50154e0a@188.245.208.177:26745?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🔴%20|%20vless%20|%20@v2ray1_ng%20|%200"
     },
     {
         "channel": {
             "username": "v2ray1_ng"
         },
         "type": "vless",
-        "config": "vless:\/\/726e817b-0f4a-42a6-b881-dba80d11dcc8@123568.com:80?path=%2F&security=none&encryption=none&host=hormozvpn.net&type=ws#🔴%20|%20vless%20|%20@v2ray1_ng%20|%201"
+        "config": "vless:\/\/c935aba0-8835-426a-a585-225baee13f70@188.34.201.88:16072?mode=gun&security=none&encryption=none&type=grpc#🔴%20|%20vless%20|%20@v2ray1_ng%20|%201"
     },
     {
         "channel": {
             "username": "v2ray1_ng"
         },
         "type": "vless",
-        "config": "vless:\/\/d5012012-a850-49fc-bb81-17a4bf6876b5@www.speedtest.net:443?mode=auto&path=%2Fannn%3Fed%3D443&security=tls&alpn=h3&encryption=none&host=Kasler.lol&fp=chrome&type=xhttp&sni=Kasler.lol#🔴%20|%20vless%20|%20@v2ray1_ng%20|%202"
+        "config": "vless:\/\/726e817b-0f4a-42a6-b881-dba80d11dcc8@123568.com:80?path=%2F&security=none&encryption=none&host=hormozvpn.net&type=ws#🔴%20|%20vless%20|%20@v2ray1_ng%20|%202"
     },
     {
         "channel": {
             "username": "v2ray1_ng"
         },
         "type": "vless",
-        "config": "vless:\/\/900466aa-aa08-49ed-bf40-d740e5c7d5e7@WWW.SPEEDTEST.NET:2052?security=none&encryption=none&host=FN.CafeBazarZzZ.IP-DDNS.COM&type=httpupgrade#🔴%20|%20vless%20|%20@v2ray1_ng%20|%204"
+        "config": "vless:\/\/d5012012-a850-49fc-bb81-17a4bf6876b5@www.speedtest.net:443?mode=auto&path=%2Fannn%3Fed%3D443&security=tls&alpn=h3&encryption=none&host=Kasler.lol&fp=chrome&type=xhttp&sni=Kasler.lol#🔴%20|%20vless%20|%20@v2ray1_ng%20|%203"
+    },
+    {
+        "channel": {
+            "username": "v2ray1_ng"
+        },
+        "type": "vless",
+        "config": "vless:\/\/900466aa-aa08-49ed-bf40-d740e5c7d5e7@WWW.SPEEDTEST.NET:2052?security=none&encryption=none&host=FN.CafeBazarZzZ.IP-DDNS.COM&type=httpupgrade#🔴%20|%20vless%20|%20@v2ray1_ng%20|%205"
     },
     {
         "channel": {
             "username": " v2ray1_ng "
         },
         "type": "vmess",
-        "config": "vmess:\/\/eyJhZGQiOiIxMDQuMTkuMTUwLjEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJtY2kubXRuLmlyLmNvbS5vcmcubmV0LmJ1eWtpdC5pci4iLCJpZCI6Ijk0ZjMzMmIwLWM1ZDMtNDUzMS1hMWQ2LTZlNjM1OGNjNmM3MiIsIm5ldCI6Imh0dHB1cGdyYWRlIiwicGF0aCI6IlwvZDNkM0xtbHlZVzVvYjNOMExtTnZiUT09P2VkPTI1NjAiLCJwb3J0IjoiMjA5NSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIiLCJwcyI6Ilx1ZDgzZFx1ZGZlMiB8IHZtZXNzIHwgQHYycmF5MV9uZyB8IDYifQ=="
+        "config": "vmess:\/\/eyJhZGQiOiIxMDQuMTkuMTUwLjEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJtY2kubXRuLmlyLmNvbS5vcmcubmV0LmJ1eWtpdC5pci4iLCJpZCI6Ijk0ZjMzMmIwLWM1ZDMtNDUzMS1hMWQ2LTZlNjM1OGNjNmM3MiIsIm5ldCI6Imh0dHB1cGdyYWRlIiwicGF0aCI6IlwvZDNkM0xtbHlZVzVvYjNOMExtTnZiUT09P2VkPTI1NjAiLCJwb3J0IjoiMjA5NSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIiLCJwcyI6Ilx1ZDgzZFx1ZGZlMiB8IHZtZXNzIHwgQHYycmF5MV9uZyB8IDcifQ=="
     },
     {
         "channel": {
             "username": "v2ray1_ng"
         },
         "type": "reality",
-        "config": "vless:\/\/9d0a75d2-f747-4afa-b43f-d208af9e8f9a@db02.ssr.ee:443?security=reality&encryption=none&pbk=0Vvc6EFXPQHWWqyhG4wek-MEh_q6a9CDMY7U-TSHGV4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=itunes.apple.com&sid=6ba85179e30d4fc2#🟢%20|%20vless%20|%20@v2ray1_ng%20|%207"
+        "config": "vless:\/\/9d0a75d2-f747-4afa-b43f-d208af9e8f9a@db02.ssr.ee:443?security=reality&encryption=none&pbk=0Vvc6EFXPQHWWqyhG4wek-MEh_q6a9CDMY7U-TSHGV4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=itunes.apple.com&sid=6ba85179e30d4fc2#🟢%20|%20vless%20|%20@v2ray1_ng%20|%208"
     },
     {
         "channel": {
             "username": "v2ray1_ng"
         },
         "type": "vless",
-        "config": "vless:\/\/c492ed32-d953-572f-bdc3-106a1dd2bbca@146.19.106.10:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc&sni=vpnAndroid2.vpnAndroid2.vpnAndroid2.site#🔴%20|%20vless%20|%20@v2ray1_ng%20|%209"
+        "config": "vless:\/\/c492ed32-d953-572f-bdc3-106a1dd2bbca@146.19.106.10:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc&sni=vpnAndroid2.vpnAndroid2.vpnAndroid2.site#🔴%20|%20vless%20|%20@v2ray1_ng%20|%2010"
     },
     {
         "channel": {
             "username": "v2ray1_ng"
         },
         "type": "vless",
-        "config": "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.187:8880?mode=gun&security=none&encryption=none&type=grpc#🔴%20|%20vless%20|%20@v2ray1_ng%20|%2011"
+        "config": "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.187:8880?mode=gun&security=none&encryption=none&type=grpc#🔴%20|%20vless%20|%20@v2ray1_ng%20|%2012"
     },
     {
         "channel": {
@@ -2654,13 +2661,6 @@
     },
     {
         "channel": {
-            "username": "Outlinev2rayNG"
-        },
-        "type": "reality",
-        "config": "vless:\/\/d98b0880-99ab-4db4-98f4-17be27aaa972@147.45.126.221:443?security=reality&encryption=none&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&headerType=none&fp=chrome&type=tcp&sni=google.com#🟢%20|%20vless%20|%20@Outlinev2rayNG%20|%205"
-    },
-    {
-        "channel": {
             "username": "v2rayng_vpnrog"
         },
         "type": "vless",
@@ -2783,7 +2783,7 @@
             "username": "mehrosaboran"
         },
         "type": "reality",
-        "config": "vless:\/\/a4707c1a-14c6-47a9-e99e-7acf8d32d203@Amin11.auiyf.com:443?type=grpc&serviceName=%2F%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM&authority=&security=reality%3D%2F%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran&pbk=UUYC2_gNNVUIpGrNghmPKdJZRwbF0elm-cpKW8W2cWU&fp=chrome&sni=www.cdn77.com&sid=&spx=%2F#🔴%20|%20vless%20|%20@mehrosaboran%20|%201"
+        "config": "vless:\/\/adcf449b-3b1a-475d-a394-0a539113411c@44.204.200.90:8080?mode=auto&path=%2F%3FJOKERRVPNTelEgram+%3A&security=reality&encryption=none%3D%2F%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran&pbk=rxXEdeqeS9T5dxIYEObsr5eUO5rRqvau6_GOjV1Igz8&host=api.openai.com&fp=chrome&spx=%2FJOin.%40JOKERRVPN&type=xhttp&sni=api.openai.com&sid=76ca2e#🔴%20|%20vless%20|%20@mehrosaboran%20|%201"
     },
     {
         "channel": {
@@ -2812,6 +2812,13 @@
         },
         "type": "vless",
         "config": "vless:\/\/4f57d8fc-cb21-44d9-b108-611c610dce88@www.speedmeter.life:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=&encryption=none%3D%2F%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran&host=Www.speedtest.net.sPeedtest2.sbs.&type=ws#🔴%20|%20vless%20|%20@mehrosaboran%20|%205"
+    },
+    {
+        "channel": {
+            "username": "mehrosaboran"
+        },
+        "type": "reality",
+        "config": "vless:\/\/a4707c1a-14c6-47a9-e99e-7acf8d32d203@Amin11.auiyf.com:443?type=grpc&serviceName=%2F%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM&authority=&security=reality%3D%2F%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran&pbk=UUYC2_gNNVUIpGrNghmPKdJZRwbF0elm-cpKW8W2cWU&fp=chrome&sni=www.cdn77.com&sid=&spx=%2F#🔴%20|%20vless%20|%20@mehrosaboran%20|%206"
     },
     {
         "channel": {
