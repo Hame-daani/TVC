@@ -1296,27 +1296,6 @@
     },
     {
         "channel": {
-            "username": "DeamNet_Proxy"
-        },
-        "type": "vless",
-        "config": "vless:\/\/e4676a6c-cae2-4dc6-8cf9-a3a91c53ea2a@91.107.255.95:443?encryption=none&security=tls&sni=dd5.atelienaderr.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=ws&headertype=none&host=dd5.atelienaderr.ir&path=%2F#🔴%20|%20vless%20|%20@DeamNet_Proxy%20|%2013"
-    },
-    {
-        "channel": {
-            "username": "DeamNet_Proxy"
-        },
-        "type": "vless",
-        "config": "vless:\/\/62bcfdc6-27ce-4586-a09f-336d81864d06@zed.chatoochak.com:2096?encryption=none&security=none&type=raw&headertype=none#🔴%20|%20vless%20|%20@DeamNet_Proxy%20|%2014"
-    },
-    {
-        "channel": {
-            "username": "DeamNet_Proxy"
-        },
-        "type": "vless",
-        "config": "vless:\/\/e1d3a347-d380-4ef6-8145-ae76318002d1@104.18.15.19:80?encryption=none&security=none&type=ws&headertype=none&host=0110.wdpkomyt.workers.dev&path=%2F%3Fed%3D2560#🔴%20|%20vless%20|%20@DeamNet_Proxy%20|%2015"
-    },
-    {
-        "channel": {
             "username": "prrofile_purple"
         },
         "type": "vless",
@@ -1606,22 +1585,22 @@
         "channel": {
             "username": "V2rayng_Fast"
         },
-        "type": "vless",
-        "config": "vless:\/\/9cbcdfcc-1268-42c3-b03b-485943ff3853@hajlab.ucdavis.edu:443?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=tls&encryption=none&host=joinshhproxybedeeeee.ir&type=ws&sni=hajlab.ucdavis.edu#🔴%20|%20vless%20|%20@V2rayng_Fast%20|%200"
+        "type": "reality",
+        "config": "vless:\/\/66924fa3-47cf-4272-a290-9bd476ebc6cd@45.95.233.8:2040?security=reality&encryption=none&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&headerType=none&fp=chrome&type=tcp&sni=fr.ign.com#🟢%20|%20vless%20|%20@V2rayng_Fast%20|%200"
     },
     {
         "channel": {
             "username": "V2rayng_Fast"
         },
         "type": "vless",
-        "config": "vless:\/\/c935aba0-8835-426a-a585-225baee13f70@best1.bestshop10.ir:16072?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🔴%20|%20vless%20|%20@V2rayng_Fast%20|%202"
+        "config": "vless:\/\/9cbcdfcc-1268-42c3-b03b-485943ff3853@hajlab.ucdavis.edu:443?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=tls&encryption=none&host=joinshhproxybedeeeee.ir&type=ws&sni=hajlab.ucdavis.edu#🔴%20|%20vless%20|%20@V2rayng_Fast%20|%201"
     },
     {
         "channel": {
             "username": "V2rayng_Fast"
         },
         "type": "vless",
-        "config": "vless:\/\/900466aa-aa08-49ed-bf40-d740e5c7d5e7@WWW.SPEEDTEST.NET:2052?path=%2F&security=none&encryption=none&host=FN.CafeBazarZzZ.IP-DDNS.COM&type=httpupgrade#🔴%20|%20vless%20|%20@V2rayng_Fast%20|%203"
+        "config": "vless:\/\/c935aba0-8835-426a-a585-225baee13f70@best1.bestshop10.ir:16072?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🔴%20|%20vless%20|%20@V2rayng_Fast%20|%203"
     },
     {
         "channel": {
@@ -1769,13 +1748,6 @@
         },
         "type": "vless",
         "config": "vless:\/\/9279b428-b53c-42a9-8b30-ed1f6f8af2be@MSV2RAY.fastly80-3.hosting-ip.com:80?path=%2FMsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray%3Fed%3D80&security=none&encryption=none&host=6.fidsxss7x.iR&type=ws#🔴%20|%20vless%20|%20@MsV2ray%20|%200"
-    },
-    {
-        "channel": {
-            "username": "v2ray1_ng"
-        },
-        "type": "reality",
-        "config": "vless:\/\/66924fa3-47cf-4272-a290-9bd476ebc6cd@45.95.233.8:2040?security=reality&encryption=none&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&headerType=none&fp=chrome&type=tcp&sni=fr.ign.com#🟢%20|%20vless%20|%20@v2ray1_ng%20|%200"
     },
     {
         "channel": {
