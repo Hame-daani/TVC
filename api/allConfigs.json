@@ -1282,20 +1282,6 @@
     },
     {
         "channel": {
-            "username": "DeamNet_Proxy"
-        },
-        "type": "vless",
-        "config": "vless:\/\/483a572d-38a8-4b59-942f-76b0e94e9073@support.zoom.us:80?encryption=none&security=none&type=ws&headertype=none&host=free.darkshadoww.shop&path=%2F#🔴%20|%20vless%20|%20@DeamNet_Proxy%20|%2011"
-    },
-    {
-        "channel": {
-            "username": "DeamNet_Proxy"
-        },
-        "type": "vless",
-        "config": "vless:\/\/900466aa-aa08-49ed-bf40-d740e5c7d5e7@WWW.SPEEDTEST.NET:2052?encryption=none&security=none&type=httpupgrade&headertype=none&host=FN.CafeBazarZzZ.IP-DDNS.COM&path=%2F#🔴%20|%20vless%20|%20@DeamNet_Proxy%20|%2012"
-    },
-    {
-        "channel": {
             "username": "prrofile_purple"
         },
         "type": "vless",
@@ -1867,13 +1853,6 @@
         },
         "type": "vmess",
         "config": "vmess:\/\/eyJhZGQiOiIxMDQuMTkuMTUwLjEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJtY2kubXRuLmlyLmNvbS5vcmcubmV0LmJ1eWtpdC5pci4iLCJpZCI6Ijk0ZjMzMmIwLWM1ZDMtNDUzMS1hMWQ2LTZlNjM1OGNjNmM3MiIsIm5ldCI6Imh0dHB1cGdyYWRlIiwicGF0aCI6IlwvZDNkM0xtbHlZVzVvYjNOMExtTnZiUT09P2VkPTI1NjAiLCJwb3J0IjoiMjA5NSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIiLCJwcyI6Ilx1ZDgzZFx1ZGZlMiB8IHZtZXNzIHwgQHYycmF5MV9uZyB8IDkifQ=="
-    },
-    {
-        "channel": {
-            "username": "v2ray1_ng"
-        },
-        "type": "reality",
-        "config": "vless:\/\/9d0a75d2-f747-4afa-b43f-d208af9e8f9a@db02.ssr.ee:443?security=reality&encryption=none&pbk=0Vvc6EFXPQHWWqyhG4wek-MEh_q6a9CDMY7U-TSHGV4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=itunes.apple.com&sid=6ba85179e30d4fc2#🟢%20|%20vless%20|%20@v2ray1_ng%20|%2010"
     },
     {
         "channel": {
